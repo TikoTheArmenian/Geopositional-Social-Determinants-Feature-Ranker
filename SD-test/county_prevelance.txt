@@ -1,0 +1,9423 @@
+Chattahoochee	GA	3.5	
+  
+3.5 - 6.9 (668)
+Arlington	VA	3.6	
+  
+3.5 - 6.9 (668)
+District of Columbia	DC	3.9	
+  
+3.5 - 6.9 (668)
+Utah	UT	4.0	
+  
+3.5 - 6.9 (668)
+Loudoun	VA	4.1	
+  
+3.5 - 6.9 (668)
+Denver	CO	4.1	
+  
+3.5 - 6.9 (668)
+Madison	ID	4.2	
+  
+3.5 - 6.9 (668)
+Riley	KS	4.3	
+  
+3.5 - 6.9 (668)
+Douglas	CO	4.3	
+  
+3.5 - 6.9 (668)
+Alexandria	VA	4.3	
+  
+3.5 - 6.9 (668)
+Falls Church	VA	4.3	
+  
+3.5 - 6.9 (668)
+King	WA	4.4	
+  
+3.5 - 6.9 (668)
+Santa Clara	CA	4.4	
+  
+3.5 - 6.9 (668)
+Broomfield	CO	4.5	
+  
+3.5 - 6.9 (668)
+Dane	WI	4.5	
+  
+3.5 - 6.9 (668)
+Albany	WY	4.5	
+  
+3.5 - 6.9 (668)
+Davis	UT	4.5	
+  
+3.5 - 6.9 (668)
+Travis	TX	4.5	
+  
+3.5 - 6.9 (668)
+Cache	UT	4.6	
+  
+3.5 - 6.9 (668)
+Fairfax County	VA	4.6	
+  
+3.5 - 6.9 (668)
+Prince William	VA	4.6	
+  
+3.5 - 6.9 (668)
+San Francisco	CA	4.6	
+  
+3.5 - 6.9 (668)
+Aleutians West	AK	4.6	
+  
+3.5 - 6.9 (668)
+Geary	KS	4.6	
+  
+3.5 - 6.9 (668)
+Kendall	IL	4.6	
+  
+3.5 - 6.9 (668)
+Gallatin	MT	4.6	
+  
+3.5 - 6.9 (668)
+Pulaski	MO	4.7	
+  
+3.5 - 6.9 (668)
+Suffolk	MA	4.7	
+  
+3.5 - 6.9 (668)
+Multnomah	OR	4.7	
+  
+3.5 - 6.9 (668)
+Washington	OR	4.7	
+  
+3.5 - 6.9 (668)
+Dallas	IA	4.7	
+  
+3.5 - 6.9 (668)
+Johnson	IA	4.7	
+  
+3.5 - 6.9 (668)
+Story	IA	4.7	
+  
+3.5 - 6.9 (668)
+Fairbanks North Star	AK	4.7	
+  
+3.5 - 6.9 (668)
+Gunnison	CO	4.7	
+  
+3.5 - 6.9 (668)
+Fredericksburg	VA	4.7	
+  
+3.5 - 6.9 (668)
+Whitman	WA	4.7	
+  
+3.5 - 6.9 (668)
+Brookings	SD	4.7	
+  
+3.5 - 6.9 (668)
+Brazos	TX	4.8	
+  
+3.5 - 6.9 (668)
+Salt Lake	UT	4.8	
+  
+3.5 - 6.9 (668)
+Tooele	UT	4.8	
+  
+3.5 - 6.9 (668)
+Collin	TX	4.8	
+  
+3.5 - 6.9 (668)
+Denton	TX	4.8	
+  
+3.5 - 6.9 (668)
+Manassas Park	VA	4.8	
+  
+3.5 - 6.9 (668)
+Stafford	VA	4.8	
+  
+3.5 - 6.9 (668)
+El Paso	CO	4.8	
+  
+3.5 - 6.9 (668)
+Arapahoe	CO	4.8	
+  
+3.5 - 6.9 (668)
+Alameda	CA	4.8	
+  
+3.5 - 6.9 (668)
+Hudson	NJ	4.8	
+  
+3.5 - 6.9 (668)
+Los Alamos	NM	4.8	
+  
+3.5 - 6.9 (668)
+Onslow	NC	4.8	
+  
+3.5 - 6.9 (668)
+Wake	NC	4.8	
+  
+3.5 - 6.9 (668)
+Howard	MD	4.8	
+  
+3.5 - 6.9 (668)
+Middlesex	MA	4.9	
+  
+3.5 - 6.9 (668)
+Mecklenburg	NC	4.9	
+  
+3.5 - 6.9 (668)
+Cass	ND	4.9	
+  
+3.5 - 6.9 (668)
+Boulder	CO	4.9	
+  
+3.5 - 6.9 (668)
+San Mateo	CA	4.9	
+  
+3.5 - 6.9 (668)
+Eagle	CO	4.9	
+  
+3.5 - 6.9 (668)
+Anchorage	AK	4.9	
+  
+3.5 - 6.9 (668)
+Summit	CO	4.9	
+  
+3.5 - 6.9 (668)
+Honolulu	HI	4.9	
+  
+3.5 - 6.9 (668)
+Harrisonburg	VA	4.9	
+  
+3.5 - 6.9 (668)
+Charlottesville	VA	4.9	
+  
+3.5 - 6.9 (668)
+Fort Bend	TX	4.9	
+  
+3.5 - 6.9 (668)
+Clay	SD	4.9	
+  
+3.5 - 6.9 (668)
+Loving	TX	5.0	
+  
+3.5 - 6.9 (668)
+Summit	UT	5.0	
+  
+3.5 - 6.9 (668)
+Williamson	TX	5.0	
+  
+3.5 - 6.9 (668)
+Lexington	VA	5.0	
+  
+3.5 - 6.9 (668)
+Norfolk	VA	5.0	
+  
+3.5 - 6.9 (668)
+Adams	CO	5.0	
+  
+3.5 - 6.9 (668)
+Johnson	KS	5.0	
+  
+3.5 - 6.9 (668)
+Douglas	KS	5.0	
+  
+3.5 - 6.9 (668)
+Williams	ND	5.0	
+  
+3.5 - 6.9 (668)
+New York	NY	5.0	
+  
+3.5 - 6.9 (668)
+Sarpy	NE	5.0	
+  
+3.5 - 6.9 (668)
+Carver	MN	5.0	
+  
+3.5 - 6.9 (668)
+Scott	MN	5.0	
+  
+3.5 - 6.9 (668)
+Washtenaw	MI	5.1	
+  
+3.5 - 6.9 (668)
+Hennepin	MN	5.1	
+  
+3.5 - 6.9 (668)
+Norfolk	MA	5.1	
+  
+3.5 - 6.9 (668)
+Douglas	NE	5.1	
+  
+3.5 - 6.9 (668)
+Tompkins	NY	5.1	
+  
+3.5 - 6.9 (668)
+Hamilton	IN	5.1	
+  
+3.5 - 6.9 (668)
+Champaign	IL	5.1	
+  
+3.5 - 6.9 (668)
+Yolo	CA	5.1	
+  
+3.5 - 6.9 (668)
+Jefferson	CO	5.1	
+  
+3.5 - 6.9 (668)
+Kodiak Island	AK	5.1	
+  
+3.5 - 6.9 (668)
+Forsyth	GA	5.1	
+  
+3.5 - 6.9 (668)
+Fulton	GA	5.1	
+  
+3.5 - 6.9 (668)
+Manassas	VA	5.1	
+  
+3.5 - 6.9 (668)
+Radford	VA	5.1	
+  
+3.5 - 6.9 (668)
+Fairfax City	VA	5.1	
+  
+3.5 - 6.9 (668)
+Teton	WY	5.1	
+  
+3.5 - 6.9 (668)
+Wasatch	UT	5.1	
+  
+3.5 - 6.9 (668)
+Morgan	UT	5.1	
+  
+3.5 - 6.9 (668)
+Chittenden	VT	5.1	
+  
+3.5 - 6.9 (668)
+Midland	TX	5.1	
+  
+3.5 - 6.9 (668)
+Hays	TX	5.1	
+  
+3.5 - 6.9 (668)
+Montgomery	TN	5.2	
+  
+3.5 - 6.9 (668)
+Montgomery	VA	5.2	
+  
+3.5 - 6.9 (668)
+Liberty	GA	5.2	
+  
+3.5 - 6.9 (668)
+Cobb	GA	5.2	
+  
+3.5 - 6.9 (668)
+Larimer	CO	5.2	
+  
+3.5 - 6.9 (668)
+Orange	NC	5.2	
+  
+3.5 - 6.9 (668)
+Ward	ND	5.2	
+  
+3.5 - 6.9 (668)
+Lancaster	NE	5.2	
+  
+3.5 - 6.9 (668)
+Montgomery	MD	5.2	
+  
+3.5 - 6.9 (668)
+Prince George's	MD	5.2	
+  
+3.5 - 6.9 (668)
+Sherburne	MN	5.2	
+  
+3.5 - 6.9 (668)
+Benton	OR	5.3	
+  
+3.5 - 6.9 (668)
+Durham	NC	5.3	
+  
+3.5 - 6.9 (668)
+Lake	CO	5.3	
+  
+3.5 - 6.9 (668)
+San Diego	CA	5.3	
+  
+3.5 - 6.9 (668)
+Weld	CO	5.3	
+  
+3.5 - 6.9 (668)
+Virginia Beach	VA	5.3	
+  
+3.5 - 6.9 (668)
+Snohomish	WA	5.3	
+  
+3.5 - 6.9 (668)
+Lincoln	SD	5.3	
+  
+3.5 - 6.9 (668)
+Coryell	TX	5.3	
+  
+3.5 - 6.9 (668)
+Weber	UT	5.3	
+  
+3.5 - 6.9 (668)
+Rockwall	TX	5.3	
+  
+3.5 - 6.9 (668)
+Rutherford	TN	5.4	
+  
+3.5 - 6.9 (668)
+Williamson	TN	5.4	
+  
+3.5 - 6.9 (668)
+Williamsburg	VA	5.4	
+  
+3.5 - 6.9 (668)
+Franklin	WA	5.4	
+  
+3.5 - 6.9 (668)
+Lynchburg	VA	5.4	
+  
+3.5 - 6.9 (668)
+San Miguel	CO	5.4	
+  
+3.5 - 6.9 (668)
+Pitkin	CO	5.4	
+  
+3.5 - 6.9 (668)
+Clarke	GA	5.4	
+  
+3.5 - 6.9 (668)
+Bryan	GA	5.4	
+  
+3.5 - 6.9 (668)
+Gwinnett	GA	5.4	
+  
+3.5 - 6.9 (668)
+Orange	CA	5.4	
+  
+3.5 - 6.9 (668)
+Latah	ID	5.4	
+  
+3.5 - 6.9 (668)
+DuPage	IL	5.4	
+  
+3.5 - 6.9 (668)
+Monroe	IN	5.4	
+  
+3.5 - 6.9 (668)
+Delaware	OH	5.4	
+  
+3.5 - 6.9 (668)
+Washington	MN	5.4	
+  
+3.5 - 6.9 (668)
+Dakota	MN	5.4	
+  
+3.5 - 6.9 (668)
+Charles	MD	5.4	
+  
+3.5 - 6.9 (668)
+Hampshire	MA	5.4	
+  
+3.5 - 6.9 (668)
+Missoula	MT	5.4	
+  
+3.5 - 6.9 (668)
+Oktibbeha	MS	5.5	
+  
+3.5 - 6.9 (668)
+Boone	MO	5.5	
+  
+3.5 - 6.9 (668)
+Nantucket	MA	5.5	
+  
+3.5 - 6.9 (668)
+Wright	MN	5.5	
+  
+3.5 - 6.9 (668)
+McKenzie	ND	5.5	
+  
+3.5 - 6.9 (668)
+Bergen	NJ	5.5	
+  
+3.5 - 6.9 (668)
+Somerset	NJ	5.5	
+  
+3.5 - 6.9 (668)
+Tippecanoe	IN	5.5	
+  
+3.5 - 6.9 (668)
+Teton	ID	5.5	
+  
+3.5 - 6.9 (668)
+DeKalb	IL	5.5	
+  
+3.5 - 6.9 (668)
+McLean	IL	5.5	
+  
+3.5 - 6.9 (668)
+Will	IL	5.5	
+  
+3.5 - 6.9 (668)
+Contra Costa	CA	5.5	
+  
+3.5 - 6.9 (668)
+Juneau	AK	5.5	
+  
+3.5 - 6.9 (668)
+Routt	CO	5.5	
+  
+3.5 - 6.9 (668)
+Chesapeake	VA	5.5	
+  
+3.5 - 6.9 (668)
+Pierce	WA	5.5	
+  
+3.5 - 6.9 (668)
+Henrico	VA	5.5	
+  
+3.5 - 6.9 (668)
+Pierce	WI	5.5	
+  
+3.5 - 6.9 (668)
+St. Croix	WI	5.5	
+  
+3.5 - 6.9 (668)
+Campbell	WY	5.6	
+  
+3.5 - 6.9 (668)
+Eau Claire	WI	5.6	
+  
+3.5 - 6.9 (668)
+York	VA	5.6	
+  
+3.5 - 6.9 (668)
+Davidson	TN	5.6	
+  
+3.5 - 6.9 (668)
+Richland	SC	5.6	
+  
+3.5 - 6.9 (668)
+Tarrant	TX	5.6	
+  
+3.5 - 6.9 (668)
+Dallas	TX	5.6	
+  
+3.5 - 6.9 (668)
+Ector	TX	5.6	
+  
+3.5 - 6.9 (668)
+Harris	TX	5.6	
+  
+3.5 - 6.9 (668)
+Tolland	CT	5.6	
+  
+3.5 - 6.9 (668)
+Leon	FL	5.6	
+  
+3.5 - 6.9 (668)
+DeKalb	GA	5.6	
+  
+3.5 - 6.9 (668)
+Ada	ID	5.6	
+  
+3.5 - 6.9 (668)
+Coconino	AZ	5.6	
+  
+3.5 - 6.9 (668)
+Los Angeles	CA	5.6	
+  
+3.5 - 6.9 (668)
+Garfield	CO	5.6	
+  
+3.5 - 6.9 (668)
+Boone	IN	5.6	
+  
+3.5 - 6.9 (668)
+Lake	IL	5.6	
+  
+3.5 - 6.9 (668)
+Polk	IA	5.6	
+  
+3.5 - 6.9 (668)
+Nassau	NY	5.6	
+  
+3.5 - 6.9 (668)
+Grand Forks	ND	5.6	
+  
+3.5 - 6.9 (668)
+Olmsted	MN	5.6	
+  
+3.5 - 6.9 (668)
+Ramsey	MN	5.6	
+  
+3.5 - 6.9 (668)
+Clay	MN	5.6	
+  
+3.5 - 6.9 (668)
+Blue Earth	MN	5.6	
+  
+3.5 - 6.9 (668)
+Frederick	MD	5.6	
+  
+3.5 - 6.9 (668)
+Anne Arundel	MD	5.7	
+  
+3.5 - 6.9 (668)
+Madison	MS	5.7	
+  
+3.5 - 6.9 (668)
+Westchester	NY	5.7	
+  
+3.5 - 6.9 (668)
+Morris	NJ	5.7	
+  
+3.5 - 6.9 (668)
+Cook	IL	5.7	
+  
+3.5 - 6.9 (668)
+Hendricks	IN	5.7	
+  
+3.5 - 6.9 (668)
+Gilpin	CO	5.7	
+  
+3.5 - 6.9 (668)
+San Benito	CA	5.7	
+  
+3.5 - 6.9 (668)
+Skagway	AK	5.7	
+  
+3.5 - 6.9 (668)
+Denali	AK	5.7	
+  
+3.5 - 6.9 (668)
+Paulding	GA	5.7	
+  
+3.5 - 6.9 (668)
+Fairfield	CT	5.7	
+  
+3.5 - 6.9 (668)
+Minnehaha	SD	5.7	
+  
+3.5 - 6.9 (668)
+Brazoria	TX	5.7	
+  
+3.5 - 6.9 (668)
+Newport News	VA	5.7	
+  
+3.5 - 6.9 (668)
+Richmond City	VA	5.7	
+  
+3.5 - 6.9 (668)
+King George	VA	5.7	
+  
+3.5 - 6.9 (668)
+Chesterfield	VA	5.7	
+  
+3.5 - 6.9 (668)
+Spotsylvania	VA	5.7	
+  
+3.5 - 6.9 (668)
+Sweetwater	WY	5.7	
+  
+3.5 - 6.9 (668)
+La Crosse	WI	5.8	
+  
+3.5 - 6.9 (668)
+Milwaukee	WI	5.8	
+  
+3.5 - 6.9 (668)
+Waukesha	WI	5.8	
+  
+3.5 - 6.9 (668)
+Outagamie	WI	5.8	
+  
+3.5 - 6.9 (668)
+Bell	TX	5.8	
+  
+3.5 - 6.9 (668)
+Waller	TX	5.8	
+  
+3.5 - 6.9 (668)
+Albemarle	VA	5.8	
+  
+3.5 - 6.9 (668)
+Columbia	GA	5.8	
+  
+3.5 - 6.9 (668)
+Orange	FL	5.8	
+  
+3.5 - 6.9 (668)
+Henry	GA	5.8	
+  
+3.5 - 6.9 (668)
+San Bernardino	CA	5.8	
+  
+3.5 - 6.9 (668)
+Sacramento	CA	5.8	
+  
+3.5 - 6.9 (668)
+Solano	CA	5.8	
+  
+3.5 - 6.9 (668)
+Kings	CA	5.8	
+  
+3.5 - 6.9 (668)
+McHenry	IL	5.8	
+  
+3.5 - 6.9 (668)
+Mercer	NJ	5.8	
+  
+3.5 - 6.9 (668)
+Middlesex	NJ	5.8	
+  
+3.5 - 6.9 (668)
+Union	NJ	5.8	
+  
+3.5 - 6.9 (668)
+Bernalillo	NM	5.8	
+  
+3.5 - 6.9 (668)
+Albany	NY	5.8	
+  
+3.5 - 6.9 (668)
+Strafford	NH	5.8	
+  
+3.5 - 6.9 (668)
+Wayne	NE	5.8	
+  
+3.5 - 6.9 (668)
+Suffolk	NY	5.8	
+  
+3.5 - 6.9 (668)
+Kings	NY	5.8	
+  
+3.5 - 6.9 (668)
+Union	NC	5.8	
+  
+3.5 - 6.9 (668)
+Lafayette	MS	5.8	
+  
+3.5 - 6.9 (668)
+Platte	MO	5.8	
+  
+3.5 - 6.9 (668)
+Calvert	MD	5.8	
+  
+3.5 - 6.9 (668)
+Ingham	MI	5.8	
+  
+3.5 - 6.9 (668)
+Kent	MI	5.8	
+  
+3.5 - 6.9 (668)
+St. Mary's	MD	5.9	
+  
+3.5 - 6.9 (668)
+Anoka	MN	5.9	
+  
+3.5 - 6.9 (668)
+Oakland	MI	5.9	
+  
+3.5 - 6.9 (668)
+Ottawa	MI	5.9	
+  
+3.5 - 6.9 (668)
+Nicollet	MN	5.9	
+  
+3.5 - 6.9 (668)
+St. Charles	MO	5.9	
+  
+3.5 - 6.9 (668)
+Johnson	MO	5.9	
+  
+3.5 - 6.9 (668)
+Putnam	NY	5.9	
+  
+3.5 - 6.9 (668)
+Cabarrus	NC	5.9	
+  
+3.5 - 6.9 (668)
+Lea	NM	5.9	
+  
+3.5 - 6.9 (668)
+Franklin	OH	5.9	
+  
+3.5 - 6.9 (668)
+Union	OH	5.9	
+  
+3.5 - 6.9 (668)
+Clackamas	OR	5.9	
+  
+3.5 - 6.9 (668)
+Centre	PA	5.9	
+  
+3.5 - 6.9 (668)
+Chester	PA	5.9	
+  
+3.5 - 6.9 (668)
+Sioux	IA	5.9	
+  
+3.5 - 6.9 (668)
+Warren	IA	5.9	
+  
+3.5 - 6.9 (668)
+Leavenworth	KS	5.9	
+  
+3.5 - 6.9 (668)
+Oldham	KY	5.9	
+  
+3.5 - 6.9 (668)
+Scott	KY	5.9	
+  
+3.5 - 6.9 (668)
+Aleutians East	AK	5.9	
+  
+3.5 - 6.9 (668)
+Matanuska-Susitna	AK	5.9	
+  
+3.5 - 6.9 (668)
+Jefferson	ID	5.9	
+  
+3.5 - 6.9 (668)
+Bulloch	GA	5.9	
+  
+3.5 - 6.9 (668)
+Clayton	GA	5.9	
+  
+3.5 - 6.9 (668)
+Juab	UT	5.9	
+  
+3.5 - 6.9 (668)
+Andrews	TX	5.9	
+  
+3.5 - 6.9 (668)
+Calumet	WI	5.9	
+  
+3.5 - 6.9 (668)
+Laramie	WY	5.9	
+  
+3.5 - 6.9 (668)
+Dunn	WI	6.0	
+  
+3.5 - 6.9 (668)
+Ozaukee	WI	6.0	
+  
+3.5 - 6.9 (668)
+Portage	WI	6.0	
+  
+3.5 - 6.9 (668)
+Monongalia	WV	6.0	
+  
+3.5 - 6.9 (668)
+Brown	WI	6.0	
+  
+3.5 - 6.9 (668)
+Prince George	VA	6.0	
+  
+3.5 - 6.9 (668)
+Suffolk	VA	6.0	
+  
+3.5 - 6.9 (668)
+Kitsap	WA	6.0	
+  
+3.5 - 6.9 (668)
+Kittitas	WA	6.0	
+  
+3.5 - 6.9 (668)
+Box Elder	UT	6.0	
+  
+3.5 - 6.9 (668)
+Chambers	TX	6.0	
+  
+3.5 - 6.9 (668)
+Crane	TX	6.0	
+  
+3.5 - 6.9 (668)
+Montgomery	TX	6.0	
+  
+3.5 - 6.9 (668)
+Lubbock	TX	6.0	
+  
+3.5 - 6.9 (668)
+Kaufman	TX	6.0	
+  
+3.5 - 6.9 (668)
+Seminole	FL	6.0	
+  
+3.5 - 6.9 (668)
+Alachua	FL	6.0	
+  
+3.5 - 6.9 (668)
+Bonneville	ID	6.0	
+  
+3.5 - 6.9 (668)
+Maui	HI	6.0	
+  
+3.5 - 6.9 (668)
+Oconee	GA	6.0	
+  
+3.5 - 6.9 (668)
+Greenlee	AZ	6.0	
+  
+3.5 - 6.9 (668)
+Lee	AL	6.0	
+  
+3.5 - 6.9 (668)
+San Joaquin	CA	6.0	
+  
+3.5 - 6.9 (668)
+Santa Cruz	CA	6.0	
+  
+3.5 - 6.9 (668)
+Kane	IL	6.0	
+  
+3.5 - 6.9 (668)
+Linn	IA	6.0	
+  
+3.5 - 6.9 (668)
+Canadian	OK	6.0	
+  
+3.5 - 6.9 (668)
+Cleveland	OK	6.0	
+  
+3.5 - 6.9 (668)
+Gloucester	NJ	6.0	
+  
+3.5 - 6.9 (668)
+Rockingham	NH	6.0	
+  
+3.5 - 6.9 (668)
+Queens	NY	6.0	
+  
+3.5 - 6.9 (668)
+Orange	NY	6.0	
+  
+3.5 - 6.9 (668)
+Richmond	NY	6.0	
+  
+3.5 - 6.9 (668)
+Hoke	NC	6.0	
+  
+3.5 - 6.9 (668)
+Buffalo	NE	6.0	
+  
+3.5 - 6.9 (668)
+Clay	MO	6.1	
+  
+3.5 - 6.9 (668)
+DeSoto	MS	6.1	
+  
+3.5 - 6.9 (668)
+Benton	MN	6.1	
+  
+3.5 - 6.9 (668)
+Dodge	MN	6.1	
+  
+3.5 - 6.9 (668)
+Baltimore City	MD	6.1	
+  
+3.5 - 6.9 (668)
+Essex	MA	6.1	
+  
+3.5 - 6.9 (668)
+Carroll	MD	6.1	
+  
+3.5 - 6.9 (668)
+Baltimore County	MD	6.1	
+  
+3.5 - 6.9 (668)
+Kalamazoo	MI	6.1	
+  
+3.5 - 6.9 (668)
+Worcester	MA	6.1	
+  
+3.5 - 6.9 (668)
+Pitt	NC	6.1	
+  
+3.5 - 6.9 (668)
+Essex	NJ	6.1	
+  
+3.5 - 6.9 (668)
+Hillsborough	NH	6.1	
+  
+3.5 - 6.9 (668)
+Curry	NM	6.1	
+  
+3.5 - 6.9 (668)
+Jefferson	NY	6.1	
+  
+3.5 - 6.9 (668)
+Hood River	OR	6.1	
+  
+3.5 - 6.9 (668)
+Grundy	IL	6.1	
+  
+3.5 - 6.9 (668)
+Ascension	LA	6.1	
+  
+3.5 - 6.9 (668)
+Fayette	KY	6.1	
+  
+3.5 - 6.9 (668)
+Pottawatomie	KS	6.1	
+  
+3.5 - 6.9 (668)
+Santa Barbara	CA	6.1	
+  
+3.5 - 6.9 (668)
+Riverside	CA	6.1	
+  
+3.5 - 6.9 (668)
+Ventura	CA	6.1	
+  
+3.5 - 6.9 (668)
+Elbert	CO	6.1	
+  
+3.5 - 6.9 (668)
+Clear Creek	CO	6.1	
+  
+3.5 - 6.9 (668)
+La Plata	CO	6.1	
+  
+3.5 - 6.9 (668)
+Maricopa	AZ	6.1	
+  
+3.5 - 6.9 (668)
+North Slope	AK	6.1	
+  
+3.5 - 6.9 (668)
+Houston	GA	6.1	
+  
+3.5 - 6.9 (668)
+Douglas	GA	6.1	
+  
+3.5 - 6.9 (668)
+Guadalupe	TX	6.1	
+  
+3.5 - 6.9 (668)
+Ellis	TX	6.1	
+  
+3.5 - 6.9 (668)
+Iron	UT	6.1	
+  
+3.5 - 6.9 (668)
+Bexar	TX	6.1	
+  
+3.5 - 6.9 (668)
+Trousdale	TN	6.1	
+  
+3.5 - 6.9 (668)
+Montgomery	PA	6.1	
+  
+3.5 - 6.9 (668)
+Clark	WA	6.1	
+  
+3.5 - 6.9 (668)
+Fauquier	VA	6.1	
+  
+3.5 - 6.9 (668)
+Thurston	WA	6.1	
+  
+3.5 - 6.9 (668)
+Kenosha	WI	6.1	
+  
+3.5 - 6.9 (668)
+Winnebago	WI	6.2	
+  
+3.5 - 6.9 (668)
+Whatcom	WA	6.2	
+  
+3.5 - 6.9 (668)
+New Kent	VA	6.2	
+  
+3.5 - 6.9 (668)
+Hanover	VA	6.2	
+  
+3.5 - 6.9 (668)
+Benton	WA	6.2	
+  
+3.5 - 6.9 (668)
+Washington	WI	6.2	
+  
+3.5 - 6.9 (668)
+Natrona	WY	6.2	
+  
+3.5 - 6.9 (668)
+Charleston	SC	6.2	
+  
+3.5 - 6.9 (668)
+Meade	SD	6.2	
+  
+3.5 - 6.9 (668)
+Beaver	UT	6.2	
+  
+3.5 - 6.9 (668)
+Reeves	TX	6.2	
+  
+3.5 - 6.9 (668)
+Randall	TX	6.2	
+  
+3.5 - 6.9 (668)
+El Paso	TX	6.2	
+  
+3.5 - 6.9 (668)
+La Salle	TX	6.2	
+  
+3.5 - 6.9 (668)
+Martin	TX	6.2	
+  
+3.5 - 6.9 (668)
+Cherokee	GA	6.2	
+  
+3.5 - 6.9 (668)
+New Castle	DE	6.2	
+  
+3.5 - 6.9 (668)
+Lee	GA	6.2	
+  
+3.5 - 6.9 (668)
+Effingham	GA	6.2	
+  
+3.5 - 6.9 (668)
+Sitka	AK	6.2	
+  
+3.5 - 6.9 (668)
+Grand	CO	6.2	
+  
+3.5 - 6.9 (668)
+Placer	CA	6.2	
+  
+3.5 - 6.9 (668)
+Boone	KY	6.2	
+  
+3.5 - 6.9 (668)
+Ellis	KS	6.2	
+  
+3.5 - 6.9 (668)
+Finney	KS	6.2	
+  
+3.5 - 6.9 (668)
+Payne	OK	6.2	
+  
+3.5 - 6.9 (668)
+Warren	OH	6.2	
+  
+3.5 - 6.9 (668)
+Stark	ND	6.2	
+  
+3.5 - 6.9 (668)
+Dutchess	NY	6.2	
+  
+3.5 - 6.9 (668)
+Monmouth	NJ	6.2	
+  
+3.5 - 6.9 (668)
+Hunterdon	NJ	6.2	
+  
+3.5 - 6.9 (668)
+Merrimack	NH	6.2	
+  
+3.5 - 6.9 (668)
+Burlington	NJ	6.2	
+  
+3.5 - 6.9 (668)
+Camden	NJ	6.2	
+  
+3.5 - 6.9 (668)
+Burleigh	ND	6.2	
+  
+3.5 - 6.9 (668)
+Saratoga	NY	6.2	
+  
+3.5 - 6.9 (668)
+Cumberland	NC	6.2	
+  
+3.5 - 6.9 (668)
+Isabella	MI	6.2	
+  
+3.5 - 6.9 (668)
+Rice	MN	6.2	
+  
+3.5 - 6.9 (668)
+Winona	MN	6.2	
+  
+3.5 - 6.9 (668)
+Yellowstone	MT	6.2	
+  
+3.5 - 6.9 (668)
+Richland	MT	6.3	
+  
+3.5 - 6.9 (668)
+Stearns	MN	6.3	
+  
+3.5 - 6.9 (668)
+Stevens	MN	6.3	
+  
+3.5 - 6.9 (668)
+Plymouth	MA	6.3	
+  
+3.5 - 6.9 (668)
+Harford	MD	6.3	
+  
+3.5 - 6.9 (668)
+Cumberland	ME	6.3	
+  
+3.5 - 6.9 (668)
+Rockland	NY	6.3	
+  
+3.5 - 6.9 (668)
+Onondaga	NY	6.3	
+  
+3.5 - 6.9 (668)
+Seward	NE	6.3	
+  
+3.5 - 6.9 (668)
+Eddy	NM	6.3	
+  
+3.5 - 6.9 (668)
+Seward	KS	6.3	
+  
+3.5 - 6.9 (668)
+Monroe	IL	6.3	
+  
+3.5 - 6.9 (668)
+Madison	IA	6.3	
+  
+3.5 - 6.9 (668)
+Johnson	IN	6.3	
+  
+3.5 - 6.9 (668)
+Monterey	CA	6.3	
+  
+3.5 - 6.9 (668)
+Merced	CA	6.3	
+  
+3.5 - 6.9 (668)
+Yuba	CA	6.3	
+  
+3.5 - 6.9 (668)
+Alamosa	CO	6.3	
+  
+3.5 - 6.9 (668)
+Stanislaus	CA	6.3	
+  
+3.5 - 6.9 (668)
+Benton	AR	6.3	
+  
+3.5 - 6.9 (668)
+Madison	AL	6.3	
+  
+3.5 - 6.9 (668)
+Shelby	AL	6.3	
+  
+3.5 - 6.9 (668)
+Tuscaloosa	AL	6.3	
+  
+3.5 - 6.9 (668)
+Hillsborough	FL	6.3	
+  
+3.5 - 6.9 (668)
+Osceola	FL	6.3	
+  
+3.5 - 6.9 (668)
+Kleberg	TX	6.3	
+  
+3.5 - 6.9 (668)
+Erath	TX	6.3	
+  
+3.5 - 6.9 (668)
+Frio	TX	6.3	
+  
+3.5 - 6.9 (668)
+Gaines	TX	6.3	
+  
+3.5 - 6.9 (668)
+Reagan	TX	6.3	
+  
+3.5 - 6.9 (668)
+Webb	TX	6.3	
+  
+3.5 - 6.9 (668)
+York	SC	6.3	
+  
+3.5 - 6.9 (668)
+Hampton	VA	6.3	
+  
+3.5 - 6.9 (668)
+Poquoson	VA	6.4	
+  
+3.5 - 6.9 (668)
+King William	VA	6.4	
+  
+3.5 - 6.9 (668)
+Spokane	WA	6.4	
+  
+3.5 - 6.9 (668)
+Jefferson	WI	6.4	
+  
+3.5 - 6.9 (668)
+Dorchester	SC	6.4	
+  
+3.5 - 6.9 (668)
+Philadelphia	PA	6.4	
+  
+3.5 - 6.9 (668)
+Winkler	TX	6.4	
+  
+3.5 - 6.9 (668)
+Sanpete	UT	6.4	
+  
+3.5 - 6.9 (668)
+Addison	VT	6.4	
+  
+3.5 - 6.9 (668)
+Galveston	TX	6.4	
+  
+3.5 - 6.9 (668)
+Kenedy	TX	6.4	
+  
+3.5 - 6.9 (668)
+Barrow	GA	6.4	
+  
+3.5 - 6.9 (668)
+Middlesex	CT	6.4	
+  
+3.5 - 6.9 (668)
+New Haven	CT	6.4	
+  
+3.5 - 6.9 (668)
+Hartford	CT	6.4	
+  
+3.5 - 6.9 (668)
+Fayette	GA	6.4	
+  
+3.5 - 6.9 (668)
+Lowndes	GA	6.4	
+  
+3.5 - 6.9 (668)
+Bannock	ID	6.4	
+  
+3.5 - 6.9 (668)
+Faulkner	AR	6.4	
+  
+3.5 - 6.9 (668)
+Mono	CA	6.4	
+  
+3.5 - 6.9 (668)
+Kern	CA	6.4	
+  
+3.5 - 6.9 (668)
+Marin	CA	6.4	
+  
+3.5 - 6.9 (668)
+Fresno	CA	6.4	
+  
+3.5 - 6.9 (668)
+Woodbury	IA	6.4	
+  
+3.5 - 6.9 (668)
+Passaic	NJ	6.4	
+  
+3.5 - 6.9 (668)
+Bronx	NY	6.4	
+  
+3.5 - 6.9 (668)
+Rensselaer	NY	6.4	
+  
+3.5 - 6.9 (668)
+Monroe	NY	6.4	
+  
+3.5 - 6.9 (668)
+Polk	OR	6.4	
+  
+3.5 - 6.9 (668)
+Delaware	PA	6.4	
+  
+3.5 - 6.9 (668)
+Vernon	LA	6.4	
+  
+3.5 - 6.9 (668)
+Chisago	MN	6.4	
+  
+3.5 - 6.9 (668)
+Lewis and Clark	MT	6.4	
+  
+3.5 - 6.9 (668)
+St. Louis City	MO	6.4	
+  
+3.5 - 6.9 (668)
+Dakota	NE	6.4	
+  
+3.5 - 6.9 (668)
+Dawes	NE	6.4	
+  
+3.5 - 6.9 (668)
+Rankin	MS	6.4	
+  
+3.5 - 6.9 (668)
+Nodaway	MO	6.5	
+  
+3.5 - 6.9 (668)
+Madison	NE	6.5	
+  
+3.5 - 6.9 (668)
+St. Louis County	MO	6.5	
+  
+3.5 - 6.9 (668)
+Livingston	MI	6.5	
+  
+3.5 - 6.9 (668)
+Cumberland	PA	6.5	
+  
+3.5 - 6.9 (668)
+Deschutes	OR	6.5	
+  
+3.5 - 6.9 (668)
+Wood	OH	6.5	
+  
+3.5 - 6.9 (668)
+Schenectady	NY	6.5	
+  
+3.5 - 6.9 (668)
+Watauga	NC	6.5	
+  
+3.5 - 6.9 (668)
+Guilford	NC	6.5	
+  
+3.5 - 6.9 (668)
+Harnett	NC	6.5	
+  
+3.5 - 6.9 (668)
+New Hanover	NC	6.5	
+  
+3.5 - 6.9 (668)
+Roosevelt	NM	6.5	
+  
+3.5 - 6.9 (668)
+Cortland	NY	6.5	
+  
+3.5 - 6.9 (668)
+Sussex	NJ	6.5	
+  
+3.5 - 6.9 (668)
+Doña Ana	NM	6.5	
+  
+3.5 - 6.9 (668)
+Washington	NE	6.5	
+  
+3.5 - 6.9 (668)
+Elko	NV	6.5	
+  
+3.5 - 6.9 (668)
+Scott	IA	6.5	
+  
+3.5 - 6.9 (668)
+Ford	KS	6.5	
+  
+3.5 - 6.9 (668)
+Kenton	KY	6.5	
+  
+3.5 - 6.9 (668)
+Warren	KY	6.5	
+  
+3.5 - 6.9 (668)
+East Baton Rouge	LA	6.5	
+  
+3.5 - 6.9 (668)
+Bremer	IA	6.5	
+  
+3.5 - 6.9 (668)
+Black Hawk	IA	6.5	
+  
+3.5 - 6.9 (668)
+Napa	CA	6.5	
+  
+3.5 - 6.9 (668)
+San Luis Obispo	CA	6.5	
+  
+3.5 - 6.9 (668)
+Ketchikan Gateway	AK	6.5	
+  
+3.5 - 6.9 (668)
+Kauai	HI	6.5	
+  
+3.5 - 6.9 (668)
+Canyon	ID	6.5	
+  
+3.5 - 6.9 (668)
+Coweta	GA	6.5	
+  
+3.5 - 6.9 (668)
+Lamoille	VT	6.5	
+  
+3.5 - 6.9 (668)
+Duchesne	UT	6.5	
+  
+3.5 - 6.9 (668)
+Greenville	SC	6.5	
+  
+3.5 - 6.9 (668)
+Bristol	RI	6.5	
+  
+3.5 - 6.9 (668)
+Providence	RI	6.5	
+  
+3.5 - 6.9 (668)
+Washington	RI	6.5	
+  
+3.5 - 6.9 (668)
+Berkeley	SC	6.5	
+  
+3.5 - 6.9 (668)
+Brown	SD	6.5	
+  
+3.5 - 6.9 (668)
+Walworth	WI	6.5	
+  
+3.5 - 6.9 (668)
+Fluvanna	VA	6.5	
+  
+3.5 - 6.9 (668)
+Portsmouth	VA	6.5	
+  
+3.5 - 6.9 (668)
+Salem	VA	6.6	
+  
+3.5 - 6.9 (668)
+Winchester	VA	6.6	
+  
+3.5 - 6.9 (668)
+Frederick	VA	6.6	
+  
+3.5 - 6.9 (668)
+Culpeper	VA	6.6	
+  
+3.5 - 6.9 (668)
+Powhatan	VA	6.6	
+  
+3.5 - 6.9 (668)
+Sheboygan	WI	6.6	
+  
+3.5 - 6.9 (668)
+Columbia	WI	6.6	
+  
+3.5 - 6.9 (668)
+Fond du Lac	WI	6.6	
+  
+3.5 - 6.9 (668)
+Wilson	TN	6.6	
+  
+3.5 - 6.9 (668)
+Yoakum	TX	6.6	
+  
+3.5 - 6.9 (668)
+Washington	VT	6.6	
+  
+3.5 - 6.9 (668)
+Caroline	VA	6.6	
+  
+3.5 - 6.9 (668)
+Tom Green	TX	6.6	
+  
+3.5 - 6.9 (668)
+Moore	TX	6.6	
+  
+3.5 - 6.9 (668)
+Hartley	TX	6.6	
+  
+3.5 - 6.9 (668)
+Chatham	GA	6.6	
+  
+3.5 - 6.9 (668)
+Okaloosa	FL	6.6	
+  
+3.5 - 6.9 (668)
+Duval	FL	6.6	
+  
+3.5 - 6.9 (668)
+Sonoma	CA	6.6	
+  
+3.5 - 6.9 (668)
+Washington	AR	6.6	
+  
+3.5 - 6.9 (668)
+Dubuque	IA	6.6	
+  
+3.5 - 6.9 (668)
+Marion	IA	6.6	
+  
+3.5 - 6.9 (668)
+Hancock	IN	6.6	
+  
+3.5 - 6.9 (668)
+Woodford	IL	6.6	
+  
+3.5 - 6.9 (668)
+Jackson	IL	6.6	
+  
+3.5 - 6.9 (668)
+Boone	IL	6.6	
+  
+3.5 - 6.9 (668)
+Brown	IL	6.6	
+  
+3.5 - 6.9 (668)
+Madison	KY	6.6	
+  
+3.5 - 6.9 (668)
+Sedgwick	KS	6.6	
+  
+3.5 - 6.9 (668)
+Erie	NY	6.6	
+  
+3.5 - 6.9 (668)
+Sandoval	NM	6.6	
+  
+3.5 - 6.9 (668)
+Iredell	NC	6.6	
+  
+3.5 - 6.9 (668)
+Johnston	NC	6.6	
+  
+3.5 - 6.9 (668)
+Morton	ND	6.6	
+  
+3.5 - 6.9 (668)
+Mountrail	ND	6.6	
+  
+3.5 - 6.9 (668)
+Marion	OR	6.6	
+  
+3.5 - 6.9 (668)
+Yamhill	OR	6.6	
+  
+3.5 - 6.9 (668)
+Bucks	PA	6.6	
+  
+3.5 - 6.9 (668)
+Comanche	OK	6.6	
+  
+3.5 - 6.9 (668)
+Bristol	MA	6.6	
+  
+3.5 - 6.9 (668)
+Wicomico	MD	6.6	
+  
+3.5 - 6.9 (668)
+Hall	NE	6.6	
+  
+3.5 - 6.9 (668)
+Hamilton	NE	6.7	
+  
+3.5 - 6.9 (668)
+Cass	NE	6.7	
+  
+3.5 - 6.9 (668)
+Lamar	MS	6.7	
+  
+3.5 - 6.9 (668)
+Adair	MO	6.7	
+  
+3.5 - 6.9 (668)
+Cecil	MD	6.7	
+  
+3.5 - 6.9 (668)
+St. Charles	LA	6.7	
+  
+3.5 - 6.9 (668)
+Clinton	MI	6.7	
+  
+3.5 - 6.9 (668)
+Isanti	MN	6.7	
+  
+3.5 - 6.9 (668)
+Oklahoma	OK	6.7	
+  
+3.5 - 6.9 (668)
+Lane	OR	6.7	
+  
+3.5 - 6.9 (668)
+Butler	OH	6.7	
+  
+3.5 - 6.9 (668)
+Livingston	NY	6.7	
+  
+3.5 - 6.9 (668)
+Warren	NJ	6.7	
+  
+3.5 - 6.9 (668)
+Washoe	NV	6.7	
+  
+3.5 - 6.9 (668)
+Saunders	NE	6.7	
+  
+3.5 - 6.9 (668)
+Platte	NE	6.7	
+  
+3.5 - 6.9 (668)
+Lyon	KS	6.7	
+  
+3.5 - 6.9 (668)
+Butler	KS	6.7	
+  
+3.5 - 6.9 (668)
+Campbell	KY	6.7	
+  
+3.5 - 6.9 (668)
+Lafayette	LA	6.7	
+  
+3.5 - 6.9 (668)
+St. Clair	IL	6.7	
+  
+3.5 - 6.9 (668)
+Marion	IN	6.7	
+  
+3.5 - 6.9 (668)
+Warrick	IN	6.7	
+  
+3.5 - 6.9 (668)
+Tulare	CA	6.7	
+  
+3.5 - 6.9 (668)
+Morgan	CO	6.7	
+  
+3.5 - 6.9 (668)
+Pueblo	CO	6.7	
+  
+3.5 - 6.9 (668)
+New London	CT	6.7	
+  
+3.5 - 6.9 (668)
+Windham	CT	6.7	
+  
+3.5 - 6.9 (668)
+Broward	FL	6.7	
+  
+3.5 - 6.9 (668)
+Elmore	ID	6.7	
+  
+3.5 - 6.9 (668)
+Franklin	ID	6.7	
+  
+3.5 - 6.9 (668)
+Newton	GA	6.7	
+  
+3.5 - 6.9 (668)
+Garza	TX	6.7	
+  
+3.5 - 6.9 (668)
+Comal	TX	6.7	
+  
+3.5 - 6.9 (668)
+Taylor	TX	6.7	
+  
+3.5 - 6.9 (668)
+Uintah	UT	6.7	
+  
+3.5 - 6.9 (668)
+Franklin	VT	6.7	
+  
+3.5 - 6.9 (668)
+Shelby	TN	6.7	
+  
+3.5 - 6.9 (668)
+Union	SD	6.7	
+  
+3.5 - 6.9 (668)
+Knox	TN	6.7	
+  
+3.5 - 6.9 (668)
+Hughes	SD	6.7	
+  
+3.5 - 6.9 (668)
+Rock	WI	6.7	
+  
+3.5 - 6.9 (668)
+Racine	WI	6.7	
+  
+3.5 - 6.9 (668)
+Prince Edward	VA	6.7	
+  
+3.5 - 6.9 (668)
+Uinta	WY	6.7	
+  
+3.5 - 6.9 (668)
+Goochland	VA	6.8	
+  
+3.5 - 6.9 (668)
+Grant	WI	6.8	
+  
+3.5 - 6.9 (668)
+Marathon	WI	6.8	
+  
+3.5 - 6.9 (668)
+Walla Walla	WA	6.8	
+  
+3.5 - 6.9 (668)
+Newport	RI	6.8	
+  
+3.5 - 6.9 (668)
+Bee	TX	6.8	
+  
+3.5 - 6.9 (668)
+Mitchell	TX	6.8	
+  
+3.5 - 6.9 (668)
+Johnson	TX	6.8	
+  
+3.5 - 6.9 (668)
+Rio Blanco	CO	6.8	
+  
+3.5 - 6.9 (668)
+Miami-Dade	FL	6.8	
+  
+3.5 - 6.9 (668)
+Camden	GA	6.8	
+  
+3.5 - 6.9 (668)
+Sutter	CA	6.8	
+  
+3.5 - 6.9 (668)
+Porter	IN	6.8	
+  
+3.5 - 6.9 (668)
+Floyd	IN	6.8	
+  
+3.5 - 6.9 (668)
+Boone	IA	6.8	
+  
+3.5 - 6.9 (668)
+Lincoln	LA	6.8	
+  
+3.5 - 6.9 (668)
+Christian	KY	6.8	
+  
+3.5 - 6.9 (668)
+Miami	KS	6.8	
+  
+3.5 - 6.9 (668)
+Thomas	KS	6.8	
+  
+3.5 - 6.9 (668)
+Clark	NV	6.8	
+  
+3.5 - 6.9 (668)
+Allegheny	PA	6.8	
+  
+3.5 - 6.9 (668)
+Tulsa	OK	6.8	
+  
+3.5 - 6.9 (668)
+Le Sueur	MN	6.8	
+  
+3.5 - 6.9 (668)
+Eaton	MI	6.8	
+  
+3.5 - 6.9 (668)
+Macomb	MI	6.8	
+  
+3.5 - 6.9 (668)
+Ionia	MI	6.8	
+  
+3.5 - 6.9 (668)
+Queen Anne's	MD	6.8	
+  
+3.5 - 6.9 (668)
+Cole	MO	6.8	
+  
+3.5 - 6.9 (668)
+Lee	MS	6.8	
+  
+3.5 - 6.9 (668)
+Greene	MO	6.8	
+  
+3.5 - 6.9 (668)
+Christian	MO	6.9	
+  
+3.5 - 6.9 (668)
+Johnson	NE	6.9	
+  
+3.5 - 6.9 (668)
+Hampden	MA	6.9	
+  
+3.5 - 6.9 (668)
+Lyon	MN	6.9	
+  
+3.5 - 6.9 (668)
+Hinds	MS	6.9	
+  
+3.5 - 6.9 (668)
+Dauphin	PA	6.9	
+  
+3.5 - 6.9 (668)
+Fairfield	OH	6.9	
+  
+3.5 - 6.9 (668)
+Greene	OH	6.9	
+  
+3.5 - 6.9 (668)
+Grafton	NH	6.9	
+  
+3.5 - 6.9 (668)
+Madison	NY	6.9	
+  
+3.5 - 6.9 (668)
+Ontario	NY	6.9	
+  
+3.5 - 6.9 (668)
+Currituck	NC	6.9	
+  
+3.5 - 6.9 (668)
+Forsyth	NC	6.9	
+  
+3.5 - 6.9 (668)
+Shawnee	KS	6.9	
+  
+3.5 - 6.9 (668)
+Crawford	KS	6.9	
+  
+3.5 - 6.9 (668)
+Grant	KS	6.9	
+  
+3.5 - 6.9 (668)
+Gray	KS	6.9	
+  
+3.5 - 6.9 (668)
+Livingston	LA	6.9	
+  
+3.5 - 6.9 (668)
+Buchanan	IA	6.9	
+  
+3.5 - 6.9 (668)
+Muscatine	IA	6.9	
+  
+3.5 - 6.9 (668)
+Piatt	IL	6.9	
+  
+3.5 - 6.9 (668)
+Madison	IL	6.9	
+  
+3.5 - 6.9 (668)
+Allen	IN	6.9	
+  
+3.5 - 6.9 (668)
+Bartholomew	IN	6.9	
+  
+3.5 - 6.9 (668)
+Twin Falls	ID	6.9	
+  
+3.5 - 6.9 (668)
+Logan	IL	6.9	
+  
+3.5 - 6.9 (668)
+McDonough	IL	6.9	
+  
+3.5 - 6.9 (668)
+Mesa	CO	6.9	
+  
+3.5 - 6.9 (668)
+Crowley	CO	6.9	
+  
+3.5 - 6.9 (668)
+Imperial	CA	6.9	
+  
+3.5 - 6.9 (668)
+Lassen	CA	6.9	
+  
+3.5 - 6.9 (668)
+Pulaski	AR	6.9	
+  
+3.5 - 6.9 (668)
+Southeast Fairbanks	AK	6.9	
+  
+3.5 - 6.9 (668)
+Graham	AZ	6.9	
+  
+3.5 - 6.9 (668)
+Pike	AL	6.9	
+  
+3.5 - 6.9 (668)
+Carroll	GA	6.9	
+  
+3.5 - 6.9 (668)
+Santa Rosa	FL	6.9	
+  
+3.5 - 6.9 (668)
+Muscogee	GA	6.9	
+  
+3.5 - 6.9 (668)
+Long	GA	6.9	
+  
+3.5 - 6.9 (668)
+Jackson	GA	6.9	
+  
+3.5 - 6.9 (668)
+Kendall	TX	6.9	
+  
+3.5 - 6.9 (668)
+Maverick	TX	6.9	
+  
+3.5 - 6.9 (668)
+Madison	TX	6.9	
+  
+3.5 - 6.9 (668)
+Grand Isle	VT	6.9	
+  
+3.5 - 6.9 (668)
+Walker	TX	6.9	
+  
+3.5 - 6.9 (668)
+Nueces	TX	6.9	
+  
+3.5 - 6.9 (668)
+Parker	TX	6.9	
+  
+3.5 - 6.9 (668)
+Sumner	TN	6.9	
+  
+3.5 - 6.9 (668)
+Hamlin	SD	6.9	
+  
+3.5 - 6.9 (668)
+Iowa	WI	6.9	
+  
+3.5 - 6.9 (668)
+Dodge	WI	6.9	
+  
+3.5 - 6.9 (668)
+Sauk	WI	6.9	
+  
+3.5 - 6.9 (668)
+Converse	WY	6.9	
+  
+3.5 - 6.9 (668)
+Warren	VA	6.9	
+  
+3.5 - 6.9 (668)
+Grant	WA	6.9	
+  
+3.5 - 6.9 (668)
+Sheridan	WY	6.9	
+  
+3.5 - 6.9 (668)
+Sublette	WY	7.0	
+  
+7.0 - 7.9 (652)
+Colonial Heights	VA	7.0	
+  
+7.0 - 7.9 (652)
+Roanoke County	VA	7.0	
+  
+7.0 - 7.9 (652)
+Greene	VA	7.0	
+  
+7.0 - 7.9 (652)
+Douglas	WI	7.0	
+  
+7.0 - 7.9 (652)
+Chippewa	WI	7.0	
+  
+7.0 - 7.9 (652)
+Green	WI	7.0	
+  
+7.0 - 7.9 (652)
+Hanson	SD	7.0	
+  
+7.0 - 7.9 (652)
+Pickens	SC	7.0	
+  
+7.0 - 7.9 (652)
+Lexington	SC	7.0	
+  
+7.0 - 7.9 (652)
+Kent	RI	7.0	
+  
+7.0 - 7.9 (652)
+Lehigh	PA	7.0	
+  
+7.0 - 7.9 (652)
+Maury	TN	7.0	
+  
+7.0 - 7.9 (652)
+Atascosa	TX	7.0	
+  
+7.0 - 7.9 (652)
+Oldham	TX	7.0	
+  
+7.0 - 7.9 (652)
+Pecos	TX	7.0	
+  
+7.0 - 7.9 (652)
+Ward	TX	7.0	
+  
+7.0 - 7.9 (652)
+Wilson	TX	7.0	
+  
+7.0 - 7.9 (652)
+Wichita	TX	7.0	
+  
+7.0 - 7.9 (652)
+Sterling	TX	7.0	
+  
+7.0 - 7.9 (652)
+Grand	UT	7.0	
+  
+7.0 - 7.9 (652)
+McLennan	TX	7.0	
+  
+7.0 - 7.9 (652)
+Hidalgo	TX	7.0	
+  
+7.0 - 7.9 (652)
+Howard	TX	7.0	
+  
+7.0 - 7.9 (652)
+Childress	TX	7.0	
+  
+7.0 - 7.9 (652)
+Hemphill	TX	7.0	
+  
+7.0 - 7.9 (652)
+Cassia	ID	7.0	
+  
+7.0 - 7.9 (652)
+Bingham	ID	7.0	
+  
+7.0 - 7.9 (652)
+Rockdale	GA	7.0	
+  
+7.0 - 7.9 (652)
+Clay	FL	7.0	
+  
+7.0 - 7.9 (652)
+Craighead	AR	7.0	
+  
+7.0 - 7.9 (652)
+Pima	AZ	7.0	
+  
+7.0 - 7.9 (652)
+Lonoke	AR	7.0	
+  
+7.0 - 7.9 (652)
+Butte	CA	7.0	
+  
+7.0 - 7.9 (652)
+Colusa	CA	7.0	
+  
+7.0 - 7.9 (652)
+Park	CO	7.0	
+  
+7.0 - 7.9 (652)
+Logan	CO	7.0	
+  
+7.0 - 7.9 (652)
+Tazewell	IL	7.0	
+  
+7.0 - 7.9 (652)
+Peoria	IL	7.0	
+  
+7.0 - 7.9 (652)
+Sangamon	IL	7.0	
+  
+7.0 - 7.9 (652)
+Grundy	IA	7.0	
+  
+7.0 - 7.9 (652)
+Buena Vista	IA	7.0	
+  
+7.0 - 7.9 (652)
+St. Joseph	IN	7.0	
+  
+7.0 - 7.9 (652)
+Orleans	LA	7.0	
+  
+7.0 - 7.9 (652)
+Hardin	KY	7.0	
+  
+7.0 - 7.9 (652)
+Winneshiek	IA	7.0	
+  
+7.0 - 7.9 (652)
+Plymouth	IA	7.0	
+  
+7.0 - 7.9 (652)
+Cheshire	NH	7.0	
+  
+7.0 - 7.9 (652)
+Clinton	NY	7.0	
+  
+7.0 - 7.9 (652)
+Hamilton	OH	7.0	
+  
+7.0 - 7.9 (652)
+Medina	OH	7.0	
+  
+7.0 - 7.9 (652)
+Athens	OH	7.0	
+  
+7.0 - 7.9 (652)
+Umatilla	OR	7.0	
+  
+7.0 - 7.9 (652)
+Forrest	MS	7.0	
+  
+7.0 - 7.9 (652)
+York	ME	7.0	
+  
+7.0 - 7.9 (652)
+West Baton Rouge	LA	7.0	
+  
+7.0 - 7.9 (652)
+Colfax	NE	7.0	
+  
+7.0 - 7.9 (652)
+Cascade	MT	7.0	
+  
+7.0 - 7.9 (652)
+Flathead	MT	7.0	
+  
+7.0 - 7.9 (652)
+Cass	MO	7.0	
+  
+7.0 - 7.9 (652)
+Jackson	MO	7.0	
+  
+7.0 - 7.9 (652)
+Lincoln	MO	7.0	
+  
+7.0 - 7.9 (652)
+Callaway	MO	7.1	
+  
+7.0 - 7.9 (652)
+Fallon	MT	7.1	
+  
+7.0 - 7.9 (652)
+Jefferson	MT	7.1	
+  
+7.0 - 7.9 (652)
+Dawson	NE	7.1	
+  
+7.0 - 7.9 (652)
+Adams	NE	7.1	
+  
+7.0 - 7.9 (652)
+St. Tammany	LA	7.1	
+  
+7.0 - 7.9 (652)
+Allegan	MI	7.1	
+  
+7.0 - 7.9 (652)
+Midland	MI	7.1	
+  
+7.0 - 7.9 (652)
+Waseca	MN	7.1	
+  
+7.0 - 7.9 (652)
+Carlton	MN	7.1	
+  
+7.0 - 7.9 (652)
+Columbia	OR	7.1	
+  
+7.0 - 7.9 (652)
+Butler	PA	7.1	
+  
+7.0 - 7.9 (652)
+McClain	OK	7.1	
+  
+7.0 - 7.9 (652)
+Custer	OK	7.1	
+  
+7.0 - 7.9 (652)
+Portage	OH	7.1	
+  
+7.0 - 7.9 (652)
+Santa Fe	NM	7.1	
+  
+7.0 - 7.9 (652)
+Valencia	NM	7.1	
+  
+7.0 - 7.9 (652)
+Stanton	NE	7.1	
+  
+7.0 - 7.9 (652)
+Wyoming	NY	7.1	
+  
+7.0 - 7.9 (652)
+Ulster	NY	7.1	
+  
+7.0 - 7.9 (652)
+Pasquotank	NC	7.1	
+  
+7.0 - 7.9 (652)
+Poweshiek	IA	7.1	
+  
+7.0 - 7.9 (652)
+Atchison	KS	7.1	
+  
+7.0 - 7.9 (652)
+Hamilton	KS	7.1	
+  
+7.0 - 7.9 (652)
+Wyandotte	KS	7.1	
+  
+7.0 - 7.9 (652)
+Jefferson	KY	7.1	
+  
+7.0 - 7.9 (652)
+Shelby	KY	7.1	
+  
+7.0 - 7.9 (652)
+Nelson	KY	7.1	
+  
+7.0 - 7.9 (652)
+Spencer	KY	7.1	
+  
+7.0 - 7.9 (652)
+Benton	IA	7.1	
+  
+7.0 - 7.9 (652)
+Mills	IA	7.1	
+  
+7.0 - 7.9 (652)
+Clark	IN	7.1	
+  
+7.0 - 7.9 (652)
+Elkhart	IN	7.1	
+  
+7.0 - 7.9 (652)
+Kankakee	IL	7.1	
+  
+7.0 - 7.9 (652)
+Jersey	IL	7.1	
+  
+7.0 - 7.9 (652)
+Clinton	IL	7.1	
+  
+7.0 - 7.9 (652)
+Moffat	CO	7.1	
+  
+7.0 - 7.9 (652)
+Petersburg	AK	7.1	
+  
+7.0 - 7.9 (652)
+Elmore	AL	7.1	
+  
+7.0 - 7.9 (652)
+Jefferson	AL	7.1	
+  
+7.0 - 7.9 (652)
+Litchfield	CT	7.1	
+  
+7.0 - 7.9 (652)
+Teller	CO	7.1	
+  
+7.0 - 7.9 (652)
+Escambia	FL	7.1	
+  
+7.0 - 7.9 (652)
+St. Johns	FL	7.1	
+  
+7.0 - 7.9 (652)
+Bartow	GA	7.1	
+  
+7.0 - 7.9 (652)
+Hawaii	HI	7.1	
+  
+7.0 - 7.9 (652)
+Harris	GA	7.1	
+  
+7.0 - 7.9 (652)
+Pike	GA	7.1	
+  
+7.0 - 7.9 (652)
+Karnes	TX	7.1	
+  
+7.0 - 7.9 (652)
+Medina	TX	7.1	
+  
+7.0 - 7.9 (652)
+Hamilton	TN	7.1	
+  
+7.0 - 7.9 (652)
+Stanley	SD	7.1	
+  
+7.0 - 7.9 (652)
+Northampton	PA	7.1	
+  
+7.0 - 7.9 (652)
+Union	PA	7.1	
+  
+7.0 - 7.9 (652)
+Spartanburg	SC	7.1	
+  
+7.0 - 7.9 (652)
+Monroe	WI	7.1	
+  
+7.0 - 7.9 (652)
+Carbon	WY	7.1	
+  
+7.0 - 7.9 (652)
+Yakima	WA	7.1	
+  
+7.0 - 7.9 (652)
+Adams	WA	7.1	
+  
+7.0 - 7.9 (652)
+Skagit	WA	7.1	
+  
+7.0 - 7.9 (652)
+Lincoln	WY	7.1	
+  
+7.0 - 7.9 (652)
+Isle of Wight	VA	7.2	
+  
+7.0 - 7.9 (652)
+James City	VA	7.2	
+  
+7.0 - 7.9 (652)
+Gloucester	VA	7.2	
+  
+7.0 - 7.9 (652)
+Sussex	VA	7.2	
+  
+7.0 - 7.9 (652)
+Trempealeau	WI	7.2	
+  
+7.0 - 7.9 (652)
+Kewaunee	WI	7.2	
+  
+7.0 - 7.9 (652)
+Harding	SD	7.2	
+  
+7.0 - 7.9 (652)
+York	PA	7.2	
+  
+7.0 - 7.9 (652)
+Bailey	TX	7.2	
+  
+7.0 - 7.9 (652)
+Bastrop	TX	7.2	
+  
+7.0 - 7.9 (652)
+Caldwell	TX	7.2	
+  
+7.0 - 7.9 (652)
+Robertson	TN	7.2	
+  
+7.0 - 7.9 (652)
+Hale	TX	7.2	
+  
+7.0 - 7.9 (652)
+Washington	UT	7.2	
+  
+7.0 - 7.9 (652)
+Ochiltree	TX	7.2	
+  
+7.0 - 7.9 (652)
+Blaine	ID	7.2	
+  
+7.0 - 7.9 (652)
+Wakulla	FL	7.2	
+  
+7.0 - 7.9 (652)
+El Dorado	CA	7.2	
+  
+7.0 - 7.9 (652)
+Madera	CA	7.2	
+  
+7.0 - 7.9 (652)
+Coles	IL	7.2	
+  
+7.0 - 7.9 (652)
+Effingham	IL	7.2	
+  
+7.0 - 7.9 (652)
+Lyon	IA	7.2	
+  
+7.0 - 7.9 (652)
+Iowa	IA	7.2	
+  
+7.0 - 7.9 (652)
+Jasper	IA	7.2	
+  
+7.0 - 7.9 (652)
+Cedar	IA	7.2	
+  
+7.0 - 7.9 (652)
+Bossier	LA	7.2	
+  
+7.0 - 7.9 (652)
+Jessamine	KY	7.2	
+  
+7.0 - 7.9 (652)
+Pottawattamie	IA	7.2	
+  
+7.0 - 7.9 (652)
+Camden	NC	7.2	
+  
+7.0 - 7.9 (652)
+Buncombe	NC	7.2	
+  
+7.0 - 7.9 (652)
+Gaston	NC	7.2	
+  
+7.0 - 7.9 (652)
+York	NE	7.2	
+  
+7.0 - 7.9 (652)
+Saline	NE	7.2	
+  
+7.0 - 7.9 (652)
+Traill	ND	7.2	
+  
+7.0 - 7.9 (652)
+Jackson	OK	7.2	
+  
+7.0 - 7.9 (652)
+Logan	OK	7.2	
+  
+7.0 - 7.9 (652)
+Berks	PA	7.2	
+  
+7.0 - 7.9 (652)
+Linn	OR	7.2	
+  
+7.0 - 7.9 (652)
+Goodhue	MN	7.2	
+  
+7.0 - 7.9 (652)
+Steele	MN	7.2	
+  
+7.0 - 7.9 (652)
+Pennington	MN	7.2	
+  
+7.0 - 7.9 (652)
+Marquette	MI	7.2	
+  
+7.0 - 7.9 (652)
+Grand Traverse	MI	7.2	
+  
+7.0 - 7.9 (652)
+Barry	MI	7.2	
+  
+7.0 - 7.9 (652)
+Dukes	MA	7.2	
+  
+7.0 - 7.9 (652)
+Custer	MT	7.2	
+  
+7.0 - 7.9 (652)
+Dawson	MT	7.2	
+  
+7.0 - 7.9 (652)
+Cape Girardeau	MO	7.2	
+  
+7.0 - 7.9 (652)
+Jefferson	MO	7.2	
+  
+7.0 - 7.9 (652)
+Hill	MT	7.3	
+  
+7.0 - 7.9 (652)
+Silver Bow	MT	7.3	
+  
+7.0 - 7.9 (652)
+Franklin	MA	7.3	
+  
+7.0 - 7.9 (652)
+Washington	MD	7.3	
+  
+7.0 - 7.9 (652)
+St. John the Baptist	LA	7.3	
+  
+7.0 - 7.9 (652)
+West Feliciana	LA	7.3	
+  
+7.0 - 7.9 (652)
+Houghton	MI	7.3	
+  
+7.0 - 7.9 (652)
+Polk	MN	7.3	
+  
+7.0 - 7.9 (652)
+Sibley	MN	7.3	
+  
+7.0 - 7.9 (652)
+Roseau	MN	7.3	
+  
+7.0 - 7.9 (652)
+St. Louis	MN	7.3	
+  
+7.0 - 7.9 (652)
+Harrison	MS	7.3	
+  
+7.0 - 7.9 (652)
+McLeod	MN	7.3	
+  
+7.0 - 7.9 (652)
+Wayne	MI	7.3	
+  
+7.0 - 7.9 (652)
+Texas	OK	7.3	
+  
+7.0 - 7.9 (652)
+Dunn	ND	7.3	
+  
+7.0 - 7.9 (652)
+Licking	OH	7.3	
+  
+7.0 - 7.9 (652)
+Pierce	NE	7.3	
+  
+7.0 - 7.9 (652)
+Genesee	NY	7.3	
+  
+7.0 - 7.9 (652)
+Chaves	NM	7.3	
+  
+7.0 - 7.9 (652)
+Guadalupe	NM	7.3	
+  
+7.0 - 7.9 (652)
+Otero	NM	7.3	
+  
+7.0 - 7.9 (652)
+Alamance	NC	7.3	
+  
+7.0 - 7.9 (652)
+Warren	NY	7.3	
+  
+7.0 - 7.9 (652)
+Niagara	NY	7.3	
+  
+7.0 - 7.9 (652)
+Oneida	NY	7.3	
+  
+7.0 - 7.9 (652)
+Washington	IA	7.3	
+  
+7.0 - 7.9 (652)
+Meade	KY	7.3	
+  
+7.0 - 7.9 (652)
+Henry	IA	7.3	
+  
+7.0 - 7.9 (652)
+Marshall	IA	7.3	
+  
+7.0 - 7.9 (652)
+Mahaska	IA	7.3	
+  
+7.0 - 7.9 (652)
+Putnam	IN	7.3	
+  
+7.0 - 7.9 (652)
+Decatur	IN	7.3	
+  
+7.0 - 7.9 (652)
+DeKalb	IN	7.3	
+  
+7.0 - 7.9 (652)
+Menard	IL	7.3	
+  
+7.0 - 7.9 (652)
+Lincoln	CO	7.3	
+  
+7.0 - 7.9 (652)
+Autauga	AL	7.3	
+  
+7.0 - 7.9 (652)
+Montgomery	AL	7.3	
+  
+7.0 - 7.9 (652)
+Limestone	AL	7.3	
+  
+7.0 - 7.9 (652)
+Ouray	CO	7.3	
+  
+7.0 - 7.9 (652)
+Kent	DE	7.3	
+  
+7.0 - 7.9 (652)
+Baker	FL	7.3	
+  
+7.0 - 7.9 (652)
+Caribou	ID	7.3	
+  
+7.0 - 7.9 (652)
+Jerome	ID	7.3	
+  
+7.0 - 7.9 (652)
+Stewart	GA	7.3	
+  
+7.0 - 7.9 (652)
+Richmond	GA	7.3	
+  
+7.0 - 7.9 (652)
+Smith	TX	7.3	
+  
+7.0 - 7.9 (652)
+Victoria	TX	7.3	
+  
+7.0 - 7.9 (652)
+Val Verde	TX	7.3	
+  
+7.0 - 7.9 (652)
+Upton	TX	7.3	
+  
+7.0 - 7.9 (652)
+Sevier	UT	7.3	
+  
+7.0 - 7.9 (652)
+Emery	UT	7.3	
+  
+7.0 - 7.9 (652)
+Deaf Smith	TX	7.3	
+  
+7.0 - 7.9 (652)
+Liberty	TX	7.3	
+  
+7.0 - 7.9 (652)
+Jefferson	TX	7.3	
+  
+7.0 - 7.9 (652)
+Tipton	TN	7.3	
+  
+7.0 - 7.9 (652)
+Cheatham	TN	7.3	
+  
+7.0 - 7.9 (652)
+Lancaster	PA	7.3	
+  
+7.0 - 7.9 (652)
+Manitowoc	WI	7.3	
+  
+7.0 - 7.9 (652)
+Rockingham	VA	7.3	
+  
+7.0 - 7.9 (652)
+Clarke	VA	7.3	
+  
+7.0 - 7.9 (652)
+Dinwiddie	VA	7.3	
+  
+7.0 - 7.9 (652)
+Greensville	VA	7.3	
+  
+7.0 - 7.9 (652)
+Island	WA	7.3	
+  
+7.0 - 7.9 (652)
+Douglas	WA	7.3	
+  
+7.0 - 7.9 (652)
+Staunton	VA	7.3	
+  
+7.0 - 7.9 (652)
+Roanoke City	VA	7.3	
+  
+7.0 - 7.9 (652)
+Park	WY	7.3	
+  
+7.0 - 7.9 (652)
+Waynesboro	VA	7.4	
+  
+7.0 - 7.9 (652)
+Orange	VA	7.4	
+  
+7.0 - 7.9 (652)
+Jefferson	WV	7.4	
+  
+7.0 - 7.9 (652)
+McCook	SD	7.4	
+  
+7.0 - 7.9 (652)
+Yankton	SD	7.4	
+  
+7.0 - 7.9 (652)
+Hockley	TX	7.4	
+  
+7.0 - 7.9 (652)
+Nacogdoches	TX	7.4	
+  
+7.0 - 7.9 (652)
+Carbon	UT	7.4	
+  
+7.0 - 7.9 (652)
+Wise	TX	7.4	
+  
+7.0 - 7.9 (652)
+San Patricio	TX	7.4	
+  
+7.0 - 7.9 (652)
+Walton	GA	7.4	
+  
+7.0 - 7.9 (652)
+Kootenai	ID	7.4	
+  
+7.0 - 7.9 (652)
+Yuma	CO	7.4	
+  
+7.0 - 7.9 (652)
+Nome	AK	7.4	
+  
+7.0 - 7.9 (652)
+Kenai Peninsula	AK	7.4	
+  
+7.0 - 7.9 (652)
+Chaffee	CO	7.4	
+  
+7.0 - 7.9 (652)
+Humboldt	CA	7.4	
+  
+7.0 - 7.9 (652)
+Saline	AR	7.4	
+  
+7.0 - 7.9 (652)
+Power	ID	7.4	
+  
+7.0 - 7.9 (652)
+Vanderburgh	IN	7.4	
+  
+7.0 - 7.9 (652)
+Dearborn	IN	7.4	
+  
+7.0 - 7.9 (652)
+Morgan	IN	7.4	
+  
+7.0 - 7.9 (652)
+Kosciusko	IN	7.4	
+  
+7.0 - 7.9 (652)
+Louisa	IA	7.4	
+  
+7.0 - 7.9 (652)
+Hamilton	IA	7.4	
+  
+7.0 - 7.9 (652)
+Franklin	KY	7.4	
+  
+7.0 - 7.9 (652)
+Rowan	KY	7.4	
+  
+7.0 - 7.9 (652)
+Palo Alto	IA	7.4	
+  
+7.0 - 7.9 (652)
+Jefferson	KS	7.4	
+  
+7.0 - 7.9 (652)
+Franklin	KS	7.4	
+  
+7.0 - 7.9 (652)
+Calloway	KY	7.4	
+  
+7.0 - 7.9 (652)
+McPherson	KS	7.4	
+  
+7.0 - 7.9 (652)
+Oswego	NY	7.4	
+  
+7.0 - 7.9 (652)
+Otsego	NY	7.4	
+  
+7.0 - 7.9 (652)
+Wayne	NY	7.4	
+  
+7.0 - 7.9 (652)
+St. Lawrence	NY	7.4	
+  
+7.0 - 7.9 (652)
+Franklin	NC	7.4	
+  
+7.0 - 7.9 (652)
+Nemaha	NE	7.4	
+  
+7.0 - 7.9 (652)
+Scotts Bluff	NE	7.4	
+  
+7.0 - 7.9 (652)
+Humboldt	NV	7.4	
+  
+7.0 - 7.9 (652)
+Richland	ND	7.4	
+  
+7.0 - 7.9 (652)
+Wagoner	OK	7.4	
+  
+7.0 - 7.9 (652)
+Rogers	OK	7.4	
+  
+7.0 - 7.9 (652)
+Beltrami	MN	7.4	
+  
+7.0 - 7.9 (652)
+Kandiyohi	MN	7.4	
+  
+7.0 - 7.9 (652)
+Greene	MS	7.4	
+  
+7.0 - 7.9 (652)
+Monroe	MI	7.4	
+  
+7.0 - 7.9 (652)
+Kearney	NE	7.4	
+  
+7.0 - 7.9 (652)
+Fillmore	NE	7.5	
+  
+7.0 - 7.9 (652)
+Dodge	NE	7.5	
+  
+7.0 - 7.9 (652)
+Box Butte	NE	7.5	
+  
+7.0 - 7.9 (652)
+Butler	NE	7.5	
+  
+7.0 - 7.9 (652)
+Phelps	MO	7.5	
+  
+7.0 - 7.9 (652)
+Lowndes	MS	7.5	
+  
+7.0 - 7.9 (652)
+Muskegon	MI	7.5	
+  
+7.0 - 7.9 (652)
+Tangipahoa	LA	7.5	
+  
+7.0 - 7.9 (652)
+Somerset	MD	7.5	
+  
+7.0 - 7.9 (652)
+Jackson	MS	7.5	
+  
+7.0 - 7.9 (652)
+Wilkin	MN	7.5	
+  
+7.0 - 7.9 (652)
+Douglas	MN	7.5	
+  
+7.0 - 7.9 (652)
+Brown	MN	7.5	
+  
+7.0 - 7.9 (652)
+Jackson	OR	7.5	
+  
+7.0 - 7.9 (652)
+Stutsman	ND	7.5	
+  
+7.0 - 7.9 (652)
+Clermont	OH	7.5	
+  
+7.0 - 7.9 (652)
+Madison	OH	7.5	
+  
+7.0 - 7.9 (652)
+Cumberland	NJ	7.5	
+  
+7.0 - 7.9 (652)
+Phelps	NE	7.5	
+  
+7.0 - 7.9 (652)
+Broome	NY	7.5	
+  
+7.0 - 7.9 (652)
+Dare	NC	7.5	
+  
+7.0 - 7.9 (652)
+Catawba	NC	7.5	
+  
+7.0 - 7.9 (652)
+Sullivan	NY	7.5	
+  
+7.0 - 7.9 (652)
+Lincoln	NC	7.5	
+  
+7.0 - 7.9 (652)
+Saline	KS	7.5	
+  
+7.0 - 7.9 (652)
+Bullitt	KY	7.5	
+  
+7.0 - 7.9 (652)
+Sherman	KS	7.5	
+  
+7.0 - 7.9 (652)
+Wabaunsee	KS	7.5	
+  
+7.0 - 7.9 (652)
+Haskell	KS	7.5	
+  
+7.0 - 7.9 (652)
+Webster	IA	7.5	
+  
+7.0 - 7.9 (652)
+Winnebago	IA	7.5	
+  
+7.0 - 7.9 (652)
+Worth	IA	7.5	
+  
+7.0 - 7.9 (652)
+Woodford	KY	7.5	
+  
+7.0 - 7.9 (652)
+Calcasieu	LA	7.5	
+  
+7.0 - 7.9 (652)
+Plaquemines	LA	7.5	
+  
+7.0 - 7.9 (652)
+Harrison	IA	7.5	
+  
+7.0 - 7.9 (652)
+Jefferson	IA	7.5	
+  
+7.0 - 7.9 (652)
+Lake	IN	7.5	
+  
+7.0 - 7.9 (652)
+Vigo	IN	7.5	
+  
+7.0 - 7.9 (652)
+Noble	IN	7.5	
+  
+7.0 - 7.9 (652)
+Ogle	IL	7.5	
+  
+7.0 - 7.9 (652)
+Delaware	IN	7.5	
+  
+7.0 - 7.9 (652)
+Williamson	IL	7.5	
+  
+7.0 - 7.9 (652)
+Mineral	CO	7.5	
+  
+7.0 - 7.9 (652)
+Clark	AR	7.5	
+  
+7.0 - 7.9 (652)
+Bristol Bay	AK	7.5	
+  
+7.0 - 7.9 (652)
+Dawson	GA	7.5	
+  
+7.0 - 7.9 (652)
+Lumpkin	GA	7.5	
+  
+7.0 - 7.9 (652)
+Hall	GA	7.5	
+  
+7.0 - 7.9 (652)
+Orange	TX	7.5	
+  
+7.0 - 7.9 (652)
+Rich	UT	7.5	
+  
+7.0 - 7.9 (652)
+Windsor	VT	7.5	
+  
+7.0 - 7.9 (652)
+Orange	VT	7.5	
+  
+7.0 - 7.9 (652)
+Caledonia	VT	7.5	
+  
+7.0 - 7.9 (652)
+Bedford County	VA	7.5	
+  
+7.0 - 7.9 (652)
+Pennington	SD	7.5	
+  
+7.0 - 7.9 (652)
+Anderson	TX	7.5	
+  
+7.0 - 7.9 (652)
+Sumter	SC	7.5	
+  
+7.0 - 7.9 (652)
+Codington	SD	7.5	
+  
+7.0 - 7.9 (652)
+Monroe	PA	7.5	
+  
+7.0 - 7.9 (652)
+Berkeley	WV	7.5	
+  
+7.0 - 7.9 (652)
+Polk	WI	7.5	
+  
+7.0 - 7.9 (652)
+Chelan	WA	7.5	
+  
+7.0 - 7.9 (652)
+Waupaca	WI	7.6	
+  
+7.0 - 7.9 (652)
+Washington	PA	7.6	
+  
+7.0 - 7.9 (652)
+Aurora	SD	7.6	
+  
+7.0 - 7.9 (652)
+Lake	SD	7.6	
+  
+7.0 - 7.9 (652)
+Lawrence	SD	7.6	
+  
+7.0 - 7.9 (652)
+Davison	SD	7.6	
+  
+7.0 - 7.9 (652)
+Cameron	TX	7.6	
+  
+7.0 - 7.9 (652)
+Bowie	TX	7.6	
+  
+7.0 - 7.9 (652)
+Dickson	TN	7.6	
+  
+7.0 - 7.9 (652)
+Rutland	VT	7.6	
+  
+7.0 - 7.9 (652)
+Millard	UT	7.6	
+  
+7.0 - 7.9 (652)
+Parmer	TX	7.6	
+  
+7.0 - 7.9 (652)
+Scurry	TX	7.6	
+  
+7.0 - 7.9 (652)
+Hunt	TX	7.6	
+  
+7.0 - 7.9 (652)
+Jones	TX	7.6	
+  
+7.0 - 7.9 (652)
+Grayson	TX	7.6	
+  
+7.0 - 7.9 (652)
+Peach	GA	7.6	
+  
+7.0 - 7.9 (652)
+Fremont	ID	7.6	
+  
+7.0 - 7.9 (652)
+Catoosa	GA	7.6	
+  
+7.0 - 7.9 (652)
+Baldwin	GA	7.6	
+  
+7.0 - 7.9 (652)
+Prowers	CO	7.6	
+  
+7.0 - 7.9 (652)
+Cheyenne	CO	7.6	
+  
+7.0 - 7.9 (652)
+Archuleta	CO	7.6	
+  
+7.0 - 7.9 (652)
+Glenn	CA	7.6	
+  
+7.0 - 7.9 (652)
+Winnebago	IL	7.6	
+  
+7.0 - 7.9 (652)
+Warren	IL	7.6	
+  
+7.0 - 7.9 (652)
+Washington	IL	7.6	
+  
+7.0 - 7.9 (652)
+Dubois	IN	7.6	
+  
+7.0 - 7.9 (652)
+Lincoln	ID	7.6	
+  
+7.0 - 7.9 (652)
+Henry	IL	7.6	
+  
+7.0 - 7.9 (652)
+Lawrence	IL	7.6	
+  
+7.0 - 7.9 (652)
+Posey	IN	7.6	
+  
+7.0 - 7.9 (652)
+Jasper	IN	7.6	
+  
+7.0 - 7.9 (652)
+Gibson	IN	7.6	
+  
+7.0 - 7.9 (652)
+Davis	IA	7.6	
+  
+7.0 - 7.9 (652)
+Jefferson	LA	7.6	
+  
+7.0 - 7.9 (652)
+Grant	KY	7.6	
+  
+7.0 - 7.9 (652)
+Harvey	KS	7.6	
+  
+7.0 - 7.9 (652)
+Ellsworth	KS	7.6	
+  
+7.0 - 7.9 (652)
+Craven	NC	7.6	
+  
+7.0 - 7.9 (652)
+Pender	NC	7.6	
+  
+7.0 - 7.9 (652)
+Granville	NC	7.6	
+  
+7.0 - 7.9 (652)
+Washington	NY	7.6	
+  
+7.0 - 7.9 (652)
+Allegany	NY	7.6	
+  
+7.0 - 7.9 (652)
+Franklin	NY	7.6	
+  
+7.0 - 7.9 (652)
+Chemung	NY	7.6	
+  
+7.0 - 7.9 (652)
+Red Willow	NE	7.6	
+  
+7.0 - 7.9 (652)
+Otoe	NE	7.6	
+  
+7.0 - 7.9 (652)
+Perkins	NE	7.6	
+  
+7.0 - 7.9 (652)
+Thurston	NE	7.6	
+  
+7.0 - 7.9 (652)
+Atlantic	NJ	7.6	
+  
+7.0 - 7.9 (652)
+Belknap	NH	7.6	
+  
+7.0 - 7.9 (652)
+Hancock	OH	7.6	
+  
+7.0 - 7.9 (652)
+Dickey	ND	7.6	
+  
+7.0 - 7.9 (652)
+Union	OR	7.6	
+  
+7.0 - 7.9 (652)
+Woods	OK	7.6	
+  
+7.0 - 7.9 (652)
+Wasco	OR	7.6	
+  
+7.0 - 7.9 (652)
+Columbia	PA	7.6	
+  
+7.0 - 7.9 (652)
+Kingfisher	OK	7.6	
+  
+7.0 - 7.9 (652)
+Rock	MN	7.6	
+  
+7.0 - 7.9 (652)
+Caroline	MD	7.6	
+  
+7.0 - 7.9 (652)
+St. Bernard	LA	7.6	
+  
+7.0 - 7.9 (652)
+Gratiot	MI	7.6	
+  
+7.0 - 7.9 (652)
+Berkshire	MA	7.6	
+  
+7.0 - 7.9 (652)
+Osage	MO	7.6	
+  
+7.0 - 7.9 (652)
+Moniteau	MO	7.6	
+  
+7.0 - 7.9 (652)
+Cheyenne	NE	7.6	
+  
+7.0 - 7.9 (652)
+Blaine	NE	7.6	
+  
+7.0 - 7.9 (652)
+Lincoln	NE	7.6	
+  
+7.0 - 7.9 (652)
+Stillwater	MT	7.6	
+  
+7.0 - 7.9 (652)
+Park	MT	7.6	
+  
+7.0 - 7.9 (652)
+Howard	NE	7.7	
+  
+7.0 - 7.9 (652)
+Toole	MT	7.7	
+  
+7.0 - 7.9 (652)
+Clay	NE	7.7	
+  
+7.0 - 7.9 (652)
+Cedar	NE	7.7	
+  
+7.0 - 7.9 (652)
+Jasper	MO	7.7	
+  
+7.0 - 7.9 (652)
+Franklin	MO	7.7	
+  
+7.0 - 7.9 (652)
+Clinton	MO	7.7	
+  
+7.0 - 7.9 (652)
+Andrew	MO	7.7	
+  
+7.0 - 7.9 (652)
+Calhoun	MI	7.7	
+  
+7.0 - 7.9 (652)
+Jackson	MI	7.7	
+  
+7.0 - 7.9 (652)
+Lenawee	MI	7.7	
+  
+7.0 - 7.9 (652)
+Mower	MN	7.7	
+  
+7.0 - 7.9 (652)
+Wabasha	MN	7.7	
+  
+7.0 - 7.9 (652)
+Shiawassee	MI	7.7	
+  
+7.0 - 7.9 (652)
+Houston	MN	7.7	
+  
+7.0 - 7.9 (652)
+Meeker	MN	7.7	
+  
+7.0 - 7.9 (652)
+Mille Lacs	MN	7.7	
+  
+7.0 - 7.9 (652)
+Pontotoc	OK	7.7	
+  
+7.0 - 7.9 (652)
+Garfield	OK	7.7	
+  
+7.0 - 7.9 (652)
+Grady	OK	7.7	
+  
+7.0 - 7.9 (652)
+Adams	PA	7.7	
+  
+7.0 - 7.9 (652)
+Woodward	OK	7.7	
+  
+7.0 - 7.9 (652)
+Clatsop	OR	7.7	
+  
+7.0 - 7.9 (652)
+Sargent	ND	7.7	
+  
+7.0 - 7.9 (652)
+Pickaway	OH	7.7	
+  
+7.0 - 7.9 (652)
+Putnam	OH	7.7	
+  
+7.0 - 7.9 (652)
+Pershing	NV	7.7	
+  
+7.0 - 7.9 (652)
+San Juan	NM	7.7	
+  
+7.0 - 7.9 (652)
+Salem	NJ	7.7	
+  
+7.0 - 7.9 (652)
+Lee	NC	7.7	
+  
+7.0 - 7.9 (652)
+Jackson	NC	7.7	
+  
+7.0 - 7.9 (652)
+Wayne	NC	7.7	
+  
+7.0 - 7.9 (652)
+Barnes	ND	7.7	
+  
+7.0 - 7.9 (652)
+Cowley	KS	7.7	
+  
+7.0 - 7.9 (652)
+Union	IA	7.7	
+  
+7.0 - 7.9 (652)
+Rice	KS	7.7	
+  
+7.0 - 7.9 (652)
+Nemaha	KS	7.7	
+  
+7.0 - 7.9 (652)
+Kingman	KS	7.7	
+  
+7.0 - 7.9 (652)
+Delaware	IA	7.7	
+  
+7.0 - 7.9 (652)
+Clay	IA	7.7	
+  
+7.0 - 7.9 (652)
+Emmet	IA	7.7	
+  
+7.0 - 7.9 (652)
+Cerro Gordo	IA	7.7	
+  
+7.0 - 7.9 (652)
+Mitchell	IA	7.7	
+  
+7.0 - 7.9 (652)
+Huntington	IN	7.7	
+  
+7.0 - 7.9 (652)
+LaGrange	IN	7.7	
+  
+7.0 - 7.9 (652)
+Shelby	IN	7.7	
+  
+7.0 - 7.9 (652)
+Whitley	IN	7.7	
+  
+7.0 - 7.9 (652)
+LaSalle	IL	7.7	
+  
+7.0 - 7.9 (652)
+Douglas	IL	7.7	
+  
+7.0 - 7.9 (652)
+Minidoka	ID	7.7	
+  
+7.0 - 7.9 (652)
+Clark	IL	7.7	
+  
+7.0 - 7.9 (652)
+Crawford	IL	7.7	
+  
+7.0 - 7.9 (652)
+Rock Island	IL	7.7	
+  
+7.0 - 7.9 (652)
+Moultrie	IL	7.7	
+  
+7.0 - 7.9 (652)
+Jackson	CO	7.7	
+  
+7.0 - 7.9 (652)
+Dillingham	AK	7.7	
+  
+7.0 - 7.9 (652)
+Russell	AL	7.7	
+  
+7.0 - 7.9 (652)
+St. Clair	AL	7.7	
+  
+7.0 - 7.9 (652)
+Lake and Peninsula	AK	7.7	
+  
+7.0 - 7.9 (652)
+Northwest Arctic	AK	7.7	
+  
+7.0 - 7.9 (652)
+Pinal	AZ	7.7	
+  
+7.0 - 7.9 (652)
+Rio Grande	CO	7.7	
+  
+7.0 - 7.9 (652)
+Washington	CO	7.7	
+  
+7.0 - 7.9 (652)
+Troup	GA	7.7	
+  
+7.0 - 7.9 (652)
+Morgan	GA	7.7	
+  
+7.0 - 7.9 (652)
+Haralson	GA	7.7	
+  
+7.0 - 7.9 (652)
+Lamar	GA	7.7	
+  
+7.0 - 7.9 (652)
+Gregg	TX	7.7	
+  
+7.0 - 7.9 (652)
+Hardin	TX	7.7	
+  
+7.0 - 7.9 (652)
+Jim Wells	TX	7.7	
+  
+7.0 - 7.9 (652)
+Sherman	TX	7.7	
+  
+7.0 - 7.9 (652)
+Potter	TX	7.7	
+  
+7.0 - 7.9 (652)
+Willacy	TX	7.7	
+  
+7.0 - 7.9 (652)
+Windham	VT	7.7	
+  
+7.0 - 7.9 (652)
+Bennington	VT	7.7	
+  
+7.0 - 7.9 (652)
+Turner	SD	7.7	
+  
+7.0 - 7.9 (652)
+Spink	SD	7.7	
+  
+7.0 - 7.9 (652)
+Bedford	TN	7.7	
+  
+7.0 - 7.9 (652)
+Borden	TX	7.7	
+  
+7.0 - 7.9 (652)
+Carson	TX	7.7	
+  
+7.0 - 7.9 (652)
+Marshall	SD	7.7	
+  
+7.0 - 7.9 (652)
+Moody	SD	7.7	
+  
+7.0 - 7.9 (652)
+Anderson	SC	7.7	
+  
+7.0 - 7.9 (652)
+Wood	WI	7.7	
+  
+7.0 - 7.9 (652)
+Fremont	WY	7.7	
+  
+7.0 - 7.9 (652)
+Lafayette	WI	7.7	
+  
+7.0 - 7.9 (652)
+Oconto	WI	7.7	
+  
+7.0 - 7.9 (652)
+Petersburg	VA	7.7	
+  
+7.0 - 7.9 (652)
+Cowlitz	WA	7.8	
+  
+7.0 - 7.9 (652)
+Goshen	WY	7.8	
+  
+7.0 - 7.9 (652)
+Crook	WY	7.8	
+  
+7.0 - 7.9 (652)
+Florence	SC	7.8	
+  
+7.0 - 7.9 (652)
+Snyder	PA	7.8	
+  
+7.0 - 7.9 (652)
+Calhoun	TX	7.8	
+  
+7.0 - 7.9 (652)
+Washington	TN	7.8	
+  
+7.0 - 7.9 (652)
+Putnam	TN	7.8	
+  
+7.0 - 7.9 (652)
+Bradley	TN	7.8	
+  
+7.0 - 7.9 (652)
+Sanborn	SD	7.8	
+  
+7.0 - 7.9 (652)
+Augusta	VA	7.8	
+  
+7.0 - 7.9 (652)
+Botetourt	VA	7.8	
+  
+7.0 - 7.9 (652)
+Rusk	TX	7.8	
+  
+7.0 - 7.9 (652)
+Hutchinson	TX	7.8	
+  
+7.0 - 7.9 (652)
+Franklin	TX	7.8	
+  
+7.0 - 7.9 (652)
+Jones	GA	7.8	
+  
+7.0 - 7.9 (652)
+Tift	GA	7.8	
+  
+7.0 - 7.9 (652)
+Nassau	FL	7.8	
+  
+7.0 - 7.9 (652)
+Bibb	GA	7.8	
+  
+7.0 - 7.9 (652)
+Dolores	CO	7.8	
+  
+7.0 - 7.9 (652)
+Fremont	CO	7.8	
+  
+7.0 - 7.9 (652)
+De Witt	IL	7.8	
+  
+7.0 - 7.9 (652)
+Bond	IL	7.8	
+  
+7.0 - 7.9 (652)
+Nez Perce	ID	7.8	
+  
+7.0 - 7.9 (652)
+Adams	IL	7.8	
+  
+7.0 - 7.9 (652)
+Lee	IL	7.8	
+  
+7.0 - 7.9 (652)
+Livingston	IL	7.8	
+  
+7.0 - 7.9 (652)
+Wells	IN	7.8	
+  
+7.0 - 7.9 (652)
+Jennings	IN	7.8	
+  
+7.0 - 7.9 (652)
+Monroe	IA	7.8	
+  
+7.0 - 7.9 (652)
+Jones	IA	7.8	
+  
+7.0 - 7.9 (652)
+Howard	IA	7.8	
+  
+7.0 - 7.9 (652)
+Carroll	IA	7.8	
+  
+7.0 - 7.9 (652)
+Decatur	IA	7.8	
+  
+7.0 - 7.9 (652)
+Norton	KS	7.8	
+  
+7.0 - 7.9 (652)
+Pratt	KS	7.8	
+  
+7.0 - 7.9 (652)
+Stevens	KS	7.8	
+  
+7.0 - 7.9 (652)
+Anderson	KY	7.8	
+  
+7.0 - 7.9 (652)
+Ouachita	LA	7.8	
+  
+7.0 - 7.9 (652)
+Beauregard	LA	7.8	
+  
+7.0 - 7.9 (652)
+Simpson	KY	7.8	
+  
+7.0 - 7.9 (652)
+Moore	NC	7.8	
+  
+7.0 - 7.9 (652)
+Tioga	NY	7.8	
+  
+7.0 - 7.9 (652)
+Seneca	NY	7.8	
+  
+7.0 - 7.9 (652)
+Steuben	NY	7.8	
+  
+7.0 - 7.9 (652)
+Ocean	NJ	7.8	
+  
+7.0 - 7.9 (652)
+Cayuga	NY	7.8	
+  
+7.0 - 7.9 (652)
+Sullivan	NH	7.8	
+  
+7.0 - 7.9 (652)
+Montgomery	OH	7.8	
+  
+7.0 - 7.9 (652)
+Summit	OH	7.8	
+  
+7.0 - 7.9 (652)
+Hardin	OH	7.8	
+  
+7.0 - 7.9 (652)
+Lucas	OH	7.8	
+  
+7.0 - 7.9 (652)
+Renville	ND	7.8	
+  
+7.0 - 7.9 (652)
+Malheur	OR	7.8	
+  
+7.0 - 7.9 (652)
+Jefferson	OR	7.8	
+  
+7.0 - 7.9 (652)
+Erie	PA	7.8	
+  
+7.0 - 7.9 (652)
+Beckham	OK	7.8	
+  
+7.0 - 7.9 (652)
+Crow Wing	MN	7.8	
+  
+7.0 - 7.9 (652)
+Montcalm	MI	7.8	
+  
+7.0 - 7.9 (652)
+Mecosta	MI	7.8	
+  
+7.0 - 7.9 (652)
+Lapeer	MI	7.8	
+  
+7.0 - 7.9 (652)
+Genesee	MI	7.8	
+  
+7.0 - 7.9 (652)
+Sagadahoc	ME	7.8	
+  
+7.0 - 7.9 (652)
+Buchanan	MO	7.8	
+  
+7.0 - 7.9 (652)
+Tate	MS	7.8	
+  
+7.0 - 7.9 (652)
+Randolph	MO	7.8	
+  
+7.0 - 7.9 (652)
+Cuming	NE	7.8	
+  
+7.0 - 7.9 (652)
+Dixon	NE	7.8	
+  
+7.0 - 7.9 (652)
+Beaverhead	MT	7.8	
+  
+7.0 - 7.9 (652)
+Chase	NE	7.9	
+  
+7.0 - 7.9 (652)
+Banner	NE	7.9	
+  
+7.0 - 7.9 (652)
+Merrick	NE	7.9	
+  
+7.0 - 7.9 (652)
+Morrill	NE	7.9	
+  
+7.0 - 7.9 (652)
+Pontotoc	MS	7.9	
+  
+7.0 - 7.9 (652)
+Allegany	MD	7.9	
+  
+7.0 - 7.9 (652)
+Barnstable	MA	7.9	
+  
+7.0 - 7.9 (652)
+Androscoggin	ME	7.9	
+  
+7.0 - 7.9 (652)
+Emmet	MI	7.9	
+  
+7.0 - 7.9 (652)
+Morrison	MN	7.9	
+  
+7.0 - 7.9 (652)
+Nobles	MN	7.9	
+  
+7.0 - 7.9 (652)
+Franklin	PA	7.9	
+  
+7.0 - 7.9 (652)
+Cuyahoga	OH	7.9	
+  
+7.0 - 7.9 (652)
+Lake	OH	7.9	
+  
+7.0 - 7.9 (652)
+Miami	OH	7.9	
+  
+7.0 - 7.9 (652)
+Churchill	NV	7.9	
+  
+7.0 - 7.9 (652)
+Greene	NY	7.9	
+  
+7.0 - 7.9 (652)
+Schoharie	NY	7.9	
+  
+7.0 - 7.9 (652)
+Orleans	NY	7.9	
+  
+7.0 - 7.9 (652)
+Nash	NC	7.9	
+  
+7.0 - 7.9 (652)
+Burke	ND	7.9	
+  
+7.0 - 7.9 (652)
+Rowan	NC	7.9	
+  
+7.0 - 7.9 (652)
+Stanly	NC	7.9	
+  
+7.0 - 7.9 (652)
+Union	KY	7.9	
+  
+7.0 - 7.9 (652)
+Allen	LA	7.9	
+  
+7.0 - 7.9 (652)
+Wapello	IA	7.9	
+  
+7.0 - 7.9 (652)
+Clark	KS	7.9	
+  
+7.0 - 7.9 (652)
+Dickinson	KS	7.9	
+  
+7.0 - 7.9 (652)
+Jackson	KS	7.9	
+  
+7.0 - 7.9 (652)
+Kearny	KS	7.9	
+  
+7.0 - 7.9 (652)
+Dickinson	IA	7.9	
+  
+7.0 - 7.9 (652)
+Chickasaw	IA	7.9	
+  
+7.0 - 7.9 (652)
+Page	IA	7.9	
+  
+7.0 - 7.9 (652)
+O'Brien	IA	7.9	
+  
+7.0 - 7.9 (652)
+Lee	IA	7.9	
+  
+7.0 - 7.9 (652)
+Jackson	IN	7.9	
+  
+7.0 - 7.9 (652)
+Harrison	IN	7.9	
+  
+7.0 - 7.9 (652)
+Ripley	IN	7.9	
+  
+7.0 - 7.9 (652)
+Ford	IL	7.9	
+  
+7.0 - 7.9 (652)
+Payette	ID	7.9	
+  
+7.0 - 7.9 (652)
+Morgan	IL	7.9	
+  
+7.0 - 7.9 (652)
+Macon	IL	7.9	
+  
+7.0 - 7.9 (652)
+Scott	IL	7.9	
+  
+7.0 - 7.9 (652)
+Whiteside	IL	7.9	
+  
+7.0 - 7.9 (652)
+Clinton	IN	7.9	
+  
+7.0 - 7.9 (652)
+Shasta	CA	7.9	
+  
+7.0 - 7.9 (652)
+Pope	AR	7.9	
+  
+7.0 - 7.9 (652)
+Santa Cruz	AZ	7.9	
+  
+7.0 - 7.9 (652)
+Crittenden	AR	7.9	
+  
+7.0 - 7.9 (652)
+Walton	FL	7.9	
+  
+7.0 - 7.9 (652)
+Bay	FL	7.9	
+  
+7.0 - 7.9 (652)
+Monroe	GA	7.9	
+  
+7.0 - 7.9 (652)
+Dallam	TX	7.9	
+  
+7.0 - 7.9 (652)
+Uvalde	TX	7.9	
+  
+7.0 - 7.9 (652)
+Starr	TX	7.9	
+  
+7.0 - 7.9 (652)
+Titus	TX	7.9	
+  
+7.0 - 7.9 (652)
+Marshall	TN	7.9	
+  
+7.0 - 7.9 (652)
+Castro	TX	7.9	
+  
+7.0 - 7.9 (652)
+Montour	PA	7.9	
+  
+7.0 - 7.9 (652)
+Perry	PA	7.9	
+  
+7.0 - 7.9 (652)
+Lycoming	PA	7.9	
+  
+7.0 - 7.9 (652)
+Lackawanna	PA	7.9	
+  
+7.0 - 7.9 (652)
+Kershaw	SC	7.9	
+  
+7.0 - 7.9 (652)
+Deuel	SD	7.9	
+  
+7.0 - 7.9 (652)
+Grant	SD	7.9	
+  
+7.0 - 7.9 (652)
+Beadle	SD	7.9	
+  
+7.0 - 7.9 (652)
+Brule	SD	7.9	
+  
+7.0 - 7.9 (652)
+Jackson	WI	7.9	
+  
+7.0 - 7.9 (652)
+Buffalo	WI	7.9	
+  
+7.0 - 7.9 (652)
+Hopewell	VA	7.9	
+  
+7.0 - 7.9 (652)
+Louisa	VA	7.9	
+  
+7.0 - 7.9 (652)
+Campbell	VA	7.9	
+  
+7.0 - 7.9 (652)
+Washakie	WY	7.9	
+  
+7.0 - 7.9 (652)
+Weston	WY	8.0	
+  
+8.0 - 8.6 (576)
+Garfield	WA	8.0	
+  
+8.0 - 8.6 (576)
+Lincoln	WI	8.0	
+  
+8.0 - 8.6 (576)
+Clark	WI	8.0	
+  
+8.0 - 8.6 (576)
+Kingsbury	SD	8.0	
+  
+8.0 - 8.6 (576)
+Lancaster	SC	8.0	
+  
+8.0 - 8.6 (576)
+Aiken	SC	8.0	
+  
+8.0 - 8.6 (576)
+Indiana	PA	8.0	
+  
+8.0 - 8.6 (576)
+Lebanon	PA	8.0	
+  
+8.0 - 8.6 (576)
+Armstrong	TX	8.0	
+  
+8.0 - 8.6 (576)
+Madison	TN	8.0	
+  
+8.0 - 8.6 (576)
+Chester	TN	8.0	
+  
+8.0 - 8.6 (576)
+Somervell	TX	8.0	
+  
+8.0 - 8.6 (576)
+Roberts	TX	8.0	
+  
+8.0 - 8.6 (576)
+Amherst	VA	8.0	
+  
+8.0 - 8.6 (576)
+Appomattox	VA	8.0	
+  
+8.0 - 8.6 (576)
+Kane	UT	8.0	
+  
+8.0 - 8.6 (576)
+Cooke	TX	8.0	
+  
+8.0 - 8.6 (576)
+Glasscock	TX	8.0	
+  
+8.0 - 8.6 (576)
+Lipscomb	TX	8.0	
+  
+8.0 - 8.6 (576)
+Sumter	GA	8.0	
+  
+8.0 - 8.6 (576)
+Whitfield	GA	8.0	
+  
+8.0 - 8.6 (576)
+Monroe	FL	8.0	
+  
+8.0 - 8.6 (576)
+Grant	AR	8.0	
+  
+8.0 - 8.6 (576)
+Yuma	AZ	8.0	
+  
+8.0 - 8.6 (576)
+Mobile	AL	8.0	
+  
+8.0 - 8.6 (576)
+Baldwin	AL	8.0	
+  
+8.0 - 8.6 (576)
+Coffee	AL	8.0	
+  
+8.0 - 8.6 (576)
+Hinsdale	CO	8.0	
+  
+8.0 - 8.6 (576)
+Conejos	CO	8.0	
+  
+8.0 - 8.6 (576)
+Kit Carson	CO	8.0	
+  
+8.0 - 8.6 (576)
+Cass	IL	8.0	
+  
+8.0 - 8.6 (576)
+Cumberland	IL	8.0	
+  
+8.0 - 8.6 (576)
+Jefferson	IL	8.0	
+  
+8.0 - 8.6 (576)
+Perry	IN	8.0	
+  
+8.0 - 8.6 (576)
+Union	IN	8.0	
+  
+8.0 - 8.6 (576)
+Franklin	IN	8.0	
+  
+8.0 - 8.6 (576)
+Howard	IN	8.0	
+  
+8.0 - 8.6 (576)
+Jefferson	IN	8.0	
+  
+8.0 - 8.6 (576)
+LaPorte	IN	8.0	
+  
+8.0 - 8.6 (576)
+Montgomery	IN	8.0	
+  
+8.0 - 8.6 (576)
+Hardin	IA	8.0	
+  
+8.0 - 8.6 (576)
+Crawford	IA	8.0	
+  
+8.0 - 8.6 (576)
+Greene	IA	8.0	
+  
+8.0 - 8.6 (576)
+Tama	IA	8.0	
+  
+8.0 - 8.6 (576)
+Wichita	KS	8.0	
+  
+8.0 - 8.6 (576)
+Ottawa	KS	8.0	
+  
+8.0 - 8.6 (576)
+Grant	LA	8.0	
+  
+8.0 - 8.6 (576)
+Rapides	LA	8.0	
+  
+8.0 - 8.6 (576)
+Daviess	KY	8.0	
+  
+8.0 - 8.6 (576)
+Montgomery	NY	8.0	
+  
+8.0 - 8.6 (576)
+Davidson	NC	8.0	
+  
+8.0 - 8.6 (576)
+Yates	NY	8.0	
+  
+8.0 - 8.6 (576)
+Herkimer	NY	8.0	
+  
+8.0 - 8.6 (576)
+Columbia	NY	8.0	
+  
+8.0 - 8.6 (576)
+Thomas	NE	8.0	
+  
+8.0 - 8.6 (576)
+Polk	NE	8.0	
+  
+8.0 - 8.6 (576)
+Carson City	NV	8.0	
+  
+8.0 - 8.6 (576)
+Knox	OH	8.0	
+  
+8.0 - 8.6 (576)
+Mercer	OH	8.0	
+  
+8.0 - 8.6 (576)
+Defiance	OH	8.0	
+  
+8.0 - 8.6 (576)
+Fulton	OH	8.0	
+  
+8.0 - 8.6 (576)
+Auglaize	OH	8.0	
+  
+8.0 - 8.6 (576)
+Beaver	PA	8.0	
+  
+8.0 - 8.6 (576)
+George	MS	8.0	
+  
+8.0 - 8.6 (576)
+Fillmore	MN	8.0	
+  
+8.0 - 8.6 (576)
+Saginaw	MI	8.0	
+  
+8.0 - 8.6 (576)
+St. Clair	MI	8.0	
+  
+8.0 - 8.6 (576)
+Cooper	MO	8.0	
+  
+8.0 - 8.6 (576)
+Pettis	MO	8.0	
+  
+8.0 - 8.6 (576)
+Howard	MO	8.0	
+  
+8.0 - 8.6 (576)
+Holt	NE	8.0	
+  
+8.0 - 8.6 (576)
+Gage	NE	8.0	
+  
+8.0 - 8.6 (576)
+Powell	MT	8.0	
+  
+8.0 - 8.6 (576)
+Rosebud	MT	8.1	
+  
+8.0 - 8.6 (576)
+Broadwater	MT	8.1	
+  
+8.0 - 8.6 (576)
+Warren	MO	8.1	
+  
+8.0 - 8.6 (576)
+Frontier	NE	8.1	
+  
+8.0 - 8.6 (576)
+Gosper	NE	8.1	
+  
+8.0 - 8.6 (576)
+Nance	NE	8.1	
+  
+8.0 - 8.6 (576)
+DeKalb	MO	8.1	
+  
+8.0 - 8.6 (576)
+Union	MS	8.1	
+  
+8.0 - 8.6 (576)
+Lincoln	MS	8.1	
+  
+8.0 - 8.6 (576)
+Becker	MN	8.1	
+  
+8.0 - 8.6 (576)
+Marshall	MN	8.1	
+  
+8.0 - 8.6 (576)
+Jackson	MN	8.1	
+  
+8.0 - 8.6 (576)
+Itawamba	MS	8.1	
+  
+8.0 - 8.6 (576)
+Yellow Medicine	MN	8.1	
+  
+8.0 - 8.6 (576)
+Norman	MN	8.1	
+  
+8.0 - 8.6 (576)
+Berrien	MI	8.1	
+  
+8.0 - 8.6 (576)
+Chippewa	MI	8.1	
+  
+8.0 - 8.6 (576)
+Penobscot	ME	8.1	
+  
+8.0 - 8.6 (576)
+Clinton	PA	8.1	
+  
+8.0 - 8.6 (576)
+Morrow	OR	8.1	
+  
+8.0 - 8.6 (576)
+Ramsey	ND	8.1	
+  
+8.0 - 8.6 (576)
+Geauga	OH	8.1	
+  
+8.0 - 8.6 (576)
+Shelby	OH	8.1	
+  
+8.0 - 8.6 (576)
+Rock	NE	8.1	
+  
+8.0 - 8.6 (576)
+Valley	NE	8.1	
+  
+8.0 - 8.6 (576)
+Webster	NE	8.1	
+  
+8.0 - 8.6 (576)
+Fulton	NY	8.1	
+  
+8.0 - 8.6 (576)
+Essex	NY	8.1	
+  
+8.0 - 8.6 (576)
+Rio Arriba	NM	8.1	
+  
+8.0 - 8.6 (576)
+Lewis	NY	8.1	
+  
+8.0 - 8.6 (576)
+Iberville	LA	8.1	
+  
+8.0 - 8.6 (576)
+Taylor	KY	8.1	
+  
+8.0 - 8.6 (576)
+Sumner	KS	8.1	
+  
+8.0 - 8.6 (576)
+Stanton	KS	8.1	
+  
+8.0 - 8.6 (576)
+Taylor	IA	8.1	
+  
+8.0 - 8.6 (576)
+Shelby	IA	8.1	
+  
+8.0 - 8.6 (576)
+Doniphan	KS	8.1	
+  
+8.0 - 8.6 (576)
+Coffey	KS	8.1	
+  
+8.0 - 8.6 (576)
+Floyd	IA	8.1	
+  
+8.0 - 8.6 (576)
+Des Moines	IA	8.1	
+  
+8.0 - 8.6 (576)
+Clinton	IA	8.1	
+  
+8.0 - 8.6 (576)
+Butler	IA	8.1	
+  
+8.0 - 8.6 (576)
+Hancock	IA	8.1	
+  
+8.0 - 8.6 (576)
+Guthrie	IA	8.1	
+  
+8.0 - 8.6 (576)
+Jackson	IA	8.1	
+  
+8.0 - 8.6 (576)
+Tipton	IN	8.1	
+  
+8.0 - 8.6 (576)
+Jasper	IL	8.1	
+  
+8.0 - 8.6 (576)
+Fulton	IL	8.1	
+  
+8.0 - 8.6 (576)
+Richland	IL	8.1	
+  
+8.0 - 8.6 (576)
+Putnam	IL	8.1	
+  
+8.0 - 8.6 (576)
+Montezuma	CO	8.1	
+  
+8.0 - 8.6 (576)
+Montrose	CO	8.1	
+  
+8.0 - 8.6 (576)
+Inyo	CA	8.1	
+  
+8.0 - 8.6 (576)
+White	AR	8.1	
+  
+8.0 - 8.6 (576)
+Nevada	CA	8.1	
+  
+8.0 - 8.6 (576)
+Bethel	AK	8.1	
+  
+8.0 - 8.6 (576)
+Greene	AR	8.1	
+  
+8.0 - 8.6 (576)
+Bleckley	GA	8.1	
+  
+8.0 - 8.6 (576)
+Butts	GA	8.1	
+  
+8.0 - 8.6 (576)
+Echols	GA	8.1	
+  
+8.0 - 8.6 (576)
+Coffee	GA	8.1	
+  
+8.0 - 8.6 (576)
+Floyd	GA	8.1	
+  
+8.0 - 8.6 (576)
+Habersham	GA	8.1	
+  
+8.0 - 8.6 (576)
+Gordon	GA	8.1	
+  
+8.0 - 8.6 (576)
+Hansford	TX	8.1	
+  
+8.0 - 8.6 (576)
+Duval	TX	8.1	
+  
+8.0 - 8.6 (576)
+Wayne	UT	8.1	
+  
+8.0 - 8.6 (576)
+Daggett	UT	8.1	
+  
+8.0 - 8.6 (576)
+Orleans	VT	8.1	
+  
+8.0 - 8.6 (576)
+Blount	TN	8.1	
+  
+8.0 - 8.6 (576)
+Westmoreland	PA	8.1	
+  
+8.0 - 8.6 (576)
+Edmunds	SD	8.1	
+  
+8.0 - 8.6 (576)
+Pepin	WI	8.1	
+  
+8.0 - 8.6 (576)
+Shawano	WI	8.1	
+  
+8.0 - 8.6 (576)
+Taylor	WI	8.1	
+  
+8.0 - 8.6 (576)
+Giles	VA	8.1	
+  
+8.0 - 8.6 (576)
+King and Queen	VA	8.1	
+  
+8.0 - 8.6 (576)
+Madison	VA	8.1	
+  
+8.0 - 8.6 (576)
+Southampton	VA	8.1	
+  
+8.0 - 8.6 (576)
+Nottoway	VA	8.2	
+  
+8.0 - 8.6 (576)
+Craig	VA	8.2	
+  
+8.0 - 8.6 (576)
+Cumberland	VA	8.2	
+  
+8.0 - 8.6 (576)
+Lewis	WA	8.2	
+  
+8.0 - 8.6 (576)
+Covington	VA	8.2	
+  
+8.0 - 8.6 (576)
+Vernon	WI	8.2	
+  
+8.0 - 8.6 (576)
+Door	WI	8.2	
+  
+8.0 - 8.6 (576)
+Juneau	WI	8.2	
+  
+8.0 - 8.6 (576)
+Oneida	WI	8.2	
+  
+8.0 - 8.6 (576)
+Barron	WI	8.2	
+  
+8.0 - 8.6 (576)
+Butte	SD	8.2	
+  
+8.0 - 8.6 (576)
+Beaufort	SC	8.2	
+  
+8.0 - 8.6 (576)
+Luzerne	PA	8.2	
+  
+8.0 - 8.6 (576)
+Greene	PA	8.2	
+  
+8.0 - 8.6 (576)
+Huntingdon	PA	8.2	
+  
+8.0 - 8.6 (576)
+Smith	TN	8.2	
+  
+8.0 - 8.6 (576)
+Zapata	TX	8.2	
+  
+8.0 - 8.6 (576)
+Sutton	TX	8.2	
+  
+8.0 - 8.6 (576)
+Wharton	TX	8.2	
+  
+8.0 - 8.6 (576)
+Dawson	TX	8.2	
+  
+8.0 - 8.6 (576)
+Harrison	TX	8.2	
+  
+8.0 - 8.6 (576)
+Jackson	TX	8.2	
+  
+8.0 - 8.6 (576)
+Hopkins	TX	8.2	
+  
+8.0 - 8.6 (576)
+Glynn	GA	8.2	
+  
+8.0 - 8.6 (576)
+Murray	GA	8.2	
+  
+8.0 - 8.6 (576)
+Gooding	ID	8.2	
+  
+8.0 - 8.6 (576)
+Dougherty	GA	8.2	
+  
+8.0 - 8.6 (576)
+Liberty	FL	8.2	
+  
+8.0 - 8.6 (576)
+San Juan	CO	8.2	
+  
+8.0 - 8.6 (576)
+Cochise	AZ	8.2	
+  
+8.0 - 8.6 (576)
+Haines	AK	8.2	
+  
+8.0 - 8.6 (576)
+Lauderdale	AL	8.2	
+  
+8.0 - 8.6 (576)
+Calhoun	AL	8.2	
+  
+8.0 - 8.6 (576)
+Alpine	CA	8.2	
+  
+8.0 - 8.6 (576)
+Del Norte	CA	8.2	
+  
+8.0 - 8.6 (576)
+Sebastian	AR	8.2	
+  
+8.0 - 8.6 (576)
+Lincoln	AR	8.2	
+  
+8.0 - 8.6 (576)
+Randolph	IL	8.2	
+  
+8.0 - 8.6 (576)
+Macoupin	IL	8.2	
+  
+8.0 - 8.6 (576)
+Perry	IL	8.2	
+  
+8.0 - 8.6 (576)
+Clay	IN	8.2	
+  
+8.0 - 8.6 (576)
+Greene	IL	8.2	
+  
+8.0 - 8.6 (576)
+Christian	IL	8.2	
+  
+8.0 - 8.6 (576)
+Oneida	ID	8.2	
+  
+8.0 - 8.6 (576)
+Steuben	IN	8.2	
+  
+8.0 - 8.6 (576)
+Warren	IN	8.2	
+  
+8.0 - 8.6 (576)
+Adair	IA	8.2	
+  
+8.0 - 8.6 (576)
+Madison	IN	8.2	
+  
+8.0 - 8.6 (576)
+Knox	IN	8.2	
+  
+8.0 - 8.6 (576)
+Ida	IA	8.2	
+  
+8.0 - 8.6 (576)
+Calhoun	IA	8.2	
+  
+8.0 - 8.6 (576)
+Clay	KS	8.2	
+  
+8.0 - 8.6 (576)
+Hodgeman	KS	8.2	
+  
+8.0 - 8.6 (576)
+Boyle	KY	8.2	
+  
+8.0 - 8.6 (576)
+Osage	KS	8.2	
+  
+8.0 - 8.6 (576)
+Reno	KS	8.2	
+  
+8.0 - 8.6 (576)
+Kiowa	KS	8.2	
+  
+8.0 - 8.6 (576)
+Meade	KS	8.2	
+  
+8.0 - 8.6 (576)
+Lafourche	LA	8.2	
+  
+8.0 - 8.6 (576)
+Gallatin	KY	8.2	
+  
+8.0 - 8.6 (576)
+Chatham	NC	8.2	
+  
+8.0 - 8.6 (576)
+Person	NC	8.2	
+  
+8.0 - 8.6 (576)
+Bowman	ND	8.2	
+  
+8.0 - 8.6 (576)
+Billings	ND	8.2	
+  
+8.0 - 8.6 (576)
+Union	NM	8.2	
+  
+8.0 - 8.6 (576)
+Chautauqua	NY	8.2	
+  
+8.0 - 8.6 (576)
+White Pine	NV	8.2	
+  
+8.0 - 8.6 (576)
+Seneca	OH	8.2	
+  
+8.0 - 8.6 (576)
+Lorain	OH	8.2	
+  
+8.0 - 8.6 (576)
+Henry	OH	8.2	
+  
+8.0 - 8.6 (576)
+Mercer	ND	8.2	
+  
+8.0 - 8.6 (576)
+Carter	OK	8.2	
+  
+8.0 - 8.6 (576)
+Hancock	ME	8.2	
+  
+8.0 - 8.6 (576)
+Kennebec	ME	8.2	
+  
+8.0 - 8.6 (576)
+St. Martin	LA	8.2	
+  
+8.0 - 8.6 (576)
+Terrebonne	LA	8.2	
+  
+8.0 - 8.6 (576)
+Redwood	MN	8.2	
+  
+8.0 - 8.6 (576)
+Pope	MN	8.2	
+  
+8.0 - 8.6 (576)
+St. Joseph	MI	8.2	
+  
+8.0 - 8.6 (576)
+Lauderdale	MS	8.2	
+  
+8.0 - 8.6 (576)
+Stone	MS	8.2	
+  
+8.0 - 8.6 (576)
+Warren	MS	8.2	
+  
+8.0 - 8.6 (576)
+Webster	MS	8.2	
+  
+8.0 - 8.6 (576)
+Perry	MO	8.2	
+  
+8.0 - 8.6 (576)
+Polk	MO	8.2	
+  
+8.0 - 8.6 (576)
+Arthur	NE	8.2	
+  
+8.0 - 8.6 (576)
+Saline	MO	8.2	
+  
+8.0 - 8.6 (576)
+St. Francois	MO	8.2	
+  
+8.0 - 8.6 (576)
+Carbon	MT	8.2	
+  
+8.0 - 8.6 (576)
+Madison	MT	8.2	
+  
+8.0 - 8.6 (576)
+Sheridan	MT	8.3	
+  
+8.0 - 8.6 (576)
+Pondera	MT	8.3	
+  
+8.0 - 8.6 (576)
+Chouteau	MT	8.3	
+  
+8.0 - 8.6 (576)
+Webster	MO	8.3	
+  
+8.0 - 8.6 (576)
+Fergus	MT	8.3	
+  
+8.0 - 8.6 (576)
+Marion	MO	8.3	
+  
+8.0 - 8.6 (576)
+Newton	MO	8.3	
+  
+8.0 - 8.6 (576)
+Sunflower	MS	8.3	
+  
+8.0 - 8.6 (576)
+Van Buren	MI	8.3	
+  
+8.0 - 8.6 (576)
+Kanabec	MN	8.3	
+  
+8.0 - 8.6 (576)
+Cook	MN	8.3	
+  
+8.0 - 8.6 (576)
+Renville	MN	8.3	
+  
+8.0 - 8.6 (576)
+Vermilion	LA	8.3	
+  
+8.0 - 8.6 (576)
+Waldo	ME	8.3	
+  
+8.0 - 8.6 (576)
+Cass	MI	8.3	
+  
+8.0 - 8.6 (576)
+Pottawatomie	OK	8.3	
+  
+8.0 - 8.6 (576)
+Washington	OK	8.3	
+  
+8.0 - 8.6 (576)
+Washita	OK	8.3	
+  
+8.0 - 8.6 (576)
+Klamath	OR	8.3	
+  
+8.0 - 8.6 (576)
+Clarion	PA	8.3	
+  
+8.0 - 8.6 (576)
+Ransom	ND	8.3	
+  
+8.0 - 8.6 (576)
+Foster	ND	8.3	
+  
+8.0 - 8.6 (576)
+McHenry	ND	8.3	
+  
+8.0 - 8.6 (576)
+Champaign	OH	8.3	
+  
+8.0 - 8.6 (576)
+Clinton	OH	8.3	
+  
+8.0 - 8.6 (576)
+Holmes	OH	8.3	
+  
+8.0 - 8.6 (576)
+Van Wert	OH	8.3	
+  
+8.0 - 8.6 (576)
+Morrow	OH	8.3	
+  
+8.0 - 8.6 (576)
+Preble	OH	8.3	
+  
+8.0 - 8.6 (576)
+Cattaraugus	NY	8.3	
+  
+8.0 - 8.6 (576)
+San Miguel	NM	8.3	
+  
+8.0 - 8.6 (576)
+Cibola	NM	8.3	
+  
+8.0 - 8.6 (576)
+Bottineau	ND	8.3	
+  
+8.0 - 8.6 (576)
+Randolph	NC	8.3	
+  
+8.0 - 8.6 (576)
+Davie	NC	8.3	
+  
+8.0 - 8.6 (576)
+Cleveland	NC	8.3	
+  
+8.0 - 8.6 (576)
+Clark	KY	8.3	
+  
+8.0 - 8.6 (576)
+Caddo	LA	8.3	
+  
+8.0 - 8.6 (576)
+Pawnee	KS	8.3	
+  
+8.0 - 8.6 (576)
+Barton	KS	8.3	
+  
+8.0 - 8.6 (576)
+Chase	KS	8.3	
+  
+8.0 - 8.6 (576)
+Wayne	IN	8.3	
+  
+8.0 - 8.6 (576)
+Fremont	IA	8.3	
+  
+8.0 - 8.6 (576)
+Fayette	IA	8.3	
+  
+8.0 - 8.6 (576)
+Humboldt	IA	8.3	
+  
+8.0 - 8.6 (576)
+Marshall	IN	8.3	
+  
+8.0 - 8.6 (576)
+Sullivan	IN	8.3	
+  
+8.0 - 8.6 (576)
+Valley	ID	8.3	
+  
+8.0 - 8.6 (576)
+Fayette	IL	8.3	
+  
+8.0 - 8.6 (576)
+Edgar	IL	8.3	
+  
+8.0 - 8.6 (576)
+Carroll	IN	8.3	
+  
+8.0 - 8.6 (576)
+Daviess	IN	8.3	
+  
+8.0 - 8.6 (576)
+Montgomery	IL	8.3	
+  
+8.0 - 8.6 (576)
+Johnson	IL	8.3	
+  
+8.0 - 8.6 (576)
+Phillips	CO	8.3	
+  
+8.0 - 8.6 (576)
+Bent	CO	8.3	
+  
+8.0 - 8.6 (576)
+Bibb	AL	8.3	
+  
+8.0 - 8.6 (576)
+Columbia	AR	8.3	
+  
+8.0 - 8.6 (576)
+Polk	FL	8.3	
+  
+8.0 - 8.6 (576)
+Palm Beach	FL	8.3	
+  
+8.0 - 8.6 (576)
+Tattnall	GA	8.3	
+  
+8.0 - 8.6 (576)
+Polk	GA	8.3	
+  
+8.0 - 8.6 (576)
+Hudspeth	TX	8.3	
+  
+8.0 - 8.6 (576)
+Irion	TX	8.3	
+  
+8.0 - 8.6 (576)
+Lampasas	TX	8.3	
+  
+8.0 - 8.6 (576)
+Gonzales	TX	8.3	
+  
+8.0 - 8.6 (576)
+Gray	TX	8.3	
+  
+8.0 - 8.6 (576)
+Fannin	TX	8.3	
+  
+8.0 - 8.6 (576)
+Crockett	TX	8.3	
+  
+8.0 - 8.6 (576)
+Washington	TX	8.3	
+  
+8.0 - 8.6 (576)
+Garfield	UT	8.3	
+  
+8.0 - 8.6 (576)
+San Juan	UT	8.3	
+  
+8.0 - 8.6 (576)
+Amelia	VA	8.3	
+  
+8.0 - 8.6 (576)
+Brewster	TX	8.3	
+  
+8.0 - 8.6 (576)
+Coffee	TN	8.3	
+  
+8.0 - 8.6 (576)
+Wyoming	PA	8.3	
+  
+8.0 - 8.6 (576)
+Cherokee	SC	8.3	
+  
+8.0 - 8.6 (576)
+Bon Homme	SD	8.3	
+  
+8.0 - 8.6 (576)
+Putnam	WV	8.3	
+  
+8.0 - 8.6 (576)
+Gilmer	WV	8.3	
+  
+8.0 - 8.6 (576)
+Green Lake	WI	8.3	
+  
+8.0 - 8.6 (576)
+Buena Vista	VA	8.3	
+  
+8.0 - 8.6 (576)
+Franklin City	VA	8.3	
+  
+8.0 - 8.6 (576)
+Skamania	WA	8.3	
+  
+8.0 - 8.6 (576)
+San Juan	WA	8.4	
+  
+8.0 - 8.6 (576)
+Mason	WA	8.4	
+  
+8.0 - 8.6 (576)
+Martinsville	VA	8.4	
+  
+8.0 - 8.6 (576)
+Pulaski	VA	8.4	
+  
+8.0 - 8.6 (576)
+Crawford	WI	8.4	
+  
+8.0 - 8.6 (576)
+Big Horn	WY	8.4	
+  
+8.0 - 8.6 (576)
+Ashland	WI	8.4	
+  
+8.0 - 8.6 (576)
+Hyde	SD	8.4	
+  
+8.0 - 8.6 (576)
+Greenwood	SC	8.4	
+  
+8.0 - 8.6 (576)
+Pike	PA	8.4	
+  
+8.0 - 8.6 (576)
+Dyer	TN	8.4	
+  
+8.0 - 8.6 (576)
+Hickman	TN	8.4	
+  
+8.0 - 8.6 (576)
+Brown	TX	8.4	
+  
+8.0 - 8.6 (576)
+Austin	TX	8.4	
+  
+8.0 - 8.6 (576)
+Archer	TX	8.4	
+  
+8.0 - 8.6 (576)
+Schleicher	TX	8.4	
+  
+8.0 - 8.6 (576)
+Shackelford	TX	8.4	
+  
+8.0 - 8.6 (576)
+Kent	TX	8.4	
+  
+8.0 - 8.6 (576)
+Jack	TX	8.4	
+  
+8.0 - 8.6 (576)
+Navarro	TX	8.4	
+  
+8.0 - 8.6 (576)
+Matagorda	TX	8.4	
+  
+8.0 - 8.6 (576)
+Montgomery	GA	8.4	
+  
+8.0 - 8.6 (576)
+Stephens	GA	8.4	
+  
+8.0 - 8.6 (576)
+Schley	GA	8.4	
+  
+8.0 - 8.6 (576)
+Wayne	GA	8.4	
+  
+8.0 - 8.6 (576)
+Thomas	GA	8.4	
+  
+8.0 - 8.6 (576)
+Pasco	FL	8.4	
+  
+8.0 - 8.6 (576)
+Houston	AL	8.4	
+  
+8.0 - 8.6 (576)
+Dale	AL	8.4	
+  
+8.0 - 8.6 (576)
+Morgan	AL	8.4	
+  
+8.0 - 8.6 (576)
+Tuolumne	CA	8.4	
+  
+8.0 - 8.6 (576)
+Las Animas	CO	8.4	
+  
+8.0 - 8.6 (576)
+Mississippi	AR	8.4	
+  
+8.0 - 8.6 (576)
+Mercer	IL	8.4	
+  
+8.0 - 8.6 (576)
+Shelby	IL	8.4	
+  
+8.0 - 8.6 (576)
+Edwards	IL	8.4	
+  
+8.0 - 8.6 (576)
+Owyhee	ID	8.4	
+  
+8.0 - 8.6 (576)
+Bureau	IL	8.4	
+  
+8.0 - 8.6 (576)
+White	IN	8.4	
+  
+8.0 - 8.6 (576)
+Spencer	IN	8.4	
+  
+8.0 - 8.6 (576)
+Miami	IN	8.4	
+  
+8.0 - 8.6 (576)
+Lawrence	IN	8.4	
+  
+8.0 - 8.6 (576)
+Grant	IN	8.4	
+  
+8.0 - 8.6 (576)
+Keokuk	IA	8.4	
+  
+8.0 - 8.6 (576)
+Osceola	IA	8.4	
+  
+8.0 - 8.6 (576)
+Montgomery	IA	8.4	
+  
+8.0 - 8.6 (576)
+Allamakee	IA	8.4	
+  
+8.0 - 8.6 (576)
+Greeley	KS	8.4	
+  
+8.0 - 8.6 (576)
+Neosho	KS	8.4	
+  
+8.0 - 8.6 (576)
+Scott	KS	8.4	
+  
+8.0 - 8.6 (576)
+Rooks	KS	8.4	
+  
+8.0 - 8.6 (576)
+Logan	KS	8.4	
+  
+8.0 - 8.6 (576)
+East Feliciana	LA	8.4	
+  
+8.0 - 8.6 (576)
+La Salle	LA	8.4	
+  
+8.0 - 8.6 (576)
+Washington	KY	8.4	
+  
+8.0 - 8.6 (576)
+Montgomery	KY	8.4	
+  
+8.0 - 8.6 (576)
+Schuyler	NY	8.4	
+  
+8.0 - 8.6 (576)
+Madison	NC	8.4	
+  
+8.0 - 8.6 (576)
+Greene	NC	8.4	
+  
+8.0 - 8.6 (576)
+Henderson	NC	8.4	
+  
+8.0 - 8.6 (576)
+Chenango	NY	8.4	
+  
+8.0 - 8.6 (576)
+Lyon	NV	8.4	
+  
+8.0 - 8.6 (576)
+Stark	OH	8.4	
+  
+8.0 - 8.6 (576)
+Wyandot	OH	8.4	
+  
+8.0 - 8.6 (576)
+Wayne	OH	8.4	
+  
+8.0 - 8.6 (576)
+Logan	OH	8.4	
+  
+8.0 - 8.6 (576)
+Blair	PA	8.4	
+  
+8.0 - 8.6 (576)
+Tillamook	OR	8.4	
+  
+8.0 - 8.6 (576)
+Crook	OR	8.4	
+  
+8.0 - 8.6 (576)
+Cherokee	OK	8.4	
+  
+8.0 - 8.6 (576)
+Creek	OK	8.4	
+  
+8.0 - 8.6 (576)
+Greer	OK	8.4	
+  
+8.0 - 8.6 (576)
+Charlevoix	MI	8.4	
+  
+8.0 - 8.6 (576)
+Bay	MI	8.4	
+  
+8.0 - 8.6 (576)
+Kent	MD	8.4	
+  
+8.0 - 8.6 (576)
+St. James	LA	8.4	
+  
+8.0 - 8.6 (576)
+Knox	ME	8.4	
+  
+8.0 - 8.6 (576)
+Pine	MN	8.4	
+  
+8.0 - 8.6 (576)
+Pipestone	MN	8.4	
+  
+8.0 - 8.6 (576)
+Otter Tail	MN	8.4	
+  
+8.0 - 8.6 (576)
+Watonwan	MN	8.4	
+  
+8.0 - 8.6 (576)
+Claiborne	MS	8.4	
+  
+8.0 - 8.6 (576)
+Copiah	MS	8.4	
+  
+8.0 - 8.6 (576)
+Wexford	MI	8.4	
+  
+8.0 - 8.6 (576)
+Chippewa	MN	8.4	
+  
+8.0 - 8.6 (576)
+Newton	MS	8.4	
+  
+8.0 - 8.6 (576)
+Tunica	MS	8.4	
+  
+8.0 - 8.6 (576)
+Ray	MO	8.4	
+  
+8.0 - 8.6 (576)
+Lafayette	MO	8.4	
+  
+8.0 - 8.6 (576)
+Boone	NE	8.4	
+  
+8.0 - 8.6 (576)
+Custer	NE	8.4	
+  
+8.0 - 8.6 (576)
+Logan	NE	8.5	
+  
+8.0 - 8.6 (576)
+Ravalli	MT	8.5	
+  
+8.0 - 8.6 (576)
+Teton	MT	8.5	
+  
+8.0 - 8.6 (576)
+Roosevelt	MT	8.5	
+  
+8.0 - 8.6 (576)
+McCone	MT	8.5	
+  
+8.0 - 8.6 (576)
+Tallahatchie	MS	8.5	
+  
+8.0 - 8.6 (576)
+Otsego	MI	8.5	
+  
+8.0 - 8.6 (576)
+Faribault	MN	8.5	
+  
+8.0 - 8.6 (576)
+Lake	MN	8.5	
+  
+8.0 - 8.6 (576)
+Jones	MS	8.5	
+  
+8.0 - 8.6 (576)
+Grenada	MS	8.5	
+  
+8.0 - 8.6 (576)
+Hancock	MS	8.5	
+  
+8.0 - 8.6 (576)
+Swift	MN	8.5	
+  
+8.0 - 8.6 (576)
+Red Lake	MN	8.5	
+  
+8.0 - 8.6 (576)
+Franklin	ME	8.5	
+  
+8.0 - 8.6 (576)
+Talbot	MD	8.5	
+  
+8.0 - 8.6 (576)
+Dorchester	MD	8.5	
+  
+8.0 - 8.6 (576)
+Branch	MI	8.5	
+  
+8.0 - 8.6 (576)
+Hillsdale	MI	8.5	
+  
+8.0 - 8.6 (576)
+Harney	OR	8.5	
+  
+8.0 - 8.6 (576)
+Huron	OH	8.5	
+  
+8.0 - 8.6 (576)
+Williams	OH	8.5	
+  
+8.0 - 8.6 (576)
+Ashland	OH	8.5	
+  
+8.0 - 8.6 (576)
+Steele	ND	8.5	
+  
+8.0 - 8.6 (576)
+McLean	ND	8.5	
+  
+8.0 - 8.6 (576)
+Lander	NV	8.5	
+  
+8.0 - 8.6 (576)
+Carroll	NH	8.5	
+  
+8.0 - 8.6 (576)
+McPherson	NE	8.5	
+  
+8.0 - 8.6 (576)
+Alexander	NC	8.5	
+  
+8.0 - 8.6 (576)
+Avery	NC	8.5	
+  
+8.0 - 8.6 (576)
+Carteret	NC	8.5	
+  
+8.0 - 8.6 (576)
+Mercer	KY	8.5	
+  
+8.0 - 8.6 (576)
+Henderson	KY	8.5	
+  
+8.0 - 8.6 (576)
+Jefferson Davis	LA	8.5	
+  
+8.0 - 8.6 (576)
+Iberia	LA	8.5	
+  
+8.0 - 8.6 (576)
+Marion	KS	8.5	
+  
+8.0 - 8.6 (576)
+Marshall	KS	8.5	
+  
+8.0 - 8.6 (576)
+Sheridan	KS	8.5	
+  
+8.0 - 8.6 (576)
+Cherokee	KS	8.5	
+  
+8.0 - 8.6 (576)
+Bourbon	KS	8.5	
+  
+8.0 - 8.6 (576)
+Allen	KS	8.5	
+  
+8.0 - 8.6 (576)
+Clarke	IA	8.5	
+  
+8.0 - 8.6 (576)
+Cherokee	IA	8.5	
+  
+8.0 - 8.6 (576)
+Henry	IN	8.5	
+  
+8.0 - 8.6 (576)
+Newton	IN	8.5	
+  
+8.0 - 8.6 (576)
+Rush	IN	8.5	
+  
+8.0 - 8.6 (576)
+Pike	IN	8.5	
+  
+8.0 - 8.6 (576)
+Adams	IA	8.5	
+  
+8.0 - 8.6 (576)
+Washington	IN	8.5	
+  
+8.0 - 8.6 (576)
+Calhoun	IL	8.5	
+  
+8.0 - 8.6 (576)
+Marion	IL	8.5	
+  
+8.0 - 8.6 (576)
+Marshall	IL	8.5	
+  
+8.0 - 8.6 (576)
+Wabash	IL	8.5	
+  
+8.0 - 8.6 (576)
+Adams	IN	8.5	
+  
+8.0 - 8.6 (576)
+Jefferson	AR	8.5	
+  
+8.0 - 8.6 (576)
+Otero	CO	8.5	
+  
+8.0 - 8.6 (576)
+Marshall	AL	8.5	
+  
+8.0 - 8.6 (576)
+Cullman	AL	8.5	
+  
+8.0 - 8.6 (576)
+Drew	AR	8.5	
+  
+8.0 - 8.6 (576)
+Pinellas	FL	8.5	
+  
+8.0 - 8.6 (576)
+Burke	GA	8.5	
+  
+8.0 - 8.6 (576)
+Brevard	FL	8.5	
+  
+8.0 - 8.6 (576)
+Spalding	GA	8.5	
+  
+8.0 - 8.6 (576)
+Clark	ID	8.5	
+  
+8.0 - 8.6 (576)
+Bear Lake	ID	8.5	
+  
+8.0 - 8.6 (576)
+Buckingham	VA	8.5	
+  
+8.0 - 8.6 (576)
+Angelina	TX	8.5	
+  
+8.0 - 8.6 (576)
+Burleson	TX	8.5	
+  
+8.0 - 8.6 (576)
+Weakley	TN	8.5	
+  
+8.0 - 8.6 (576)
+Franklin	TN	8.5	
+  
+8.0 - 8.6 (576)
+Jerauld	SD	8.5	
+  
+8.0 - 8.6 (576)
+Hand	SD	8.5	
+  
+8.0 - 8.6 (576)
+Clark	SD	8.5	
+  
+8.0 - 8.6 (576)
+Rappahannock	VA	8.5	
+  
+8.0 - 8.6 (576)
+Wythe	VA	8.5	
+  
+8.0 - 8.6 (576)
+Washington	VA	8.6	
+  
+8.0 - 8.6 (576)
+Shenandoah	VA	8.6	
+  
+8.0 - 8.6 (576)
+Richmond County	VA	8.6	
+  
+8.0 - 8.6 (576)
+Page	VA	8.6	
+  
+8.0 - 8.6 (576)
+Floyd	VA	8.6	
+  
+8.0 - 8.6 (576)
+Richland	WI	8.6	
+  
+8.0 - 8.6 (576)
+Marinette	WI	8.6	
+  
+8.0 - 8.6 (576)
+Platte	WY	8.6	
+  
+8.0 - 8.6 (576)
+Newberry	SC	8.6	
+  
+8.0 - 8.6 (576)
+Hutchinson	SD	8.6	
+  
+8.0 - 8.6 (576)
+Schuylkill	PA	8.6	
+  
+8.0 - 8.6 (576)
+Edgefield	SC	8.6	
+  
+8.0 - 8.6 (576)
+Gibson	TN	8.6	
+  
+8.0 - 8.6 (576)
+Fayette	TN	8.6	
+  
+8.0 - 8.6 (576)
+Jefferson	TN	8.6	
+  
+8.0 - 8.6 (576)
+Lincoln	TN	8.6	
+  
+8.0 - 8.6 (576)
+Cannon	TN	8.6	
+  
+8.0 - 8.6 (576)
+Miner	SD	8.6	
+  
+8.0 - 8.6 (576)
+Sully	SD	8.6	
+  
+8.0 - 8.6 (576)
+Anderson	TN	8.6	
+  
+8.0 - 8.6 (576)
+Burnet	TX	8.6	
+  
+8.0 - 8.6 (576)
+Callahan	TX	8.6	
+  
+8.0 - 8.6 (576)
+Camp	TX	8.6	
+  
+8.0 - 8.6 (576)
+Bland	VA	8.6	
+  
+8.0 - 8.6 (576)
+Zavala	TX	8.6	
+  
+8.0 - 8.6 (576)
+Terry	TX	8.6	
+  
+8.0 - 8.6 (576)
+Cherokee	TX	8.6	
+  
+8.0 - 8.6 (576)
+Gem	ID	8.6	
+  
+8.0 - 8.6 (576)
+Madison	GA	8.6	
+  
+8.0 - 8.6 (576)
+Oglethorpe	GA	8.6	
+  
+8.0 - 8.6 (576)
+Heard	GA	8.6	
+  
+8.0 - 8.6 (576)
+Columbia	FL	8.6	
+  
+8.0 - 8.6 (576)
+Dade	GA	8.6	
+  
+8.0 - 8.6 (576)
+Independence	AR	8.6	
+  
+8.0 - 8.6 (576)
+Yakutat	AK	8.6	
+  
+8.0 - 8.6 (576)
+Colbert	AL	8.6	
+  
+8.0 - 8.6 (576)
+Macon	AL	8.6	
+  
+8.0 - 8.6 (576)
+Tehama	CA	8.6	
+  
+8.0 - 8.6 (576)
+Miller	AR	8.6	
+  
+8.0 - 8.6 (576)
+Union	AR	8.6	
+  
+8.0 - 8.6 (576)
+Amador	CA	8.6	
+  
+8.0 - 8.6 (576)
+Mendocino	CA	8.6	
+  
+8.0 - 8.6 (576)
+Stark	IL	8.6	
+  
+8.0 - 8.6 (576)
+Schuyler	IL	8.6	
+  
+8.0 - 8.6 (576)
+Clay	IL	8.6	
+  
+8.0 - 8.6 (576)
+Wabash	IN	8.6	
+  
+8.0 - 8.6 (576)
+Martin	IN	8.6	
+  
+8.0 - 8.6 (576)
+Fountain	IN	8.6	
+  
+8.0 - 8.6 (576)
+Cass	IA	8.6	
+  
+8.0 - 8.6 (576)
+Sac	IA	8.6	
+  
+8.0 - 8.6 (576)
+Cloud	KS	8.6	
+  
+8.0 - 8.6 (576)
+Mitchell	KS	8.6	
+  
+8.0 - 8.6 (576)
+Powell	KY	8.6	
+  
+8.0 - 8.6 (576)
+Pendleton	KY	8.6	
+  
+8.0 - 8.6 (576)
+Mason	KY	8.6	
+  
+8.0 - 8.6 (576)
+McCracken	KY	8.6	
+  
+8.0 - 8.6 (576)
+Sampson	NC	8.6	
+  
+8.0 - 8.6 (576)
+Cape May	NJ	8.6	
+  
+8.0 - 8.6 (576)
+Socorro	NM	8.6	
+  
+8.0 - 8.6 (576)
+Taos	NM	8.6	
+  
+8.0 - 8.6 (576)
+Alfalfa	OK	8.6	
+  
+8.0 - 8.6 (576)
+Richland	OH	8.6	
+  
+8.0 - 8.6 (576)
+Sandusky	OH	8.6	
+  
+8.0 - 8.6 (576)
+Paulding	OH	8.6	
+  
+8.0 - 8.6 (576)
+Carbon	PA	8.6	
+  
+8.0 - 8.6 (576)
+Crawford	PA	8.6	
+  
+8.0 - 8.6 (576)
+Bryan	OK	8.6	
+  
+8.0 - 8.6 (576)
+Noble	OK	8.6	
+  
+8.0 - 8.6 (576)
+Dickinson	MI	8.6	
+  
+8.0 - 8.6 (576)
+Newaygo	MI	8.6	
+  
+8.0 - 8.6 (576)
+Worcester	MD	8.6	
+  
+8.0 - 8.6 (576)
+Natchitoches	LA	8.6	
+  
+8.0 - 8.6 (576)
+Kittson	MN	8.6	
+  
+8.0 - 8.6 (576)
+Martin	MN	8.6	
+  
+8.0 - 8.6 (576)
+Freeborn	MN	8.6	
+  
+8.0 - 8.6 (576)
+Pearl River	MS	8.6	
+  
+8.0 - 8.6 (576)
+Leflore	MS	8.6	
+  
+8.0 - 8.6 (576)
+Livingston	MO	8.6	
+  
+8.0 - 8.6 (576)
+Ste. Genevieve	MO	8.6	
+  
+8.0 - 8.6 (576)
+Lake	MT	8.6	
+  
+8.0 - 8.6 (576)
+Sweet Grass	MT	8.6	
+  
+8.0 - 8.6 (576)
+Blaine	MT	8.6	
+  
+8.0 - 8.6 (576)
+Jefferson	NE	8.6	
+  
+8.0 - 8.6 (576)
+Cherry	NE	8.7	
+  
+8.7 - 9.5 (653)
+Dundy	NE	8.7	
+  
+8.7 - 9.5 (653)
+Antelope	NE	8.7	
+  
+8.7 - 9.5 (653)
+Daniels	MT	8.7	
+  
+8.7 - 9.5 (653)
+Garfield	MT	8.7	
+  
+8.7 - 9.5 (653)
+Glacier	MT	8.7	
+  
+8.7 - 9.5 (653)
+Miller	MO	8.7	
+  
+8.7 - 9.5 (653)
+Marshall	MS	8.7	
+  
+8.7 - 9.5 (653)
+Simpson	MS	8.7	
+  
+8.7 - 9.5 (653)
+Yazoo	MS	8.7	
+  
+8.7 - 9.5 (653)
+Hubbard	MN	8.7	
+  
+8.7 - 9.5 (653)
+Tuscola	MI	8.7	
+  
+8.7 - 9.5 (653)
+Wadena	MN	8.7	
+  
+8.7 - 9.5 (653)
+Garrett	MD	8.7	
+  
+8.7 - 9.5 (653)
+Leelanau	MI	8.7	
+  
+8.7 - 9.5 (653)
+Major	OK	8.7	
+  
+8.7 - 9.5 (653)
+Beaver	OK	8.7	
+  
+8.7 - 9.5 (653)
+Cambria	PA	8.7	
+  
+8.7 - 9.5 (653)
+Sherman	OR	8.7	
+  
+8.7 - 9.5 (653)
+Perry	OH	8.7	
+  
+8.7 - 9.5 (653)
+Pierce	ND	8.7	
+  
+8.7 - 9.5 (653)
+Walsh	ND	8.7	
+  
+8.7 - 9.5 (653)
+Allen	OH	8.7	
+  
+8.7 - 9.5 (653)
+Torrance	NM	8.7	
+  
+8.7 - 9.5 (653)
+Thayer	NE	8.7	
+  
+8.7 - 9.5 (653)
+Vance	NC	8.7	
+  
+8.7 - 9.5 (653)
+Richmond	NC	8.7	
+  
+8.7 - 9.5 (653)
+Wilson	NC	8.7	
+  
+8.7 - 9.5 (653)
+Anson	NC	8.7	
+  
+8.7 - 9.5 (653)
+Larue	KY	8.7	
+  
+8.7 - 9.5 (653)
+Hancock	KY	8.7	
+  
+8.7 - 9.5 (653)
+Cameron	LA	8.7	
+  
+8.7 - 9.5 (653)
+Morris	KS	8.7	
+  
+8.7 - 9.5 (653)
+Labette	KS	8.7	
+  
+8.7 - 9.5 (653)
+Brown	KS	8.7	
+  
+8.7 - 9.5 (653)
+Audubon	IA	8.7	
+  
+8.7 - 9.5 (653)
+Franklin	IA	8.7	
+  
+8.7 - 9.5 (653)
+Monona	IA	8.7	
+  
+8.7 - 9.5 (653)
+Lucas	IA	8.7	
+  
+8.7 - 9.5 (653)
+Kossuth	IA	8.7	
+  
+8.7 - 9.5 (653)
+Fulton	IN	8.7	
+  
+8.7 - 9.5 (653)
+Greene	IN	8.7	
+  
+8.7 - 9.5 (653)
+Jay	IN	8.7	
+  
+8.7 - 9.5 (653)
+Pulaski	IN	8.7	
+  
+8.7 - 9.5 (653)
+Scott	IN	8.7	
+  
+8.7 - 9.5 (653)
+Iroquois	IL	8.7	
+  
+8.7 - 9.5 (653)
+Hamilton	IL	8.7	
+  
+8.7 - 9.5 (653)
+Hancock	IL	8.7	
+  
+8.7 - 9.5 (653)
+Knox	IL	8.7	
+  
+8.7 - 9.5 (653)
+Stephenson	IL	8.7	
+  
+8.7 - 9.5 (653)
+Benton	IN	8.7	
+  
+8.7 - 9.5 (653)
+Vermilion	IL	8.7	
+  
+8.7 - 9.5 (653)
+Cass	IN	8.7	
+  
+8.7 - 9.5 (653)
+Brown	IN	8.7	
+  
+8.7 - 9.5 (653)
+Sevier	AR	8.7	
+  
+8.7 - 9.5 (653)
+Custer	CO	8.7	
+  
+8.7 - 9.5 (653)
+Etowah	AL	8.7	
+  
+8.7 - 9.5 (653)
+Decatur	GA	8.7	
+  
+8.7 - 9.5 (653)
+Union	FL	8.7	
+  
+8.7 - 9.5 (653)
+Lanier	GA	8.7	
+  
+8.7 - 9.5 (653)
+Pickens	GA	8.7	
+  
+8.7 - 9.5 (653)
+White	GA	8.7	
+  
+8.7 - 9.5 (653)
+Toombs	GA	8.7	
+  
+8.7 - 9.5 (653)
+Walker	GA	8.7	
+  
+8.7 - 9.5 (653)
+Clay	TX	8.7	
+  
+8.7 - 9.5 (653)
+Grimes	TX	8.7	
+  
+8.7 - 9.5 (653)
+Lee	TX	8.7	
+  
+8.7 - 9.5 (653)
+Lynn	TX	8.7	
+  
+8.7 - 9.5 (653)
+Hood	TX	8.7	
+  
+8.7 - 9.5 (653)
+Lamar	TX	8.7	
+  
+8.7 - 9.5 (653)
+Upshur	TX	8.7	
+  
+8.7 - 9.5 (653)
+Palo Pinto	TX	8.7	
+  
+8.7 - 9.5 (653)
+Young	TX	8.7	
+  
+8.7 - 9.5 (653)
+Stewart	TN	8.7	
+  
+8.7 - 9.5 (653)
+Macon	TN	8.7	
+  
+8.7 - 9.5 (653)
+Chester	SC	8.7	
+  
+8.7 - 9.5 (653)
+Northumberland	PA	8.7	
+  
+8.7 - 9.5 (653)
+McKean	PA	8.7	
+  
+8.7 - 9.5 (653)
+Jones	SD	8.7	
+  
+8.7 - 9.5 (653)
+Waushara	WI	8.7	
+  
+8.7 - 9.5 (653)
+Stevens	WA	8.7	
+  
+8.7 - 9.5 (653)
+Nelson	VA	8.7	
+  
+8.7 - 9.5 (653)
+Wise	VA	8.7	
+  
+8.7 - 9.5 (653)
+Lincoln	WA	8.7	
+  
+8.7 - 9.5 (653)
+Grays Harbor	WA	8.7	
+  
+8.7 - 9.5 (653)
+Asotin	WA	8.7	
+  
+8.7 - 9.5 (653)
+Cabell	WV	8.8	
+  
+8.7 - 9.5 (653)
+Marquette	WI	8.8	
+  
+8.7 - 9.5 (653)
+Menominee	WI	8.8	
+  
+8.7 - 9.5 (653)
+Johnson	WY	8.8	
+  
+8.7 - 9.5 (653)
+Jasper	SC	8.8	
+  
+8.7 - 9.5 (653)
+Juniata	PA	8.8	
+  
+8.7 - 9.5 (653)
+Lawrence	PA	8.8	
+  
+8.7 - 9.5 (653)
+Darlington	SC	8.8	
+  
+8.7 - 9.5 (653)
+Laurens	SC	8.8	
+  
+8.7 - 9.5 (653)
+Walworth	SD	8.8	
+  
+8.7 - 9.5 (653)
+Lauderdale	TN	8.8	
+  
+8.7 - 9.5 (653)
+Brunswick	VA	8.8	
+  
+8.7 - 9.5 (653)
+Panola	TX	8.8	
+  
+8.7 - 9.5 (653)
+Robertson	TX	8.8	
+  
+8.7 - 9.5 (653)
+Hill	TX	8.8	
+  
+8.7 - 9.5 (653)
+Nolan	TX	8.8	
+  
+8.7 - 9.5 (653)
+Donley	TX	8.8	
+  
+8.7 - 9.5 (653)
+Screven	GA	8.8	
+  
+8.7 - 9.5 (653)
+Bonner	ID	8.8	
+  
+8.7 - 9.5 (653)
+McDuffie	GA	8.8	
+  
+8.7 - 9.5 (653)
+Jasper	GA	8.8	
+  
+8.7 - 9.5 (653)
+Franklin	GA	8.8	
+  
+8.7 - 9.5 (653)
+Banks	GA	8.8	
+  
+8.7 - 9.5 (653)
+Cook	GA	8.8	
+  
+8.7 - 9.5 (653)
+Hendry	FL	8.8	
+  
+8.7 - 9.5 (653)
+Gadsden	FL	8.8	
+  
+8.7 - 9.5 (653)
+Blount	AL	8.8	
+  
+8.7 - 9.5 (653)
+Chilton	AL	8.8	
+  
+8.7 - 9.5 (653)
+Talladega	AL	8.8	
+  
+8.7 - 9.5 (653)
+Hot Spring	AR	8.8	
+  
+8.7 - 9.5 (653)
+Crawford	AR	8.8	
+  
+8.7 - 9.5 (653)
+Union	IL	8.8	
+  
+8.7 - 9.5 (653)
+Wayne	IL	8.8	
+  
+8.7 - 9.5 (653)
+Saline	IL	8.8	
+  
+8.7 - 9.5 (653)
+Mason	IL	8.8	
+  
+8.7 - 9.5 (653)
+Carroll	IL	8.8	
+  
+8.7 - 9.5 (653)
+Randolph	IN	8.8	
+  
+8.7 - 9.5 (653)
+Ohio	IN	8.8	
+  
+8.7 - 9.5 (653)
+Vermillion	IN	8.8	
+  
+8.7 - 9.5 (653)
+Anderson	KS	8.8	
+  
+8.7 - 9.5 (653)
+Ringgold	IA	8.8	
+  
+8.7 - 9.5 (653)
+Van Buren	IA	8.8	
+  
+8.7 - 9.5 (653)
+Rush	KS	8.8	
+  
+8.7 - 9.5 (653)
+Stafford	KS	8.8	
+  
+8.7 - 9.5 (653)
+Trego	KS	8.8	
+  
+8.7 - 9.5 (653)
+Washington	KS	8.8	
+  
+8.7 - 9.5 (653)
+Trimble	KY	8.8	
+  
+8.7 - 9.5 (653)
+Whitley	KY	8.8	
+  
+8.7 - 9.5 (653)
+Harrison	KY	8.8	
+  
+8.7 - 9.5 (653)
+Garrard	KY	8.8	
+  
+8.7 - 9.5 (653)
+Marshall	KY	8.8	
+  
+8.7 - 9.5 (653)
+Martin	KY	8.8	
+  
+8.7 - 9.5 (653)
+Gates	NC	8.8	
+  
+8.7 - 9.5 (653)
+Yadkin	NC	8.8	
+  
+8.7 - 9.5 (653)
+Rockingham	NC	8.8	
+  
+8.7 - 9.5 (653)
+Haywood	NC	8.8	
+  
+8.7 - 9.5 (653)
+McDowell	NC	8.8	
+  
+8.7 - 9.5 (653)
+Montgomery	NC	8.8	
+  
+8.7 - 9.5 (653)
+Erie	OH	8.8	
+  
+8.7 - 9.5 (653)
+Ross	OH	8.8	
+  
+8.7 - 9.5 (653)
+Wallowa	OR	8.8	
+  
+8.7 - 9.5 (653)
+Douglas	OR	8.8	
+  
+8.7 - 9.5 (653)
+Clearfield	PA	8.8	
+  
+8.7 - 9.5 (653)
+Fulton	PA	8.8	
+  
+8.7 - 9.5 (653)
+Elk	PA	8.8	
+  
+8.7 - 9.5 (653)
+Tuscarawas	OH	8.8	
+  
+8.7 - 9.5 (653)
+Muskogee	OK	8.8	
+  
+8.7 - 9.5 (653)
+Missaukee	MI	8.8	
+  
+8.7 - 9.5 (653)
+Benzie	MI	8.8	
+  
+8.7 - 9.5 (653)
+Murray	MN	8.8	
+  
+8.7 - 9.5 (653)
+Bolivar	MS	8.8	
+  
+8.7 - 9.5 (653)
+Itasca	MN	8.8	
+  
+8.7 - 9.5 (653)
+Grant	MN	8.8	
+  
+8.7 - 9.5 (653)
+Lake of the Woods	MN	8.8	
+  
+8.7 - 9.5 (653)
+Audrain	MO	8.8	
+  
+8.7 - 9.5 (653)
+Madison	MO	8.8	
+  
+8.7 - 9.5 (653)
+Laclede	MO	8.8	
+  
+8.7 - 9.5 (653)
+Lewis	MO	8.8	
+  
+8.7 - 9.5 (653)
+Phillips	MT	8.8	
+  
+8.7 - 9.5 (653)
+Big Horn	MT	8.8	
+  
+8.7 - 9.5 (653)
+Wibaux	MT	8.8	
+  
+8.7 - 9.5 (653)
+Burt	NE	8.8	
+  
+8.7 - 9.5 (653)
+Deuel	NE	8.8	
+  
+8.7 - 9.5 (653)
+Furnas	NE	8.8	
+  
+8.7 - 9.5 (653)
+Garfield	NE	8.9	
+  
+8.7 - 9.5 (653)
+Greeley	NE	8.9	
+  
+8.7 - 9.5 (653)
+Harlan	NE	8.9	
+  
+8.7 - 9.5 (653)
+Hooker	NE	8.9	
+  
+8.7 - 9.5 (653)
+Loup	NE	8.9	
+  
+8.7 - 9.5 (653)
+Scott	MO	8.9	
+  
+8.7 - 9.5 (653)
+Pike	MO	8.9	
+  
+8.7 - 9.5 (653)
+Wayne	MS	8.9	
+  
+8.7 - 9.5 (653)
+Cottonwood	MN	8.9	
+  
+8.7 - 9.5 (653)
+Clay	MS	8.9	
+  
+8.7 - 9.5 (653)
+Traverse	MN	8.9	
+  
+8.7 - 9.5 (653)
+Luce	MI	8.9	
+  
+8.7 - 9.5 (653)
+Lincoln	ME	8.9	
+  
+8.7 - 9.5 (653)
+Kay	OK	8.9	
+  
+8.7 - 9.5 (653)
+Caddo	OK	8.9	
+  
+8.7 - 9.5 (653)
+Garvin	OK	8.9	
+  
+8.7 - 9.5 (653)
+Dewey	OK	8.9	
+  
+8.7 - 9.5 (653)
+Baker	OR	8.9	
+  
+8.7 - 9.5 (653)
+Muskingum	OH	8.9	
+  
+8.7 - 9.5 (653)
+Marion	OH	8.9	
+  
+8.7 - 9.5 (653)
+Belmont	OH	8.9	
+  
+8.7 - 9.5 (653)
+Pembina	ND	8.9	
+  
+8.7 - 9.5 (653)
+Caswell	NC	8.9	
+  
+8.7 - 9.5 (653)
+Caldwell	NC	8.9	
+  
+8.7 - 9.5 (653)
+Knox	NE	8.9	
+  
+8.7 - 9.5 (653)
+Lincoln	NV	8.9	
+  
+8.7 - 9.5 (653)
+Douglas	NV	8.9	
+  
+8.7 - 9.5 (653)
+Hidalgo	NM	8.9	
+  
+8.7 - 9.5 (653)
+McLean	KY	8.9	
+  
+8.7 - 9.5 (653)
+Logan	KY	8.9	
+  
+8.7 - 9.5 (653)
+Henry	KY	8.9	
+  
+8.7 - 9.5 (653)
+Acadia	LA	8.9	
+  
+8.7 - 9.5 (653)
+Todd	KY	8.9	
+  
+8.7 - 9.5 (653)
+Wallace	KS	8.9	
+  
+8.7 - 9.5 (653)
+Phillips	KS	8.9	
+  
+8.7 - 9.5 (653)
+Lane	KS	8.9	
+  
+8.7 - 9.5 (653)
+Montgomery	KS	8.9	
+  
+8.7 - 9.5 (653)
+Comanche	KS	8.9	
+  
+8.7 - 9.5 (653)
+Edwards	KS	8.9	
+  
+8.7 - 9.5 (653)
+Pike	IL	8.9	
+  
+8.7 - 9.5 (653)
+Kiowa	CO	8.9	
+  
+8.7 - 9.5 (653)
+Saguache	CO	8.9	
+  
+8.7 - 9.5 (653)
+Bradford	FL	8.9	
+  
+8.7 - 9.5 (653)
+Laurens	GA	8.9	
+  
+8.7 - 9.5 (653)
+Pierce	GA	8.9	
+  
+8.7 - 9.5 (653)
+Upson	GA	8.9	
+  
+8.7 - 9.5 (653)
+Fisher	TX	8.9	
+  
+8.7 - 9.5 (653)
+Floyd	TX	8.9	
+  
+8.7 - 9.5 (653)
+Jim Hogg	TX	8.9	
+  
+8.7 - 9.5 (653)
+Van Zandt	TX	8.9	
+  
+8.7 - 9.5 (653)
+Crockett	TN	8.9	
+  
+8.7 - 9.5 (653)
+Sevier	TN	8.9	
+  
+8.7 - 9.5 (653)
+Blanco	TX	8.9	
+  
+8.7 - 9.5 (653)
+Calhoun	SC	8.9	
+  
+8.7 - 9.5 (653)
+Bamberg	SC	8.9	
+  
+8.7 - 9.5 (653)
+Mercer	PA	8.9	
+  
+8.7 - 9.5 (653)
+Orangeburg	SC	8.9	
+  
+8.7 - 9.5 (653)
+Forest	WI	8.9	
+  
+8.7 - 9.5 (653)
+Marion	WV	8.9	
+  
+8.7 - 9.5 (653)
+Bayfield	WI	8.9	
+  
+8.7 - 9.5 (653)
+Columbia	WA	8.9	
+  
+8.7 - 9.5 (653)
+Klickitat	WA	8.9	
+  
+8.7 - 9.5 (653)
+Surry	VA	8.9	
+  
+8.7 - 9.5 (653)
+Franklin County	VA	8.9	
+  
+8.7 - 9.5 (653)
+Essex	VA	9.0	
+  
+8.7 - 9.5 (653)
+Pend Oreille	WA	9.0	
+  
+8.7 - 9.5 (653)
+Norton	VA	9.0	
+  
+8.7 - 9.5 (653)
+Danville	VA	9.0	
+  
+8.7 - 9.5 (653)
+Ohio	WV	9.0	
+  
+8.7 - 9.5 (653)
+Langlade	WI	9.0	
+  
+8.7 - 9.5 (653)
+Somerset	PA	9.0	
+  
+8.7 - 9.5 (653)
+Tioga	PA	9.0	
+  
+8.7 - 9.5 (653)
+Wayne	PA	9.0	
+  
+8.7 - 9.5 (653)
+Sullivan	TN	9.0	
+  
+8.7 - 9.5 (653)
+Moore	TN	9.0	
+  
+8.7 - 9.5 (653)
+McMinn	TN	9.0	
+  
+8.7 - 9.5 (653)
+Giles	TN	9.0	
+  
+8.7 - 9.5 (653)
+Hamblen	TN	9.0	
+  
+8.7 - 9.5 (653)
+Runnels	TX	9.0	
+  
+8.7 - 9.5 (653)
+DeWitt	TX	9.0	
+  
+8.7 - 9.5 (653)
+Washington	GA	9.0	
+  
+8.7 - 9.5 (653)
+Worth	GA	9.0	
+  
+8.7 - 9.5 (653)
+Irwin	GA	9.0	
+  
+8.7 - 9.5 (653)
+Charlton	GA	9.0	
+  
+8.7 - 9.5 (653)
+Volusia	FL	9.0	
+  
+8.7 - 9.5 (653)
+Arkansas	AR	9.0	
+  
+8.7 - 9.5 (653)
+Yavapai	AZ	9.0	
+  
+8.7 - 9.5 (653)
+Chambers	AL	9.0	
+  
+8.7 - 9.5 (653)
+Franklin	AL	9.0	
+  
+8.7 - 9.5 (653)
+Massac	IL	9.0	
+  
+8.7 - 9.5 (653)
+Henderson	IL	9.0	
+  
+8.7 - 9.5 (653)
+Jo Daviess	IL	9.0	
+  
+8.7 - 9.5 (653)
+Franklin	IL	9.0	
+  
+8.7 - 9.5 (653)
+Orange	IN	9.0	
+  
+8.7 - 9.5 (653)
+Gove	KS	9.0	
+  
+8.7 - 9.5 (653)
+Pocahontas	IA	9.0	
+  
+8.7 - 9.5 (653)
+Allen	KY	9.0	
+  
+8.7 - 9.5 (653)
+Owen	KY	9.0	
+  
+8.7 - 9.5 (653)
+Laurel	KY	9.0	
+  
+8.7 - 9.5 (653)
+Marion	KY	9.0	
+  
+8.7 - 9.5 (653)
+Delaware	NY	9.0	
+  
+8.7 - 9.5 (653)
+McKinley	NM	9.0	
+  
+8.7 - 9.5 (653)
+Coös	NH	9.0	
+  
+8.7 - 9.5 (653)
+Sherman	NE	9.0	
+  
+8.7 - 9.5 (653)
+Hertford	NC	9.0	
+  
+8.7 - 9.5 (653)
+Stokes	NC	9.0	
+  
+8.7 - 9.5 (653)
+Surry	NC	9.0	
+  
+8.7 - 9.5 (653)
+Nelson	ND	9.0	
+  
+8.7 - 9.5 (653)
+Oliver	ND	9.0	
+  
+8.7 - 9.5 (653)
+Golden Valley	ND	9.0	
+  
+8.7 - 9.5 (653)
+Eddy	ND	9.0	
+  
+8.7 - 9.5 (653)
+Slope	ND	9.0	
+  
+8.7 - 9.5 (653)
+Darke	OH	9.0	
+  
+8.7 - 9.5 (653)
+Clark	OH	9.0	
+  
+8.7 - 9.5 (653)
+Mahoning	OH	9.0	
+  
+8.7 - 9.5 (653)
+Stephens	OK	9.0	
+  
+8.7 - 9.5 (653)
+Armstrong	PA	9.0	
+  
+8.7 - 9.5 (653)
+Grant	OK	9.0	
+  
+8.7 - 9.5 (653)
+Oxford	ME	9.0	
+  
+8.7 - 9.5 (653)
+Winn	LA	9.0	
+  
+8.7 - 9.5 (653)
+Kalkaska	MI	9.0	
+  
+8.7 - 9.5 (653)
+Benton	MS	9.0	
+  
+8.7 - 9.5 (653)
+Clearwater	MN	9.0	
+  
+8.7 - 9.5 (653)
+Tippah	MS	9.0	
+  
+8.7 - 9.5 (653)
+Pike	MS	9.0	
+  
+8.7 - 9.5 (653)
+Scott	MS	9.0	
+  
+8.7 - 9.5 (653)
+Gasconade	MO	9.0	
+  
+8.7 - 9.5 (653)
+Hitchcock	NE	9.0	
+  
+8.7 - 9.5 (653)
+Brown	NE	9.0	
+  
+8.7 - 9.5 (653)
+Valley	MT	9.0	
+  
+8.7 - 9.5 (653)
+Grant	NE	9.1	
+  
+8.7 - 9.5 (653)
+Schuyler	MO	9.1	
+  
+8.7 - 9.5 (653)
+Taney	MO	9.1	
+  
+8.7 - 9.5 (653)
+Carter	MT	9.1	
+  
+8.7 - 9.5 (653)
+Powder River	MT	9.1	
+  
+8.7 - 9.5 (653)
+Judith Basin	MT	9.1	
+  
+8.7 - 9.5 (653)
+Gentry	MO	9.1	
+  
+8.7 - 9.5 (653)
+Panola	MS	9.1	
+  
+8.7 - 9.5 (653)
+Lawrence	MS	9.1	
+  
+8.7 - 9.5 (653)
+Leake	MS	9.1	
+  
+8.7 - 9.5 (653)
+Lincoln	MN	9.1	
+  
+8.7 - 9.5 (653)
+Oceana	MI	9.1	
+  
+8.7 - 9.5 (653)
+Murray	OK	9.1	
+  
+8.7 - 9.5 (653)
+Lincoln	OK	9.1	
+  
+8.7 - 9.5 (653)
+Bradford	PA	9.1	
+  
+8.7 - 9.5 (653)
+Fayette	PA	9.1	
+  
+8.7 - 9.5 (653)
+Coos	OR	9.1	
+  
+8.7 - 9.5 (653)
+Fayette	OH	9.1	
+  
+8.7 - 9.5 (653)
+Washington	OH	9.1	
+  
+8.7 - 9.5 (653)
+Griggs	ND	9.1	
+  
+8.7 - 9.5 (653)
+Hettinger	ND	9.1	
+  
+8.7 - 9.5 (653)
+Swain	NC	9.1	
+  
+8.7 - 9.5 (653)
+Wilkes	NC	9.1	
+  
+8.7 - 9.5 (653)
+Mitchell	NC	9.1	
+  
+8.7 - 9.5 (653)
+Burke	NC	9.1	
+  
+8.7 - 9.5 (653)
+Edgecombe	NC	9.1	
+  
+8.7 - 9.5 (653)
+Duplin	NC	9.1	
+  
+8.7 - 9.5 (653)
+Nuckolls	NE	9.1	
+  
+8.7 - 9.5 (653)
+Richardson	NE	9.1	
+  
+8.7 - 9.5 (653)
+Eureka	NV	9.1	
+  
+8.7 - 9.5 (653)
+Lincoln	NM	9.1	
+  
+8.7 - 9.5 (653)
+Hopkins	KY	9.1	
+  
+8.7 - 9.5 (653)
+Greenup	KY	9.1	
+  
+8.7 - 9.5 (653)
+Carroll	KY	9.1	
+  
+8.7 - 9.5 (653)
+Muhlenberg	KY	9.1	
+  
+8.7 - 9.5 (653)
+De Soto	LA	9.1	
+  
+8.7 - 9.5 (653)
+Adair	KY	9.1	
+  
+8.7 - 9.5 (653)
+Bracken	KY	9.1	
+  
+8.7 - 9.5 (653)
+Bourbon	KY	9.1	
+  
+8.7 - 9.5 (653)
+Boyd	KY	9.1	
+  
+8.7 - 9.5 (653)
+Wilson	KS	9.1	
+  
+8.7 - 9.5 (653)
+Morton	KS	9.1	
+  
+8.7 - 9.5 (653)
+Lincoln	KS	9.1	
+  
+8.7 - 9.5 (653)
+Russell	KS	9.1	
+  
+8.7 - 9.5 (653)
+Wright	IA	9.1	
+  
+8.7 - 9.5 (653)
+Wayne	IA	9.1	
+  
+8.7 - 9.5 (653)
+Owen	IN	9.1	
+  
+8.7 - 9.5 (653)
+Parke	IN	9.1	
+  
+8.7 - 9.5 (653)
+Starke	IN	9.1	
+  
+8.7 - 9.5 (653)
+Crenshaw	AL	9.1	
+  
+8.7 - 9.5 (653)
+Sumter	AL	9.1	
+  
+8.7 - 9.5 (653)
+Kusilvak	AK	9.1	
+  
+8.7 - 9.5 (653)
+Boone	AR	9.1	
+  
+8.7 - 9.5 (653)
+Plumas	CA	9.1	
+  
+8.7 - 9.5 (653)
+St. Lucie	FL	9.1	
+  
+8.7 - 9.5 (653)
+Calhoun	GA	9.1	
+  
+8.7 - 9.5 (653)
+Colquitt	GA	9.1	
+  
+8.7 - 9.5 (653)
+Kalawao	HI	9.1	
+  
+8.7 - 9.5 (653)
+Boise	ID	9.1	
+  
+8.7 - 9.5 (653)
+Wheeler	GA	9.1	
+  
+8.7 - 9.5 (653)
+Falls	TX	9.1	
+  
+8.7 - 9.5 (653)
+Freestone	TX	9.1	
+  
+8.7 - 9.5 (653)
+Lamb	TX	9.1	
+  
+8.7 - 9.5 (653)
+Limestone	TX	9.1	
+  
+8.7 - 9.5 (653)
+Stephens	TX	9.1	
+  
+8.7 - 9.5 (653)
+Charles City	VA	9.1	
+  
+8.7 - 9.5 (653)
+DeKalb	TN	9.1	
+  
+8.7 - 9.5 (653)
+Lawrence	TN	9.1	
+  
+8.7 - 9.5 (653)
+Lake	TN	9.1	
+  
+8.7 - 9.5 (653)
+Henderson	TN	9.1	
+  
+8.7 - 9.5 (653)
+Carroll	TN	9.1	
+  
+8.7 - 9.5 (653)
+Rhea	TN	9.1	
+  
+8.7 - 9.5 (653)
+Warren	TN	9.1	
+  
+8.7 - 9.5 (653)
+Jefferson	PA	9.1	
+  
+8.7 - 9.5 (653)
+Lee	SC	9.1	
+  
+8.7 - 9.5 (653)
+Chesterfield	SC	9.1	
+  
+8.7 - 9.5 (653)
+Oconee	SC	9.1	
+  
+8.7 - 9.5 (653)
+Bennett	SD	9.1	
+  
+8.7 - 9.5 (653)
+Douglas	SD	9.1	
+  
+8.7 - 9.5 (653)
+Florence	WI	9.1	
+  
+8.7 - 9.5 (653)
+Washburn	WI	9.1	
+  
+8.7 - 9.5 (653)
+Clallam	WA	9.1	
+  
+8.7 - 9.5 (653)
+Galax	VA	9.2	
+  
+8.7 - 9.5 (653)
+Mathews	VA	9.2	
+  
+8.7 - 9.5 (653)
+Lunenburg	VA	9.2	
+  
+8.7 - 9.5 (653)
+Tazewell	VA	9.2	
+  
+8.7 - 9.5 (653)
+Pittsylvania	VA	9.2	
+  
+8.7 - 9.5 (653)
+Rusk	WI	9.2	
+  
+8.7 - 9.5 (653)
+Lyman	SD	9.2	
+  
+8.7 - 9.5 (653)
+Horry	SC	9.2	
+  
+8.7 - 9.5 (653)
+Warren	PA	9.2	
+  
+8.7 - 9.5 (653)
+Abbeville	SC	9.2	
+  
+8.7 - 9.5 (653)
+Wayne	TN	9.2	
+  
+8.7 - 9.5 (653)
+Bledsoe	TN	9.2	
+  
+8.7 - 9.5 (653)
+Perkins	SD	9.2	
+  
+8.7 - 9.5 (653)
+Humphreys	TN	9.2	
+  
+8.7 - 9.5 (653)
+Hardeman	TN	9.2	
+  
+8.7 - 9.5 (653)
+Refugio	TX	9.2	
+  
+8.7 - 9.5 (653)
+Knox	TX	9.2	
+  
+8.7 - 9.5 (653)
+Hardeman	TX	9.2	
+  
+8.7 - 9.5 (653)
+Delta	TX	9.2	
+  
+8.7 - 9.5 (653)
+Crosby	TX	9.2	
+  
+8.7 - 9.5 (653)
+Colorado	TX	9.2	
+  
+8.7 - 9.5 (653)
+Comanche	TX	9.2	
+  
+8.7 - 9.5 (653)
+Ware	GA	9.2	
+  
+8.7 - 9.5 (653)
+Boundary	ID	9.2	
+  
+8.7 - 9.5 (653)
+Jeff Davis	GA	9.2	
+  
+8.7 - 9.5 (653)
+Jefferson	GA	9.2	
+  
+8.7 - 9.5 (653)
+Emanuel	GA	9.2	
+  
+8.7 - 9.5 (653)
+Evans	GA	9.2	
+  
+8.7 - 9.5 (653)
+Glascock	GA	9.2	
+  
+8.7 - 9.5 (653)
+Grady	GA	9.2	
+  
+8.7 - 9.5 (653)
+Crawford	GA	9.2	
+  
+8.7 - 9.5 (653)
+Dodge	GA	9.2	
+  
+8.7 - 9.5 (653)
+Lake	FL	9.2	
+  
+8.7 - 9.5 (653)
+Lake	CA	9.2	
+  
+8.7 - 9.5 (653)
+Calaveras	CA	9.2	
+  
+8.7 - 9.5 (653)
+Little River	AR	9.2	
+  
+8.7 - 9.5 (653)
+Bradley	AR	9.2	
+  
+8.7 - 9.5 (653)
+Wrangell	AK	9.2	
+  
+8.7 - 9.5 (653)
+Lawrence	AL	9.2	
+  
+8.7 - 9.5 (653)
+Randolph	AL	9.2	
+  
+8.7 - 9.5 (653)
+Clayton	IA	9.2	
+  
+8.7 - 9.5 (653)
+White	IL	9.2	
+  
+8.7 - 9.5 (653)
+Ohio	KY	9.2	
+  
+8.7 - 9.5 (653)
+Morgan	KY	9.2	
+  
+8.7 - 9.5 (653)
+Rolette	ND	9.2	
+  
+8.7 - 9.5 (653)
+Brown	OH	9.2	
+  
+8.7 - 9.5 (653)
+Gallia	OH	9.2	
+  
+8.7 - 9.5 (653)
+Lincoln	OR	9.2	
+  
+8.7 - 9.5 (653)
+Love	OK	9.2	
+  
+8.7 - 9.5 (653)
+Pawnee	OK	9.2	
+  
+8.7 - 9.5 (653)
+Osage	OK	9.2	
+  
+8.7 - 9.5 (653)
+Harper	OK	9.2	
+  
+8.7 - 9.5 (653)
+Sanilac	MI	9.2	
+  
+8.7 - 9.5 (653)
+Lac qui Parle	MN	9.2	
+  
+8.7 - 9.5 (653)
+Alcorn	MS	9.2	
+  
+8.7 - 9.5 (653)
+Covington	MS	9.2	
+  
+8.7 - 9.5 (653)
+Chickasaw	MS	9.2	
+  
+8.7 - 9.5 (653)
+Jefferson	MS	9.2	
+  
+8.7 - 9.5 (653)
+Todd	MN	9.2	
+  
+8.7 - 9.5 (653)
+Manistee	MI	9.2	
+  
+8.7 - 9.5 (653)
+Antrim	MI	9.2	
+  
+8.7 - 9.5 (653)
+St. Mary	LA	9.2	
+  
+8.7 - 9.5 (653)
+Noxubee	MS	9.2	
+  
+8.7 - 9.5 (653)
+Monroe	MS	9.2	
+  
+8.7 - 9.5 (653)
+Prentiss	MS	9.2	
+  
+8.7 - 9.5 (653)
+Neshoba	MS	9.2	
+  
+8.7 - 9.5 (653)
+Bates	MO	9.2	
+  
+8.7 - 9.5 (653)
+Linn	MO	9.2	
+  
+8.7 - 9.5 (653)
+Lawrence	MO	9.2	
+  
+8.7 - 9.5 (653)
+Ralls	MO	9.2	
+  
+8.7 - 9.5 (653)
+Macon	MO	9.2	
+  
+8.7 - 9.5 (653)
+McDonald	MO	9.3	
+  
+8.7 - 9.5 (653)
+Daviess	MO	9.3	
+  
+8.7 - 9.5 (653)
+Washington	MS	9.3	
+  
+8.7 - 9.5 (653)
+Carroll	MO	9.3	
+  
+8.7 - 9.5 (653)
+Meagher	MT	9.3	
+  
+8.7 - 9.5 (653)
+Sullivan	MO	9.3	
+  
+8.7 - 9.5 (653)
+Keith	NE	9.3	
+  
+8.7 - 9.5 (653)
+Alger	MI	9.3	
+  
+8.7 - 9.5 (653)
+Delta	MI	9.3	
+  
+8.7 - 9.5 (653)
+Mason	MI	9.3	
+  
+8.7 - 9.5 (653)
+Menominee	MI	9.3	
+  
+8.7 - 9.5 (653)
+Issaquena	MS	9.3	
+  
+8.7 - 9.5 (653)
+Jasper	MS	9.3	
+  
+8.7 - 9.5 (653)
+Choctaw	MS	9.3	
+  
+8.7 - 9.5 (653)
+Clarke	MS	9.3	
+  
+8.7 - 9.5 (653)
+Osceola	MI	9.3	
+  
+8.7 - 9.5 (653)
+Blaine	OK	9.3	
+  
+8.7 - 9.5 (653)
+Jackson	OH	9.3	
+  
+8.7 - 9.5 (653)
+Hocking	OH	9.3	
+  
+8.7 - 9.5 (653)
+Columbiana	OH	9.3	
+  
+8.7 - 9.5 (653)
+Mora	NM	9.3	
+  
+8.7 - 9.5 (653)
+Lenoir	NC	9.3	
+  
+8.7 - 9.5 (653)
+Rutherford	NC	9.3	
+  
+8.7 - 9.5 (653)
+Robeson	NC	9.3	
+  
+8.7 - 9.5 (653)
+Graves	KY	9.3	
+  
+8.7 - 9.5 (653)
+Catahoula	LA	9.3	
+  
+8.7 - 9.5 (653)
+Republic	KS	9.3	
+  
+8.7 - 9.5 (653)
+Ness	KS	9.3	
+  
+8.7 - 9.5 (653)
+Linn	KS	9.3	
+  
+8.7 - 9.5 (653)
+Cleburne	AL	9.3	
+  
+8.7 - 9.5 (653)
+Prince of Wales-Hyder	AK	9.3	
+  
+8.7 - 9.5 (653)
+Calhoun	AR	9.3	
+  
+8.7 - 9.5 (653)
+Hempstead	AR	9.3	
+  
+8.7 - 9.5 (653)
+Jackson	AR	9.3	
+  
+8.7 - 9.5 (653)
+Cross	AR	9.3	
+  
+8.7 - 9.5 (653)
+St. Francis	AR	9.3	
+  
+8.7 - 9.5 (653)
+Mariposa	CA	9.3	
+  
+8.7 - 9.5 (653)
+Delta	CO	9.3	
+  
+8.7 - 9.5 (653)
+Hardee	FL	9.3	
+  
+8.7 - 9.5 (653)
+Lafayette	FL	9.3	
+  
+8.7 - 9.5 (653)
+Gilchrist	FL	9.3	
+  
+8.7 - 9.5 (653)
+Suwannee	FL	9.3	
+  
+8.7 - 9.5 (653)
+Atkinson	GA	9.3	
+  
+8.7 - 9.5 (653)
+Bacon	GA	9.3	
+  
+8.7 - 9.5 (653)
+Marion	GA	9.3	
+  
+8.7 - 9.5 (653)
+Benewah	ID	9.3	
+  
+8.7 - 9.5 (653)
+Wilcox	GA	9.3	
+  
+8.7 - 9.5 (653)
+Collingsworth	TX	9.3	
+  
+8.7 - 9.5 (653)
+Goliad	TX	9.3	
+  
+8.7 - 9.5 (653)
+Gillespie	TX	9.3	
+  
+8.7 - 9.5 (653)
+Lavaca	TX	9.3	
+  
+8.7 - 9.5 (653)
+Montague	TX	9.3	
+  
+8.7 - 9.5 (653)
+Milam	TX	9.3	
+  
+8.7 - 9.5 (653)
+Polk	TX	9.3	
+  
+8.7 - 9.5 (653)
+Houston	TN	9.3	
+  
+8.7 - 9.5 (653)
+Potter	SD	9.3	
+  
+8.7 - 9.5 (653)
+Roane	TN	9.3	
+  
+8.7 - 9.5 (653)
+Polk	TN	9.3	
+  
+8.7 - 9.5 (653)
+Haywood	TN	9.3	
+  
+8.7 - 9.5 (653)
+Baylor	TX	9.3	
+  
+8.7 - 9.5 (653)
+Barnwell	SC	9.3	
+  
+8.7 - 9.5 (653)
+Susquehanna	PA	9.3	
+  
+8.7 - 9.5 (653)
+Colleton	SC	9.3	
+  
+8.7 - 9.5 (653)
+Campbell	SD	9.3	
+  
+8.7 - 9.5 (653)
+Price	WI	9.3	
+  
+8.7 - 9.5 (653)
+Vilas	WI	9.3	
+  
+8.7 - 9.5 (653)
+Pleasants	WV	9.3	
+  
+8.7 - 9.5 (653)
+Harrison	WV	9.3	
+  
+8.7 - 9.5 (653)
+Westmoreland	VA	9.3	
+  
+8.7 - 9.5 (653)
+Smyth	VA	9.3	
+  
+8.7 - 9.5 (653)
+Rockbridge	VA	9.3	
+  
+8.7 - 9.5 (653)
+Bristol	VA	9.3	
+  
+8.7 - 9.5 (653)
+Halifax	VA	9.4	
+  
+8.7 - 9.5 (653)
+Mineral	WV	9.4	
+  
+8.7 - 9.5 (653)
+Charles Mix	SD	9.4	
+  
+8.7 - 9.5 (653)
+Buffalo	SD	9.4	
+  
+8.7 - 9.5 (653)
+Union	SC	9.4	
+  
+8.7 - 9.5 (653)
+Williamsburg	SC	9.4	
+  
+8.7 - 9.5 (653)
+Oglala Lakota	SD	9.4	
+  
+8.7 - 9.5 (653)
+Faulk	SD	9.4	
+  
+8.7 - 9.5 (653)
+Dewey	SD	9.4	
+  
+8.7 - 9.5 (653)
+Venango	PA	9.4	
+  
+8.7 - 9.5 (653)
+Mifflin	PA	9.4	
+  
+8.7 - 9.5 (653)
+Dillon	SC	9.4	
+  
+8.7 - 9.5 (653)
+Hampton	SC	9.4	
+  
+8.7 - 9.5 (653)
+Morgan	TN	9.4	
+  
+8.7 - 9.5 (653)
+Meigs	TN	9.4	
+  
+8.7 - 9.5 (653)
+Union	TN	9.4	
+  
+8.7 - 9.5 (653)
+Loudon	TN	9.4	
+  
+8.7 - 9.5 (653)
+Shelby	TX	9.4	
+  
+8.7 - 9.5 (653)
+Wilbarger	TX	9.4	
+  
+8.7 - 9.5 (653)
+Alleghany	VA	9.4	
+  
+8.7 - 9.5 (653)
+Mason	TX	9.4	
+  
+8.7 - 9.5 (653)
+Fayette	TX	9.4	
+  
+8.7 - 9.5 (653)
+Mitchell	GA	9.4	
+  
+8.7 - 9.5 (653)
+Hart	GA	9.4	
+  
+8.7 - 9.5 (653)
+Berrien	GA	9.4	
+  
+8.7 - 9.5 (653)
+Jackson	FL	9.4	
+  
+8.7 - 9.5 (653)
+Calhoun	FL	9.4	
+  
+8.7 - 9.5 (653)
+Huerfano	CO	9.4	
+  
+8.7 - 9.5 (653)
+Sierra	CA	9.4	
+  
+8.7 - 9.5 (653)
+Johnson	AR	9.4	
+  
+8.7 - 9.5 (653)
+Lawrence	AR	9.4	
+  
+8.7 - 9.5 (653)
+Butler	AL	9.4	
+  
+8.7 - 9.5 (653)
+Marengo	AL	9.4	
+  
+8.7 - 9.5 (653)
+Walker	AL	9.4	
+  
+8.7 - 9.5 (653)
+Butler	KY	9.4	
+  
+8.7 - 9.5 (653)
+Caldwell	KY	9.4	
+  
+8.7 - 9.5 (653)
+Caldwell	LA	9.4	
+  
+8.7 - 9.5 (653)
+Jackson	LA	9.4	
+  
+8.7 - 9.5 (653)
+Madison	LA	9.4	
+  
+8.7 - 9.5 (653)
+Webster	KY	9.4	
+  
+8.7 - 9.5 (653)
+Scotland	NC	9.4	
+  
+8.7 - 9.5 (653)
+Tyrrell	NC	9.4	
+  
+8.7 - 9.5 (653)
+Hyde	NC	9.4	
+  
+8.7 - 9.5 (653)
+Beaufort	NC	9.4	
+  
+8.7 - 9.5 (653)
+Storey	NV	9.4	
+  
+8.7 - 9.5 (653)
+Wells	ND	9.4	
+  
+8.7 - 9.5 (653)
+Cavalier	ND	9.4	
+  
+8.7 - 9.5 (653)
+Lawrence	OH	9.4	
+  
+8.7 - 9.5 (653)
+Harmon	OK	9.4	
+  
+8.7 - 9.5 (653)
+Okmulgee	OK	9.4	
+  
+8.7 - 9.5 (653)
+Pittsburg	OK	9.4	
+  
+8.7 - 9.5 (653)
+Forest	PA	9.4	
+  
+8.7 - 9.5 (653)
+Bedford	PA	9.4	
+  
+8.7 - 9.5 (653)
+Cass	MN	9.4	
+  
+8.7 - 9.5 (653)
+Coahoma	MS	9.4	
+  
+8.7 - 9.5 (653)
+Attala	MS	9.4	
+  
+8.7 - 9.5 (653)
+Baraga	MI	9.4	
+  
+8.7 - 9.5 (653)
+Alpena	MI	9.4	
+  
+8.7 - 9.5 (653)
+St. Landry	LA	9.4	
+  
+8.7 - 9.5 (653)
+Washington	MO	9.4	
+  
+8.7 - 9.5 (653)
+Scotland	MO	9.4	
+  
+8.7 - 9.5 (653)
+Winston	MS	9.4	
+  
+8.7 - 9.5 (653)
+Smith	MS	9.4	
+  
+8.7 - 9.5 (653)
+Montgomery	MO	9.4	
+  
+8.7 - 9.5 (653)
+Walthall	MS	9.5	
+  
+8.7 - 9.5 (653)
+Perry	MS	9.5	
+  
+8.7 - 9.5 (653)
+Yalobusha	MS	9.5	
+  
+8.7 - 9.5 (653)
+Carter	MO	9.5	
+  
+8.7 - 9.5 (653)
+Vernon	MO	9.5	
+  
+8.7 - 9.5 (653)
+Deer Lodge	MT	9.5	
+  
+8.7 - 9.5 (653)
+Musselshell	MT	9.5	
+  
+8.7 - 9.5 (653)
+Liberty	MT	9.5	
+  
+8.7 - 9.5 (653)
+Granite	MT	9.5	
+  
+8.7 - 9.5 (653)
+Treasure	MT	9.5	
+  
+8.7 - 9.5 (653)
+Boyd	NE	9.5	
+  
+8.7 - 9.5 (653)
+Calhoun	MS	9.5	
+  
+8.7 - 9.5 (653)
+Lake	OR	9.5	
+  
+8.7 - 9.5 (653)
+Josephine	OR	9.5	
+  
+8.7 - 9.5 (653)
+Mayes	OK	9.5	
+  
+8.7 - 9.5 (653)
+Johnston	OK	9.5	
+  
+8.7 - 9.5 (653)
+Ottawa	OH	9.5	
+  
+8.7 - 9.5 (653)
+Sioux	ND	9.5	
+  
+8.7 - 9.5 (653)
+Crawford	OH	9.5	
+  
+8.7 - 9.5 (653)
+Brunswick	NC	9.5	
+  
+8.7 - 9.5 (653)
+Columbus	NC	9.5	
+  
+8.7 - 9.5 (653)
+Yancey	NC	9.5	
+  
+8.7 - 9.5 (653)
+Polk	NC	9.5	
+  
+8.7 - 9.5 (653)
+Nicholas	KY	9.5	
+  
+8.7 - 9.5 (653)
+Perry	KY	9.5	
+  
+8.7 - 9.5 (653)
+Fleming	KY	9.5	
+  
+8.7 - 9.5 (653)
+Barren	KY	9.5	
+  
+8.7 - 9.5 (653)
+Bath	KY	9.5	
+  
+8.7 - 9.5 (653)
+Osborne	KS	9.5	
+  
+8.7 - 9.5 (653)
+Cheyenne	KS	9.5	
+  
+8.7 - 9.5 (653)
+Harper	KS	9.5	
+  
+8.7 - 9.5 (653)
+Blackford	IN	9.5	
+  
+8.7 - 9.5 (653)
+Fayette	IN	9.5	
+  
+8.7 - 9.5 (653)
+Appanoose	IA	9.5	
+  
+8.7 - 9.5 (653)
+Henry	AL	9.5	
+  
+8.7 - 9.5 (653)
+Pickens	AL	9.5	
+  
+8.7 - 9.5 (653)
+DeKalb	AL	9.5	
+  
+8.7 - 9.5 (653)
+Garland	AR	9.5	
+  
+8.7 - 9.5 (653)
+Howard	AR	9.5	
+  
+8.7 - 9.5 (653)
+Perry	AR	9.5	
+  
+8.7 - 9.5 (653)
+Siskiyou	CA	9.5	
+  
+8.7 - 9.5 (653)
+Baca	CO	9.5	
+  
+8.7 - 9.5 (653)
+Jefferson	FL	9.5	
+  
+8.7 - 9.5 (653)
+Manatee	FL	9.5	
+  
+8.7 - 9.5 (653)
+Dooly	GA	9.5	
+  
+8.7 - 9.5 (653)
+Taylor	FL	9.5	
+  
+8.7 - 9.5 (653)
+Okeechobee	FL	9.5	
+  
+8.7 - 9.5 (653)
+Camas	ID	9.5	
+  
+8.7 - 9.5 (653)
+Cochran	TX	9.5	
+  
+8.7 - 9.5 (653)
+Dickens	TX	9.5	
+  
+8.7 - 9.5 (653)
+Morris	TX	9.5	
+  
+8.7 - 9.5 (653)
+McCulloch	TX	9.5	
+  
+8.7 - 9.5 (653)
+Kerr	TX	9.5	
+  
+8.7 - 9.5 (653)
+Wheeler	TX	9.5	
+  
+8.7 - 9.5 (653)
+Swisher	TX	9.5	
+  
+8.7 - 9.5 (653)
+Hawkins	TN	9.5	
+  
+8.7 - 9.5 (653)
+Ziebach	SD	9.5	
+  
+8.7 - 9.5 (653)
+Claiborne	TN	9.5	
+  
+8.7 - 9.5 (653)
+Marion	TN	9.5	
+  
+8.7 - 9.5 (653)
+Preston	WV	9.5	
+  
+8.7 - 9.5 (653)
+Hot Springs	WY	9.5	
+  
+8.7 - 9.5 (653)
+Sawyer	WI	9.5	
+  
+8.7 - 9.5 (653)
+Mecklenburg	VA	9.5	
+  
+8.7 - 9.5 (653)
+Jefferson	WA	9.5	
+  
+8.7 - 9.5 (653)
+Okanogan	WA	9.6	
+  
+9.6 - 14.1 (592)
+Kanawha	WV	9.6	
+  
+9.6 - 14.1 (592)
+White	TN	9.6	
+  
+9.6 - 14.1 (592)
+Tripp	SD	9.6	
+  
+9.6 - 14.1 (592)
+Georgetown	SC	9.6	
+  
+9.6 - 14.1 (592)
+Fairfield	SC	9.6	
+  
+9.6 - 14.1 (592)
+Marion	SC	9.6	
+  
+9.6 - 14.1 (592)
+Custer	SD	9.6	
+  
+9.6 - 14.1 (592)
+Essex	VT	9.6	
+  
+9.6 - 14.1 (592)
+Eastland	TX	9.6	
+  
+9.6 - 14.1 (592)
+Henderson	TX	9.6	
+  
+9.6 - 14.1 (592)
+Clearwater	ID	9.6	
+  
+9.6 - 14.1 (592)
+Twiggs	GA	9.6	
+  
+9.6 - 14.1 (592)
+Meriwether	GA	9.6	
+  
+9.6 - 14.1 (592)
+Washington	FL	9.6	
+  
+9.6 - 14.1 (592)
+Lee	FL	9.6	
+  
+9.6 - 14.1 (592)
+Gulf	FL	9.6	
+  
+9.6 - 14.1 (592)
+Hamilton	FL	9.6	
+  
+9.6 - 14.1 (592)
+Sussex	DE	9.6	
+  
+9.6 - 14.1 (592)
+Sedgwick	CO	9.6	
+  
+9.6 - 14.1 (592)
+Nevada	AR	9.6	
+  
+9.6 - 14.1 (592)
+Poinsett	AR	9.6	
+  
+9.6 - 14.1 (592)
+Yell	AR	9.6	
+  
+9.6 - 14.1 (592)
+Carroll	AR	9.6	
+  
+9.6 - 14.1 (592)
+Navajo	AZ	9.6	
+  
+9.6 - 14.1 (592)
+Jackson	AL	9.6	
+  
+9.6 - 14.1 (592)
+Covington	AL	9.6	
+  
+9.6 - 14.1 (592)
+Washington	AL	9.6	
+  
+9.6 - 14.1 (592)
+Breckinridge	KY	9.6	
+  
+9.6 - 14.1 (592)
+Woodson	KS	9.6	
+  
+9.6 - 14.1 (592)
+Livingston	KY	9.6	
+  
+9.6 - 14.1 (592)
+Trigg	KY	9.6	
+  
+9.6 - 14.1 (592)
+Pulaski	KY	9.6	
+  
+9.6 - 14.1 (592)
+Avoyelles	LA	9.6	
+  
+9.6 - 14.1 (592)
+Evangeline	LA	9.6	
+  
+9.6 - 14.1 (592)
+Adams	ND	9.6	
+  
+9.6 - 14.1 (592)
+Ashe	NC	9.6	
+  
+9.6 - 14.1 (592)
+Luna	NM	9.6	
+  
+9.6 - 14.1 (592)
+Grant	NM	9.6	
+  
+9.6 - 14.1 (592)
+Logan	ND	9.6	
+  
+9.6 - 14.1 (592)
+Highland	OH	9.6	
+  
+9.6 - 14.1 (592)
+Jefferson	OH	9.6	
+  
+9.6 - 14.1 (592)
+Cotton	OK	9.6	
+  
+9.6 - 14.1 (592)
+Le Flore	OK	9.6	
+  
+9.6 - 14.1 (592)
+Ottawa	OK	9.6	
+  
+9.6 - 14.1 (592)
+Kemper	MS	9.6	
+  
+9.6 - 14.1 (592)
+Big Stone	MN	9.6	
+  
+9.6 - 14.1 (592)
+Koochiching	MN	9.6	
+  
+9.6 - 14.1 (592)
+St. Helena	LA	9.6	
+  
+9.6 - 14.1 (592)
+Garden	NE	9.6	
+  
+9.6 - 14.1 (592)
+Butler	MO	9.6	
+  
+9.6 - 14.1 (592)
+Caldwell	MO	9.6	
+  
+9.6 - 14.1 (592)
+Wilkinson	MS	9.6	
+  
+9.6 - 14.1 (592)
+Barry	MO	9.7	
+  
+9.6 - 14.1 (592)
+Atchison	MO	9.7	
+  
+9.6 - 14.1 (592)
+Crawford	MO	9.7	
+  
+9.6 - 14.1 (592)
+Putnam	MO	9.7	
+  
+9.6 - 14.1 (592)
+Henry	MO	9.7	
+  
+9.6 - 14.1 (592)
+Maries	MO	9.7	
+  
+9.6 - 14.1 (592)
+Golden Valley	MT	9.7	
+  
+9.6 - 14.1 (592)
+Richland	LA	9.7	
+  
+9.6 - 14.1 (592)
+West Carroll	LA	9.7	
+  
+9.6 - 14.1 (592)
+Holmes	MS	9.7	
+  
+9.6 - 14.1 (592)
+Nowata	OK	9.7	
+  
+9.6 - 14.1 (592)
+Ellis	OK	9.7	
+  
+9.6 - 14.1 (592)
+Guernsey	OH	9.7	
+  
+9.6 - 14.1 (592)
+Trumbull	OH	9.7	
+  
+9.6 - 14.1 (592)
+Divide	ND	9.7	
+  
+9.6 - 14.1 (592)
+Coshocton	OH	9.7	
+  
+9.6 - 14.1 (592)
+Carroll	OH	9.7	
+  
+9.6 - 14.1 (592)
+Towner	ND	9.7	
+  
+9.6 - 14.1 (592)
+Colfax	NM	9.7	
+  
+9.6 - 14.1 (592)
+Kimball	NE	9.7	
+  
+9.6 - 14.1 (592)
+Sheridan	NE	9.7	
+  
+9.6 - 14.1 (592)
+Graham	NC	9.7	
+  
+9.6 - 14.1 (592)
+Chowan	NC	9.7	
+  
+9.6 - 14.1 (592)
+Pointe Coupee	LA	9.7	
+  
+9.6 - 14.1 (592)
+Assumption	LA	9.7	
+  
+9.6 - 14.1 (592)
+Lyon	KY	9.7	
+  
+9.6 - 14.1 (592)
+Smith	KS	9.7	
+  
+9.6 - 14.1 (592)
+Ballard	KY	9.7	
+  
+9.6 - 14.1 (592)
+Clay	AL	9.7	
+  
+9.6 - 14.1 (592)
+Bullock	AL	9.7	
+  
+9.6 - 14.1 (592)
+Escambia	AL	9.7	
+  
+9.6 - 14.1 (592)
+Hoonah-Angoon	AK	9.7	
+  
+9.6 - 14.1 (592)
+Pike	AR	9.7	
+  
+9.6 - 14.1 (592)
+Logan	AR	9.7	
+  
+9.6 - 14.1 (592)
+Hernando	FL	9.7	
+  
+9.6 - 14.1 (592)
+Martin	FL	9.7	
+  
+9.6 - 14.1 (592)
+Ben Hill	GA	9.7	
+  
+9.6 - 14.1 (592)
+Brantley	GA	9.7	
+  
+9.6 - 14.1 (592)
+Macon	GA	9.7	
+  
+9.6 - 14.1 (592)
+Pulaski	GA	9.7	
+  
+9.6 - 14.1 (592)
+Turner	GA	9.7	
+  
+9.6 - 14.1 (592)
+Wilkinson	GA	9.7	
+  
+9.6 - 14.1 (592)
+Haskell	TX	9.7	
+  
+9.6 - 14.1 (592)
+Carroll	VA	9.7	
+  
+9.6 - 14.1 (592)
+Tyler	TX	9.7	
+  
+9.6 - 14.1 (592)
+San Saba	TX	9.7	
+  
+9.6 - 14.1 (592)
+Rains	TX	9.7	
+  
+9.6 - 14.1 (592)
+Saluda	SC	9.7	
+  
+9.6 - 14.1 (592)
+Gregory	SD	9.7	
+  
+9.6 - 14.1 (592)
+Grainger	TN	9.7	
+  
+9.6 - 14.1 (592)
+Obion	TN	9.7	
+  
+9.6 - 14.1 (592)
+Monroe	TN	9.7	
+  
+9.6 - 14.1 (592)
+Brooks	TX	9.7	
+  
+9.6 - 14.1 (592)
+Brooke	WV	9.7	
+  
+9.6 - 14.1 (592)
+Wahkiakum	WA	9.7	
+  
+9.6 - 14.1 (592)
+Burnett	WI	9.7	
+  
+9.6 - 14.1 (592)
+Wood	WV	9.7	
+  
+9.6 - 14.1 (592)
+Russell	VA	9.7	
+  
+9.6 - 14.1 (592)
+Niobrara	WY	9.7	
+  
+9.6 - 14.1 (592)
+Scott	VA	9.8	
+  
+9.6 - 14.1 (592)
+Northampton	VA	9.8	
+  
+9.6 - 14.1 (592)
+Patrick	VA	9.8	
+  
+9.6 - 14.1 (592)
+Middlesex	VA	9.8	
+  
+9.6 - 14.1 (592)
+Grayson	VA	9.8	
+  
+9.6 - 14.1 (592)
+Adams	WI	9.8	
+  
+9.6 - 14.1 (592)
+Taylor	WV	9.8	
+  
+9.6 - 14.1 (592)
+Jackson	WV	9.8	
+  
+9.6 - 14.1 (592)
+Cass	TX	9.8	
+  
+9.6 - 14.1 (592)
+Bosque	TX	9.8	
+  
+9.6 - 14.1 (592)
+Scott	TN	9.8	
+  
+9.6 - 14.1 (592)
+Greene	TN	9.8	
+  
+9.6 - 14.1 (592)
+Grundy	TN	9.8	
+  
+9.6 - 14.1 (592)
+McNairy	TN	9.8	
+  
+9.6 - 14.1 (592)
+Carter	TN	9.8	
+  
+9.6 - 14.1 (592)
+Allendale	SC	9.8	
+  
+9.6 - 14.1 (592)
+Potter	PA	9.8	
+  
+9.6 - 14.1 (592)
+San Jacinto	TX	9.8	
+  
+9.6 - 14.1 (592)
+Appling	GA	9.8	
+  
+9.6 - 14.1 (592)
+Chattooga	GA	9.8	
+  
+9.6 - 14.1 (592)
+Madison	AR	9.8	
+  
+9.6 - 14.1 (592)
+Yukon-Koyukuk	AK	9.8	
+  
+9.6 - 14.1 (592)
+Conway	AR	9.8	
+  
+9.6 - 14.1 (592)
+Cleveland	AR	9.8	
+  
+9.6 - 14.1 (592)
+Dallas	AL	9.8	
+  
+9.6 - 14.1 (592)
+Lamar	AL	9.8	
+  
+9.6 - 14.1 (592)
+Hale	AL	9.8	
+  
+9.6 - 14.1 (592)
+Clarke	AL	9.8	
+  
+9.6 - 14.1 (592)
+Tallapoosa	AL	9.8	
+  
+9.6 - 14.1 (592)
+Rawlins	KS	9.8	
+  
+9.6 - 14.1 (592)
+Barber	KS	9.8	
+  
+9.6 - 14.1 (592)
+Lincoln	KY	9.8	
+  
+9.6 - 14.1 (592)
+Crittenden	KY	9.8	
+  
+9.6 - 14.1 (592)
+Edmonson	KY	9.8	
+  
+9.6 - 14.1 (592)
+Red River	LA	9.8	
+  
+9.6 - 14.1 (592)
+Switzerland	IN	9.8	
+  
+9.6 - 14.1 (592)
+Pulaski	IL	9.8	
+  
+9.6 - 14.1 (592)
+Hardin	IL	9.8	
+  
+9.6 - 14.1 (592)
+Transylvania	NC	9.8	
+  
+9.6 - 14.1 (592)
+Perquimans	NC	9.8	
+  
+9.6 - 14.1 (592)
+Quay	NM	9.8	
+  
+9.6 - 14.1 (592)
+Atoka	OK	9.8	
+  
+9.6 - 14.1 (592)
+Scioto	OH	9.8	
+  
+9.6 - 14.1 (592)
+Pike	OH	9.8	
+  
+9.6 - 14.1 (592)
+Hughes	OK	9.8	
+  
+9.6 - 14.1 (592)
+Craig	OK	9.8	
+  
+9.6 - 14.1 (592)
+Somerset	ME	9.8	
+  
+9.6 - 14.1 (592)
+Huron	MI	9.8	
+  
+9.6 - 14.1 (592)
+Howell	MO	9.8	
+  
+9.6 - 14.1 (592)
+Grundy	MO	9.8	
+  
+9.6 - 14.1 (592)
+Dunklin	MO	9.8	
+  
+9.6 - 14.1 (592)
+Chariton	MO	9.8	
+  
+9.6 - 14.1 (592)
+Mercer	MO	9.8	
+  
+9.6 - 14.1 (592)
+Barton	MO	9.8	
+  
+9.6 - 14.1 (592)
+Marion	MS	9.9	
+  
+9.6 - 14.1 (592)
+New Madrid	MO	9.9	
+  
+9.6 - 14.1 (592)
+Stoddard	MO	9.9	
+  
+9.6 - 14.1 (592)
+Keweenaw	MI	9.9	
+  
+9.6 - 14.1 (592)
+Washington	LA	9.9	
+  
+9.6 - 14.1 (592)
+Aroostook	ME	9.9	
+  
+9.6 - 14.1 (592)
+Tillman	OK	9.9	
+  
+9.6 - 14.1 (592)
+Gilliam	OR	9.9	
+  
+9.6 - 14.1 (592)
+Harrison	OH	9.9	
+  
+9.6 - 14.1 (592)
+Adams	OH	9.9	
+  
+9.6 - 14.1 (592)
+Emmons	ND	9.9	
+  
+9.6 - 14.1 (592)
+LaMoure	ND	9.9	
+  
+9.6 - 14.1 (592)
+Wheeler	NE	9.9	
+  
+9.6 - 14.1 (592)
+Bladen	NC	9.9	
+  
+9.6 - 14.1 (592)
+Gallatin	IL	9.9	
+  
+9.6 - 14.1 (592)
+Rockcastle	KY	9.9	
+  
+9.6 - 14.1 (592)
+Grayson	KY	9.9	
+  
+9.6 - 14.1 (592)
+Hart	KY	9.9	
+  
+9.6 - 14.1 (592)
+Johnson	KY	9.9	
+  
+9.6 - 14.1 (592)
+Greenwood	KS	9.9	
+  
+9.6 - 14.1 (592)
+Marion	AL	9.9	
+  
+9.6 - 14.1 (592)
+Randolph	AR	9.9	
+  
+9.6 - 14.1 (592)
+Prairie	AR	9.9	
+  
+9.6 - 14.1 (592)
+Brooks	GA	9.9	
+  
+9.6 - 14.1 (592)
+Flagler	FL	9.9	
+  
+9.6 - 14.1 (592)
+Collier	FL	9.9	
+  
+9.6 - 14.1 (592)
+Treutlen	GA	9.9	
+  
+9.6 - 14.1 (592)
+Miller	GA	9.9	
+  
+9.6 - 14.1 (592)
+Charlotte	VA	9.9	
+  
+9.6 - 14.1 (592)
+Wood	TX	9.9	
+  
+9.6 - 14.1 (592)
+Coke	TX	9.9	
+  
+9.6 - 14.1 (592)
+Jasper	TX	9.9	
+  
+9.6 - 14.1 (592)
+Day	SD	9.9	
+  
+9.6 - 14.1 (592)
+McPherson	SD	9.9	
+  
+9.6 - 14.1 (592)
+Roberts	SD	9.9	
+  
+9.6 - 14.1 (592)
+Overton	TN	9.9	
+  
+9.6 - 14.1 (592)
+Morgan	WV	9.9	
+  
+9.6 - 14.1 (592)
+Iron	WI	9.9	
+  
+9.6 - 14.1 (592)
+Pacific	WA	9.9	
+  
+9.6 - 14.1 (592)
+Raleigh	WV	10.0	
+  
+9.6 - 14.1 (592)
+Lewis	WV	10.0	
+  
+9.6 - 14.1 (592)
+Sequatchie	TN	10.0	
+  
+9.6 - 14.1 (592)
+Bandera	TX	10.0	
+  
+9.6 - 14.1 (592)
+Todd	SD	10.0	
+  
+9.6 - 14.1 (592)
+Campbell	TN	10.0	
+  
+9.6 - 14.1 (592)
+Lewis	TN	10.0	
+  
+9.6 - 14.1 (592)
+Hardin	TN	10.0	
+  
+9.6 - 14.1 (592)
+Marlboro	SC	10.0	
+  
+9.6 - 14.1 (592)
+Sullivan	PA	10.0	
+  
+9.6 - 14.1 (592)
+Clarendon	SC	10.0	
+  
+9.6 - 14.1 (592)
+Live Oak	TX	10.0	
+  
+9.6 - 14.1 (592)
+Dimmit	TX	10.0	
+  
+9.6 - 14.1 (592)
+Accomack	VA	10.0	
+  
+9.6 - 14.1 (592)
+Jenkins	GA	10.0	
+  
+9.6 - 14.1 (592)
+Adams	ID	10.0	
+  
+9.6 - 14.1 (592)
+Sarasota	FL	10.0	
+  
+9.6 - 14.1 (592)
+Candler	GA	10.0	
+  
+9.6 - 14.1 (592)
+Coosa	AL	10.0	
+  
+9.6 - 14.1 (592)
+Dallas	AR	10.0	
+  
+9.6 - 14.1 (592)
+Apache	AZ	10.0	
+  
+9.6 - 14.1 (592)
+Shoshone	ID	10.0	
+  
+9.6 - 14.1 (592)
+Crawford	IN	10.0	
+  
+9.6 - 14.1 (592)
+Martin	NC	10.0	
+  
+9.6 - 14.1 (592)
+Benson	ND	10.0	
+  
+9.6 - 14.1 (592)
+De Baca	NM	10.0	
+  
+9.6 - 14.1 (592)
+Kidder	ND	10.0	
+  
+9.6 - 14.1 (592)
+Vinton	OH	10.0	
+  
+9.6 - 14.1 (592)
+Grant	OR	10.0	
+  
+9.6 - 14.1 (592)
+Curry	OR	10.0	
+  
+9.6 - 14.1 (592)
+McCurtain	OK	10.0	
+  
+9.6 - 14.1 (592)
+Roger Mills	OK	10.0	
+  
+9.6 - 14.1 (592)
+Cheboygan	MI	10.0	
+  
+9.6 - 14.1 (592)
+Adams	MS	10.0	
+  
+9.6 - 14.1 (592)
+Shelby	MO	10.0	
+  
+9.6 - 14.1 (592)
+Petroleum	MT	10.0	
+  
+9.6 - 14.1 (592)
+Franklin	NE	10.0	
+  
+9.6 - 14.1 (592)
+Wheatland	MT	10.0	
+  
+9.6 - 14.1 (592)
+Mississippi	MO	10.0	
+  
+9.6 - 14.1 (592)
+Holt	MO	10.0	
+  
+9.6 - 14.1 (592)
+Bollinger	MO	10.0	
+  
+9.6 - 14.1 (592)
+Worth	MO	10.1	
+  
+9.6 - 14.1 (592)
+Carroll	MS	10.1	
+  
+9.6 - 14.1 (592)
+Franklin	MS	10.1	
+  
+9.6 - 14.1 (592)
+Jefferson Davis	MS	10.1	
+  
+9.6 - 14.1 (592)
+Crawford	MI	10.1	
+  
+9.6 - 14.1 (592)
+Arenac	MI	10.1	
+  
+9.6 - 14.1 (592)
+Union	LA	10.1	
+  
+9.6 - 14.1 (592)
+Seminole	OK	10.1	
+  
+9.6 - 14.1 (592)
+Sequoyah	OK	10.1	
+  
+9.6 - 14.1 (592)
+Ashtabula	OH	10.1	
+  
+9.6 - 14.1 (592)
+Jones	NC	10.1	
+  
+9.6 - 14.1 (592)
+Bertie	NC	10.1	
+  
+9.6 - 14.1 (592)
+Carter	KY	10.1	
+  
+9.6 - 14.1 (592)
+Russell	KY	10.1	
+  
+9.6 - 14.1 (592)
+Pike	KY	10.1	
+  
+9.6 - 14.1 (592)
+Franklin	AR	10.1	
+  
+9.6 - 14.1 (592)
+Barbour	AL	10.1	
+  
+9.6 - 14.1 (592)
+Cherokee	AL	10.1	
+  
+9.6 - 14.1 (592)
+Fayette	AL	10.1	
+  
+9.6 - 14.1 (592)
+Lowndes	AL	10.1	
+  
+9.6 - 14.1 (592)
+Ouachita	AR	10.1	
+  
+9.6 - 14.1 (592)
+Modoc	CA	10.1	
+  
+9.6 - 14.1 (592)
+Costilla	CO	10.1	
+  
+9.6 - 14.1 (592)
+Holmes	FL	10.1	
+  
+9.6 - 14.1 (592)
+Butte	ID	10.1	
+  
+9.6 - 14.1 (592)
+Elbert	GA	10.1	
+  
+9.6 - 14.1 (592)
+Lincoln	GA	10.1	
+  
+9.6 - 14.1 (592)
+Putnam	GA	10.1	
+  
+9.6 - 14.1 (592)
+Coleman	TX	10.1	
+  
+9.6 - 14.1 (592)
+Motley	TX	10.1	
+  
+9.6 - 14.1 (592)
+Kinney	TX	10.1	
+  
+9.6 - 14.1 (592)
+Corson	SD	10.1	
+  
+9.6 - 14.1 (592)
+Mason	WV	10.1	
+  
+9.6 - 14.1 (592)
+Hancock	WV	10.1	
+  
+9.6 - 14.1 (592)
+Barbour	WV	10.1	
+  
+9.6 - 14.1 (592)
+Doddridge	WV	10.1	
+  
+9.6 - 14.1 (592)
+Emporia	VA	10.1	
+  
+9.6 - 14.1 (592)
+Henry	VA	10.1	
+  
+9.6 - 14.1 (592)
+Highland	VA	10.1	
+  
+9.6 - 14.1 (592)
+Randolph	WV	10.2	
+  
+9.6 - 14.1 (592)
+Henry	TN	10.2	
+  
+9.6 - 14.1 (592)
+Unicoi	TN	10.2	
+  
+9.6 - 14.1 (592)
+Culberson	TX	10.2	
+  
+9.6 - 14.1 (592)
+Hamilton	TX	10.2	
+  
+9.6 - 14.1 (592)
+Gilmer	GA	10.2	
+  
+9.6 - 14.1 (592)
+Johnson	GA	10.2	
+  
+9.6 - 14.1 (592)
+Towns	GA	10.2	
+  
+9.6 - 14.1 (592)
+Telfair	GA	10.2	
+  
+9.6 - 14.1 (592)
+Franklin	FL	10.2	
+  
+9.6 - 14.1 (592)
+Early	GA	10.2	
+  
+9.6 - 14.1 (592)
+Monroe	AL	10.2	
+  
+9.6 - 14.1 (592)
+Ashley	AR	10.2	
+  
+9.6 - 14.1 (592)
+Morehouse	LA	10.2	
+  
+9.6 - 14.1 (592)
+Franklin	LA	10.2	
+  
+9.6 - 14.1 (592)
+Concordia	LA	10.2	
+  
+9.6 - 14.1 (592)
+Lawrence	KY	10.2	
+  
+9.6 - 14.1 (592)
+Metcalfe	KY	10.2	
+  
+9.6 - 14.1 (592)
+Decatur	KS	10.2	
+  
+9.6 - 14.1 (592)
+Washington	ID	10.2	
+  
+9.6 - 14.1 (592)
+Halifax	NC	10.2	
+  
+9.6 - 14.1 (592)
+Macon	NC	10.2	
+  
+9.6 - 14.1 (592)
+Kiowa	OK	10.2	
+  
+9.6 - 14.1 (592)
+Cimarron	OK	10.2	
+  
+9.6 - 14.1 (592)
+Sabine	LA	10.2	
+  
+9.6 - 14.1 (592)
+Camden	MO	10.2	
+  
+9.6 - 14.1 (592)
+Sharkey	MS	10.2	
+  
+9.6 - 14.1 (592)
+Tishomingo	MS	10.2	
+  
+9.6 - 14.1 (592)
+Iron	MO	10.2	
+  
+9.6 - 14.1 (592)
+Monroe	MO	10.2	
+  
+9.6 - 14.1 (592)
+Pemiscot	MO	10.3	
+  
+9.6 - 14.1 (592)
+Harrison	MO	10.3	
+  
+9.6 - 14.1 (592)
+Dallas	MO	10.3	
+  
+9.6 - 14.1 (592)
+Clark	MO	10.3	
+  
+9.6 - 14.1 (592)
+Hayes	NE	10.3	
+  
+9.6 - 14.1 (592)
+Mahnomen	MN	10.3	
+  
+9.6 - 14.1 (592)
+Haskell	OK	10.3	
+  
+9.6 - 14.1 (592)
+Marshall	OK	10.3	
+  
+9.6 - 14.1 (592)
+Monroe	KY	10.3	
+  
+9.6 - 14.1 (592)
+Carlisle	KY	10.3	
+  
+9.6 - 14.1 (592)
+Floyd	KY	10.3	
+  
+9.6 - 14.1 (592)
+Clay	AR	10.3	
+  
+9.6 - 14.1 (592)
+Geneva	AL	10.3	
+  
+9.6 - 14.1 (592)
+Choctaw	AL	10.3	
+  
+9.6 - 14.1 (592)
+Phillips	AR	10.3	
+  
+9.6 - 14.1 (592)
+Lee	AR	10.3	
+  
+9.6 - 14.1 (592)
+Madison	FL	10.3	
+  
+9.6 - 14.1 (592)
+Mills	TX	10.3	
+  
+9.6 - 14.1 (592)
+Cocke	TN	10.3	
+  
+9.6 - 14.1 (592)
+Tyler	WV	10.3	
+  
+9.6 - 14.1 (592)
+Boone	WV	10.3	
+  
+9.6 - 14.1 (592)
+Hampshire	WV	10.3	
+  
+9.6 - 14.1 (592)
+Marshall	WV	10.3	
+  
+9.6 - 14.1 (592)
+Upshur	WV	10.4	
+  
+9.6 - 14.1 (592)
+Tucker	WV	10.4	
+  
+9.6 - 14.1 (592)
+Haakon	SD	10.4	
+  
+9.6 - 14.1 (592)
+Red River	TX	10.4	
+  
+9.6 - 14.1 (592)
+Marion	FL	10.4	
+  
+9.6 - 14.1 (592)
+Terrell	GA	10.4	
+  
+9.6 - 14.1 (592)
+Warren	GA	10.4	
+  
+9.6 - 14.1 (592)
+Idaho	ID	10.4	
+  
+9.6 - 14.1 (592)
+Greene	GA	10.4	
+  
+9.6 - 14.1 (592)
+McIntosh	GA	10.4	
+  
+9.6 - 14.1 (592)
+Scott	AR	10.4	
+  
+9.6 - 14.1 (592)
+Wilcox	AL	10.4	
+  
+9.6 - 14.1 (592)
+Desha	AR	10.4	
+  
+9.6 - 14.1 (592)
+Knox	KY	10.4	
+  
+9.6 - 14.1 (592)
+Breathitt	KY	10.4	
+  
+9.6 - 14.1 (592)
+Lemhi	ID	10.4	
+  
+9.6 - 14.1 (592)
+Monroe	OH	10.4	
+  
+9.6 - 14.1 (592)
+Meigs	OH	10.4	
+  
+9.6 - 14.1 (592)
+Pamlico	NC	10.4	
+  
+9.6 - 14.1 (592)
+Hamilton	NY	10.4	
+  
+9.6 - 14.1 (592)
+Sioux	NE	10.4	
+  
+9.6 - 14.1 (592)
+Washington	ME	10.4	
+  
+9.6 - 14.1 (592)
+Lincoln	MT	10.4	
+  
+9.6 - 14.1 (592)
+Mineral	MT	10.4	
+  
+9.6 - 14.1 (592)
+Quitman	MS	10.4	
+  
+9.6 - 14.1 (592)
+Knox	MO	10.4	
+  
+9.6 - 14.1 (592)
+Dent	MO	10.5	
+  
+9.6 - 14.1 (592)
+Clare	MI	10.5	
+  
+9.6 - 14.1 (592)
+Gogebic	MI	10.5	
+  
+9.6 - 14.1 (592)
+Schoolcraft	MI	10.5	
+  
+9.6 - 14.1 (592)
+Clay	NC	10.5	
+  
+9.6 - 14.1 (592)
+Adair	OK	10.5	
+  
+9.6 - 14.1 (592)
+Okfuskee	OK	10.5	
+  
+9.6 - 14.1 (592)
+Jefferson	OK	10.5	
+  
+9.6 - 14.1 (592)
+Pope	IL	10.5	
+  
+9.6 - 14.1 (592)
+Graham	KS	10.5	
+  
+9.6 - 14.1 (592)
+Jackson	KY	10.5	
+  
+9.6 - 14.1 (592)
+Menifee	KY	10.5	
+  
+9.6 - 14.1 (592)
+Clay	KY	10.5	
+  
+9.6 - 14.1 (592)
+Fulton	KY	10.5	
+  
+9.6 - 14.1 (592)
+Winston	AL	10.5	
+  
+9.6 - 14.1 (592)
+Newton	AR	10.5	
+  
+9.6 - 14.1 (592)
+Custer	ID	10.5	
+  
+9.6 - 14.1 (592)
+Seminole	GA	10.5	
+  
+9.6 - 14.1 (592)
+Indian River	FL	10.5	
+  
+9.6 - 14.1 (592)
+Clinch	GA	10.5	
+  
+9.6 - 14.1 (592)
+Menard	TX	10.5	
+  
+9.6 - 14.1 (592)
+Newton	TX	10.5	
+  
+9.6 - 14.1 (592)
+Houston	TX	10.5	
+  
+9.6 - 14.1 (592)
+Fentress	TN	10.5	
+  
+9.6 - 14.1 (592)
+Greenbrier	WV	10.5	
+  
+9.6 - 14.1 (592)
+Lancaster	VA	10.5	
+  
+9.6 - 14.1 (592)
+Lee	VA	10.5	
+  
+9.6 - 14.1 (592)
+Dickenson	VA	10.5	
+  
+9.6 - 14.1 (592)
+Northumberland	VA	10.5	
+  
+9.6 - 14.1 (592)
+Ferry	WA	10.5	
+  
+9.6 - 14.1 (592)
+Hardy	WV	10.6	
+  
+9.6 - 14.1 (592)
+Mercer	WV	10.6	
+  
+9.6 - 14.1 (592)
+Wayne	WV	10.6	
+  
+9.6 - 14.1 (592)
+Nicholas	WV	10.6	
+  
+9.6 - 14.1 (592)
+Jackson	TN	10.6	
+  
+9.6 - 14.1 (592)
+Perry	TN	10.6	
+  
+9.6 - 14.1 (592)
+Fall River	SD	10.6	
+  
+9.6 - 14.1 (592)
+McMullen	TX	10.6	
+  
+9.6 - 14.1 (592)
+Crisp	GA	10.6	
+  
+9.6 - 14.1 (592)
+Dixie	FL	10.6	
+  
+9.6 - 14.1 (592)
+Talbot	GA	10.6	
+  
+9.6 - 14.1 (592)
+Webster	GA	10.6	
+  
+9.6 - 14.1 (592)
+Gila	AZ	10.6	
+  
+9.6 - 14.1 (592)
+Lewis	ID	10.6	
+  
+9.6 - 14.1 (592)
+Latimer	OK	10.6	
+  
+9.6 - 14.1 (592)
+Morgan	OH	10.6	
+  
+9.6 - 14.1 (592)
+Grant	ND	10.6	
+  
+9.6 - 14.1 (592)
+Warren	NC	10.6	
+  
+9.6 - 14.1 (592)
+Ogemaw	MI	10.6	
+  
+9.6 - 14.1 (592)
+Aitkin	MN	10.6	
+  
+9.6 - 14.1 (592)
+Mackinac	MI	10.6	
+  
+9.6 - 14.1 (592)
+Wright	MO	10.6	
+  
+9.6 - 14.1 (592)
+Texas	MO	10.6	
+  
+9.6 - 14.1 (592)
+Gladwin	MI	10.7	
+  
+9.6 - 14.1 (592)
+Webster	LA	10.7	
+  
+9.6 - 14.1 (592)
+Piscataquis	ME	10.7	
+  
+9.6 - 14.1 (592)
+Washington	NC	10.7	
+  
+9.6 - 14.1 (592)
+Northampton	NC	10.7	
+  
+9.6 - 14.1 (592)
+Sheridan	ND	10.7	
+  
+9.6 - 14.1 (592)
+Coal	OK	10.7	
+  
+9.6 - 14.1 (592)
+Alexander	IL	10.7	
+  
+9.6 - 14.1 (592)
+Elliott	KY	10.7	
+  
+9.6 - 14.1 (592)
+Estill	KY	10.7	
+  
+9.6 - 14.1 (592)
+McCreary	KY	10.7	
+  
+9.6 - 14.1 (592)
+Wayne	KY	10.7	
+  
+9.6 - 14.1 (592)
+Mohave	AZ	10.7	
+  
+9.6 - 14.1 (592)
+Wilkes	GA	10.7	
+  
+9.6 - 14.1 (592)
+DeSoto	FL	10.7	
+  
+9.6 - 14.1 (592)
+Marion	TX	10.7	
+  
+9.6 - 14.1 (592)
+Leon	TX	10.7	
+  
+9.6 - 14.1 (592)
+Jackson	SD	10.7	
+  
+9.6 - 14.1 (592)
+Aransas	TX	10.7	
+  
+9.6 - 14.1 (592)
+Benton	TN	10.7	
+  
+9.6 - 14.1 (592)
+Decatur	TN	10.7	
+  
+9.6 - 14.1 (592)
+Fayette	WV	10.7	
+  
+9.6 - 14.1 (592)
+Wetzel	WV	10.8	
+  
+9.6 - 14.1 (592)
+Van Buren	TN	10.8	
+  
+9.6 - 14.1 (592)
+Stonewall	TX	10.8	
+  
+9.6 - 14.1 (592)
+Buchanan	VA	10.8	
+  
+9.6 - 14.1 (592)
+Bath	VA	10.8	
+  
+9.6 - 14.1 (592)
+Levy	FL	10.8	
+  
+9.6 - 14.1 (592)
+Rabun	GA	10.8	
+  
+9.6 - 14.1 (592)
+Cleburne	AR	10.8	
+  
+9.6 - 14.1 (592)
+Trinity	CA	10.8	
+  
+9.6 - 14.1 (592)
+Leslie	KY	10.8	
+  
+9.6 - 14.1 (592)
+Choctaw	OK	10.8	
+  
+9.6 - 14.1 (592)
+Reynolds	MO	10.8	
+  
+9.6 - 14.1 (592)
+Montgomery	MS	10.8	
+  
+9.6 - 14.1 (592)
+Dade	MO	10.8	
+  
+9.6 - 14.1 (592)
+Cedar	MO	10.9	
+  
+9.6 - 14.1 (592)
+Keya Paha	NE	10.9	
+  
+9.6 - 14.1 (592)
+Iron	MI	10.9	
+  
+9.6 - 14.1 (592)
+Presque Isle	MI	10.9	
+  
+9.6 - 14.1 (592)
+McIntosh	ND	10.9	
+  
+9.6 - 14.1 (592)
+Cherokee	NC	10.9	
+  
+9.6 - 14.1 (592)
+Pawnee	NE	10.9	
+  
+9.6 - 14.1 (592)
+Hickman	KY	10.9	
+  
+9.6 - 14.1 (592)
+Robertson	KY	10.9	
+  
+9.6 - 14.1 (592)
+Woodruff	AR	10.9	
+  
+9.6 - 14.1 (592)
+Conecuh	AL	10.9	
+  
+9.6 - 14.1 (592)
+Fannin	GA	10.9	
+  
+9.6 - 14.1 (592)
+Taylor	GA	10.9	
+  
+9.6 - 14.1 (592)
+Concho	TX	10.9	
+  
+9.6 - 14.1 (592)
+Piute	UT	11.0	
+  
+9.6 - 14.1 (592)
+Throckmorton	TX	11.0	
+  
+9.6 - 14.1 (592)
+Trinity	TX	11.0	
+  
+9.6 - 14.1 (592)
+Monroe	WV	11.0	
+  
+9.6 - 14.1 (592)
+Ritchie	WV	11.0	
+  
+9.6 - 14.1 (592)
+Hancock	GA	11.0	
+  
+9.6 - 14.1 (592)
+Baker	GA	11.0	
+  
+9.6 - 14.1 (592)
+Baxter	AR	11.0	
+  
+9.6 - 14.1 (592)
+Polk	AR	11.0	
+  
+9.6 - 14.1 (592)
+Green	KY	11.0	
+  
+9.6 - 14.1 (592)
+Cumberland	KY	11.0	
+  
+9.6 - 14.1 (592)
+Nye	NV	11.0	
+  
+9.6 - 14.1 (592)
+Wheeler	OR	11.0	
+  
+9.6 - 14.1 (592)
+Oscoda	MI	11.0	
+  
+9.6 - 14.1 (592)
+Humphreys	MS	11.0	
+  
+9.6 - 14.1 (592)
+Iosco	MI	11.0	
+  
+9.6 - 14.1 (592)
+Sanders	MT	11.0	
+  
+9.6 - 14.1 (592)
+Ripley	MO	11.0	
+  
+9.6 - 14.1 (592)
+Douglas	MO	11.0	
+  
+9.6 - 14.1 (592)
+Stone	MO	11.1	
+  
+9.6 - 14.1 (592)
+Shannon	MO	11.1	
+  
+9.6 - 14.1 (592)
+Pushmataha	OK	11.1	
+  
+9.6 - 14.1 (592)
+Clinton	KY	11.1	
+  
+9.6 - 14.1 (592)
+Letcher	KY	11.1	
+  
+9.6 - 14.1 (592)
+Owsley	KY	11.1	
+  
+9.6 - 14.1 (592)
+Claiborne	LA	11.1	
+  
+9.6 - 14.1 (592)
+Bienville	LA	11.1	
+  
+9.6 - 14.1 (592)
+Chautauqua	KS	11.1	
+  
+9.6 - 14.1 (592)
+Perry	AL	11.1	
+  
+9.6 - 14.1 (592)
+Putnam	FL	11.1	
+  
+9.6 - 14.1 (592)
+Grant	WV	11.1	
+  
+9.6 - 14.1 (592)
+Johnson	TN	11.1	
+  
+9.6 - 14.1 (592)
+Briscoe	TX	11.2	
+  
+9.6 - 14.1 (592)
+Terrell	TX	11.2	
+  
+9.6 - 14.1 (592)
+Hall	TX	11.2	
+  
+9.6 - 14.1 (592)
+Wyoming	WV	11.2	
+  
+9.6 - 14.1 (592)
+Izard	AR	11.2	
+  
+9.6 - 14.1 (592)
+Monroe	AR	11.2	
+  
+9.6 - 14.1 (592)
+Jewell	KS	11.2	
+  
+9.6 - 14.1 (592)
+Magoffin	KY	11.2	
+  
+9.6 - 14.1 (592)
+Delaware	OK	11.2	
+  
+9.6 - 14.1 (592)
+Alleghany	NC	11.2	
+  
+9.6 - 14.1 (592)
+St. Clair	MO	11.2	
+  
+9.6 - 14.1 (592)
+Morgan	MO	11.2	
+  
+9.6 - 14.1 (592)
+Amite	MS	11.2	
+  
+9.6 - 14.1 (592)
+Cameron	PA	11.3	
+  
+9.6 - 14.1 (592)
+Knott	KY	11.3	
+  
+9.6 - 14.1 (592)
+Harlan	KY	11.3	
+  
+9.6 - 14.1 (592)
+Elk	KS	11.3	
+  
+9.6 - 14.1 (592)
+Bell	KY	11.3	
+  
+9.6 - 14.1 (592)
+Chicot	AR	11.3	
+  
+9.6 - 14.1 (592)
+Summers	WV	11.3	
+  
+9.6 - 14.1 (592)
+Lincoln	WV	11.3	
+  
+9.6 - 14.1 (592)
+Cottle	TX	11.3	
+  
+9.6 - 14.1 (592)
+Kimble	TX	11.3	
+  
+9.6 - 14.1 (592)
+McCormick	SC	11.3	
+  
+9.6 - 14.1 (592)
+Foard	TX	11.4	
+  
+9.6 - 14.1 (592)
+Union	GA	11.4	
+  
+9.6 - 14.1 (592)
+Roscommon	MI	11.4	
+  
+9.6 - 14.1 (592)
+Montmorency	MI	11.4	
+  
+9.6 - 14.1 (592)
+Prairie	MT	11.5	
+  
+9.6 - 14.1 (592)
+Lafayette	AR	11.5	
+  
+9.6 - 14.1 (592)
+Van Buren	AR	11.5	
+  
+9.6 - 14.1 (592)
+Casey	KY	11.5	
+  
+9.6 - 14.1 (592)
+Lee	KY	11.5	
+  
+9.6 - 14.1 (592)
+East Carroll	LA	11.5	
+  
+9.6 - 14.1 (592)
+Hancock	TN	11.5	
+  
+9.6 - 14.1 (592)
+Cumberland	TN	11.5	
+  
+9.6 - 14.1 (592)
+Logan	WV	11.5	
+  
+9.6 - 14.1 (592)
+Mingo	WV	11.6	
+  
+9.6 - 14.1 (592)
+Llano	TX	11.6	
+  
+9.6 - 14.1 (592)
+Lewis	KY	11.6	
+  
+9.6 - 14.1 (592)
+Marion	AR	11.6	
+  
+9.6 - 14.1 (592)
+Montgomery	AR	11.6	
+  
+9.6 - 14.1 (592)
+Mineral	NV	11.6	
+  
+9.6 - 14.1 (592)
+Sierra	NM	11.7	
+  
+9.6 - 14.1 (592)
+McIntosh	OK	11.7	
+  
+9.6 - 14.1 (592)
+Oregon	MO	11.7	
+  
+9.6 - 14.1 (592)
+Sharp	AR	11.7	
+  
+9.6 - 14.1 (592)
+Pickett	TN	11.7	
+  
+9.6 - 14.1 (592)
+Roane	WV	11.7	
+  
+9.6 - 14.1 (592)
+Wirt	WV	11.7	
+  
+9.6 - 14.1 (592)
+Braxton	WV	11.7	
+  
+9.6 - 14.1 (592)
+Pendleton	WV	11.8	
+  
+9.6 - 14.1 (592)
+Mellette	SD	11.8	
+  
+9.6 - 14.1 (592)
+San Augustine	TX	11.8	
+  
+9.6 - 14.1 (592)
+Quitman	GA	11.8	
+  
+9.6 - 14.1 (592)
+Glades	FL	11.8	
+  
+9.6 - 14.1 (592)
+Charlotte	FL	11.8	
+  
+9.6 - 14.1 (592)
+Benton	MO	11.8	
+  
+9.6 - 14.1 (592)
+Alcona	MI	11.9	
+  
+9.6 - 14.1 (592)
+Greene	AL	11.9	
+  
+9.6 - 14.1 (592)
+Citrus	FL	12.0	
+  
+9.6 - 14.1 (592)
+Wayne	MO	12.0	
+  
+9.6 - 14.1 (592)
+King	TX	12.0	
+  
+9.6 - 14.1 (592)
+Clay	TN	12.0	
+  
+9.6 - 14.1 (592)
+Clay	WV	12.1	
+  
+9.6 - 14.1 (592)
+Harding	NM	12.1	
+  
+9.6 - 14.1 (592)
+Clay	GA	12.2	
+  
+9.6 - 14.1 (592)
+Taliaferro	GA	12.2	
+  
+9.6 - 14.1 (592)
+Fulton	AR	12.2	
+  
+9.6 - 14.1 (592)
+Pocahontas	WV	12.2	
+  
+9.6 - 14.1 (592)
+Sabine	TX	12.2	
+  
+9.6 - 14.1 (592)
+Jeff Davis	TX	12.3	
+  
+9.6 - 14.1 (592)
+Searcy	AR	12.3	
+  
+9.6 - 14.1 (592)
+Lake	MI	12.3	
+  
+9.6 - 14.1 (592)
+Ontonagon	MI	12.3	
+  
+9.6 - 14.1 (592)
+Highlands	FL	12.4	
+  
+9.6 - 14.1 (592)
+Edwards	TX	12.4	
+  
+9.6 - 14.1 (592)
+Real	TX	12.4	
+  
+9.6 - 14.1 (592)
+Calhoun	WV	12.4	
+  
+9.6 - 14.1 (592)
+Noble	OH	12.5	
+  
+9.6 - 14.1 (592)
+Randolph	GA	12.6	
+  
+9.6 - 14.1 (592)
+Hickory	MO	12.7	
+  
+9.6 - 14.1 (592)
+Stone	AR	12.8	
+  
+9.6 - 14.1 (592)
+Tensas	LA	12.9	
+  
+9.6 - 14.1 (592)
+Webster	WV	12.9	
+  
+9.6 - 14.1 (592)
+Wolfe	KY	13.0	
+  
+9.6 - 14.1 (592)
+Sumter	FL	13.4	
+  
+9.6 - 14.1 (592)
+Esmeralda	NV	13.4	
+  
+9.6 - 14.1 (592)
+Presidio	TX	13.4	
+  
+9.6 - 14.1 (592)
+McDowell	WV	13.6	
+  
+9.6 - 14.1 (592)
+Ozark	MO	13.7	
+  
+9.6 - 14.1 (592)
+Catron	NM	13.9	
+  
+9.6 - 14.1 (592)
+La Paz	AZ	14.1	
+  
+9.6 - 14.1 (592)
