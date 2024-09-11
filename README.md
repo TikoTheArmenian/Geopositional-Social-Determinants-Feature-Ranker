@@ -1,13 +1,6 @@
 # FEATURE RANKER
-featureranker is a lightweight Python package for the feature ranking ensemble developed by Logan Hallee, featured in the following works:
+This featureranker is a variation of Logan Hallee's original adapted to be used for geopositional data.
 
-[Machine learning classifiers predict key genomic and evolutionary traits across the kingdoms of life](https://www.nature.com/articles/s41598-023-28965-7)
-
-[cdsBERT - Extending Protein Language Models with Codon Awareness](https://www.biorxiv.org/content/10.1101/2023.09.15.558027v1.abstract)
-
-[Exploring Phylogenetic Classification and Further Applications of Codon Usage Frequencies](https://www.biorxiv.org/content/10.1101/2022.07.20.500846v1.abstract)
-
-The ensemble utilizes l1 penalization, random forests, extreme gradient boosting, ANOVA F values, and mutual information to effectively rank the importance of features for regression and classification tasks. Scoring lists are concatenated with a weighted voting scheme.
 
 ## Usage
 
